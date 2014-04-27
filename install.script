@@ -9,12 +9,19 @@ sudo add-apt-repository -y ppa:team-xbmc/unstable
 sudo add-apt-repository -y ppa:webupd8team/java
 sudo add-apt-repository -y ppa:team-xbmc/ppa
 
+#google chrome reporsitories
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add - 
+sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
+
 #cleanup
 sudo apt-get update
 sudo apt-get -y upgrade
 
 #install open ssh
 sudo apt-get install -y openssh-server
+
+#install google chrome (unstable)
+sudo apt-get install -y google-chrome-unstable
 
 #install zsh
 sudo apt-get install -y zsh
