@@ -56,6 +56,7 @@ sudo dpkg -i python-apsw_3.7.6.3-r1-1build1_amd64.deb
 
 sudo apt-get install -y acestream-engine
 
-#testing
-echo Testing Acestreams
+cd ~/Downloads/
+git clone https://github.com/roeiba/xbmc.git
+
 
