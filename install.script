@@ -34,6 +34,8 @@ sudo apt-get install -y xbmc xbmc-bin
 
 #install SopCast
 cd /tmp
+mkdir sopcast
+cd sopcast
 wget http://www.sopcast.com/download/libstdcpp5.tgz
 tar -xvf libstdcpp5.tgz
 cd usr/lib
