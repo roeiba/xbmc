@@ -1,0 +1,61 @@
+sudo apt-get install -y vim curl git
+
+#install required reporsitories
+
+#xbmc repository
+sudo add-apt-repository -y ppa:team-xbmc/unstable
+
+#java reporsitories
+sudo add-apt-repository -y ppa:webupd8team/java
+sudo add-apt-repository -y ppa:team-xbmc/ppa
+
+#cleanup
+sudo apt-get update
+sudo apt-get -y upgrade
+
+#install open ssh
+sudo apt-get install -y openssh-server
+
+#install zsh
+sudo apt-get install -y zsh
+
+#install oh my zsh
+curl -L http://install.ohmyz.sh | sh
+
+#set zsh as default
+chsh -s /bin/zsh
+
+#install xbmc
+sudo apt-get install -y xbmc xbmc-bin
+
+#installing JAVA
+sudo apt-get install -y oracle-java8-installer
+
+mkdir ~/Minecraft
+cd ~/Mincraft
+wget https://s3.amazonaws.com/Minecraft.Download/launcher/Minecraft.jar
+
+#install SopCast
+cd /tmp
+wget http://www.sopcast.com/download/libstdcpp5.tgz
+tar -xvf libstdcpp5.tgz
+cd usr/lib
+sudo mv * /usr/lib
+
+#installing p2p streams
+#taken from: https://code.google.com/p/p2p-strm/wiki/AcestreamEngineLinuxENG
+sudo echo "deb http://repo.acestream.org/ubuntu/ raring main" >> /etc/apt/sources.list
+
+sudo wget -O - http://repo.acestream.org/keys/acestream.public.key | sudo apt-key add -
+
+sudo apt-get update
+
+cd /tmp
+wget http://mirrors.kernel.org/ubuntu/pool/universe/p/python-apsw/python-apsw_3.7.6.3-r1-1build1_amd64.deb
+sudo dpkg -i python-apsw_3.7.6.3-r1-1build1_amd64.deb
+
+sudo apt-get install -y acestream-engine
+
+#testing
+echo Testing Acestreams
+
