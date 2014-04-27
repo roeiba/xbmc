@@ -1,0 +1,319 @@
+﻿18:22:14 T:139825119610816  NOTICE: special://profile/ is mapped to: special://masterprofile/
+18:22:14 T:139825119610816  NOTICE: -----------------------------------------------------------------------
+18:22:14 T:139825119610816  NOTICE: Starting XBMC (13.0-BETA4 Git:482ccd3). Platform: x86 Linux 64-bit
+18:22:14 T:139825119610816  NOTICE: Using Release XBMC x64 build, compiled Apr 19 2014 by GCC 4.8.2 for x86 Linux 64-bit 3.13.9
+18:22:14 T:139825119610816  NOTICE: Running on Linux 64-bit (Ubuntu 14.04 LTS, 3.13.0-24-generic x86_64)
+18:22:14 T:139825119610816  NOTICE: Host CPU: Intel(R) Celeron(R) CPU N2820 @ 2.13GHz, 2 cores available
+18:22:14 T:139825119610816  NOTICE: special://xbmc/ is mapped to: /usr/share/xbmc
+18:22:14 T:139825119610816  NOTICE: special://xbmcbin/ is mapped to: /usr/lib/xbmc
+18:22:14 T:139825119610816  NOTICE: special://masterprofile/ is mapped to: /home/xbmc/.xbmc/userdata
+18:22:14 T:139825119610816  NOTICE: special://home/ is mapped to: /home/xbmc/.xbmc
+18:22:14 T:139825119610816  NOTICE: special://temp/ is mapped to: /home/xbmc/.xbmc/temp
+18:22:14 T:139825119610816  NOTICE: The executable running is: /usr/lib/xbmc/xbmc.bin
+18:22:14 T:139825119610816  NOTICE: Local hostname: xbmc-nuc
+18:22:14 T:139825119610816  NOTICE: Log File is located: /home/xbmc/.xbmc/temp/xbmc.log
+18:22:14 T:139825119610816  NOTICE: -----------------------------------------------------------------------
+18:22:14 T:139825119610816  NOTICE: load settings...
+18:22:14 T:139825119610816   ERROR: Unable to load libcrystalhd.so.3, reason: libcrystalhd.so.3: cannot open shared object file: No such file or directory
+18:22:14 T:139825119610816  NOTICE: Found 1 Lists of Devices
+18:22:14 T:139825119610816  NOTICE: Enumerated PULSE devices:
+18:22:14 T:139825119610816  NOTICE:     Device 1
+18:22:14 T:139825119610816  NOTICE:         m_deviceName      : Default
+18:22:14 T:139825119610816  NOTICE:         m_displayName     : Default
+18:22:14 T:139825119610816  NOTICE:         m_displayNameExtra: Default Output Device (PULSEAUDIO)
+18:22:14 T:139825119610816  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+18:22:14 T:139825119610816  NOTICE:         m_channels        : FL,FR
+18:22:14 T:139825119610816  NOTICE:         m_sampleRates     : 5512,8000,11025,16000,22050,32000,44100,48000,64000,88200,96000,176400,192000,384000
+18:22:14 T:139825119610816  NOTICE:         m_dataFormats     : AE_FMT_U8,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_S16NE,AE_FMT_S24LE3,AE_FMT_S24BE3,AE_FMT_S24NE3,AE_FMT_S24LE4,AE_FMT_S24BE4,AE_FMT_S24NE4,AE_FMT_S32BE,AE_FMT_S32LE,AE_FMT_S32NE,AE_FMT_FLOAT
+18:22:14 T:139825119610816  NOTICE:     Device 2
+18:22:14 T:139825119610816  NOTICE:         m_deviceName      : alsa_output.pci-0000_00_1b.0.analog-stereo
+18:22:14 T:139825119610816  NOTICE:         m_displayName     : Built-in Audio Analog Stereo
+18:22:14 T:139825119610816  NOTICE:         m_displayNameExtra: Headphones (PULSEAUDIO)
+18:22:14 T:139825119610816  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+18:22:14 T:139825119610816  NOTICE:         m_channels        : FL,FR
+18:22:14 T:139825119610816  NOTICE:         m_sampleRates     : 5512,8000,11025,16000,22050,32000,44100,48000,64000,88200,96000,176400,192000,384000
+18:22:14 T:139825119610816  NOTICE:         m_dataFormats     : AE_FMT_U8,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_S16NE,AE_FMT_S24LE3,AE_FMT_S24BE3,AE_FMT_S24NE3,AE_FMT_S24LE4,AE_FMT_S24BE4,AE_FMT_S24NE4,AE_FMT_S32BE,AE_FMT_S32LE,AE_FMT_S32NE,AE_FMT_FLOAT
+18:22:14 T:139825119610816  NOTICE: No settings file to load (special://xbmc/system/advancedsettings.xml)
+18:22:14 T:139825119610816  NOTICE: Loaded settings file from special://profile/advancedsettings.xml
+18:22:14 T:139825119610816  NOTICE: Contents of special://profile/advancedsettings.xml are...
+                                            <advancedsettings>
+                                              <network>
+                                                <cachemembuffersize>252420</cachemembuffersize>
+                                                <curlclienttimeout>45</curlclienttimeout>
+                                              </network>
+                                              <gui>
+                                                <algorithmdirtyregions>3</algorithmdirtyregions>
+                                                <nofliptimeout>0</nofliptimeout>
+                                              </gui>
+                                              <videoscanner>
+                                                <ignoreerrors>true</ignoreerrors>
+                                              </videoscanner>
+                                            </advancedsettings>
+18:22:14 T:139825119610816  NOTICE: Default DVD Player: dvdplayer
+18:22:14 T:139825119610816  NOTICE: Default Video Player: dvdplayer
+18:22:14 T:139825119610816  NOTICE: Default Audio Player: paplayer
+18:22:14 T:139825119610816  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+18:22:14 T:139825119610816  NOTICE: Log level changed to 0
+18:22:14 T:139825119610816  NOTICE: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
+18:22:14 T:139825119610816  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+18:22:14 T:139825119610816  NOTICE: Loaded playercorefactory configuration
+18:22:14 T:139825119610816  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+18:22:14 T:139825119610816  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+18:22:14 T:139824658159360  NOTICE: Thread ActiveAE start, auto delete: false
+18:22:14 T:139824718051072  NOTICE: Thread AESink start, auto delete: false
+18:22:14 T:139825119610816  NOTICE: Running database version Addons16
+18:22:15 T:139825119610816  NOTICE: ADDONS: Using repository repository.xbmc.org
+18:22:15 T:139825119610816  NOTICE: ADDONS: Using repository repository.xbmc-israel
+18:22:15 T:139825119610816  NOTICE: ADDONS: Using repository repository.TheWiz
+18:22:15 T:139825119610816  NOTICE: ADDONS: Using repository plugin.video.xbmctorrent
+18:22:15 T:139825119610816  NOTICE: ADDONS: Using repository repository.p2p-streams.xbmc
+18:22:15 T:139824692061952  NOTICE: Thread PeripBusCEC start, auto delete: false
+18:22:15 T:139824683669248  NOTICE: Thread PeripBusUSBUdev start, auto delete: false
+18:22:15 T:139825119610816  NOTICE: Setup SDL
+18:22:15 T:139825119610816  NOTICE: Checking resolution 15
+18:22:16 T:139825119610816  NOTICE: Using visual 0x21
+18:22:16 T:139825119610816  NOTICE: GL_VENDOR = Intel Open Source Technology Center
+18:22:16 T:139825119610816  NOTICE: GL_RENDERER = Mesa DRI Intel(R) Bay Trail
+18:22:16 T:139825119610816  NOTICE: GL_VERSION = 3.0 Mesa 10.1.0
+18:22:16 T:139825119610816  NOTICE: GL_SHADING_LANGUAGE_VERSION = 1.30
+18:22:16 T:139825119610816  NOTICE: GL_EXTENSIONS = GL_ARB_multisample GL_EXT_abgr GL_EXT_bgra GL_EXT_blend_color GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_copy_texture GL_EXT_polygon_offset GL_EXT_subtexture GL_EXT_texture_object GL_EXT_vertex_array GL_EXT_compiled_vertex_array GL_EXT_texture GL_EXT_texture3D GL_IBM_rasterpos_clip GL_ARB_point_parameters GL_EXT_draw_range_elements GL_EXT_packed_pixels GL_EXT_point_parameters GL_EXT_rescale_normal GL_EXT_separate_specular_color GL_EXT_texture_edge_clamp GL_SGIS_generate_mipmap GL_SGIS_texture_border_clamp GL_SGIS_texture_edge_clamp GL_SGIS_texture_lod GL_ARB_framebuffer_sRGB GL_ARB_multitexture GL_EXT_framebuffer_sRGB GL_IBM_multimode_draw_arrays GL_IBM_texture_mirrored_repeat GL_3DFX_texture_compression_FXT1 GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_transpose_matrix GL_EXT_blend_func_separate GL_EXT_fog_coord GL_EXT_multi_draw_arrays GL_EXT_secondary_color GL_EXT_texture_env_add GL_EXT_texture_filter_anisotropic GL_EXT_texture_lod_bias GL_INGR_blend_func_separate GL_NV_blend_square GL_NV_light_max_exponent GL_NV_texgen_reflection GL_NV_texture_env_combine4 GL_S3_s3tc GL_SUN_multi_draw_arrays GL_ARB_texture_border_clamp GL_ARB_texture_compression GL_EXT_framebuffer_object GL_EXT_texture_compression_s3tc GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_MESA_window_pos GL_NV_packed_depth_stencil GL_NV_texture_rectangle GL_ARB_depth_texture GL_ARB_occlusion_query GL_ARB_shadow GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_mirrored_repeat GL_ARB_window_pos GL_ATI_envmap_bumpmap GL_EXT_stencil_two_side GL_EXT_texture_cube_map GL_NV_depth_clamp GL_APPLE_packed_pixels GL_APPLE_vertex_array_object GL_ARB_draw_buffers GL_ARB_fragment_program GL_ARB_fragment_shader GL_ARB_shader_objects GL_ARB_vertex_program GL_ARB_vertex_shader GL_ATI_draw_buffers GL_ATI_texture_env_combine3 GL_ATI_texture_float GL_EXT_shadow_funcs GL_EXT_stencil_wrap GL_MESA_pack_invert GL_MESA_ycbcr_texture GL_NV_primitive_restart GL_ARB_depth_clamp GL_ARB_fragment_program_shadow GL_ARB_half_float_pixel GL_ARB_occlusion_query2 GL_ARB_point_sprite GL_ARB_shading_language_100 GL_ARB_sync GL_ARB_texture_non_power_of_two GL_ARB_vertex_buffer_object GL_ATI_blend_equation_separate GL_EXT_blend_equation_separate GL_OES_read_format GL_ARB_color_buffer_float GL_ARB_pixel_buffer_object GL_ARB_texture_compression_rgtc GL_ARB_texture_float GL_ARB_texture_rectangle GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_rectangle GL_EXT_texture_sRGB GL_EXT_texture_shared_exponent GL_ARB_framebuffer_object GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_packed_depth_stencil GL_APPLE_object_purgeable GL_ARB_vertex_array_object GL_ATI_separate_stencil GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_gpu_program_parameters GL_EXT_texture_array GL_EXT_texture_integer GL_EXT_texture_sRGB_decode GL_EXT_timer_query GL_OES_EGL_image GL_AMD_performance_monitor GL_ARB_copy_buffer GL_ARB_depth_buffer_float GL_ARB_draw_instanced GL_ARB_half_float_vertex GL_ARB_instanced_arrays GL_ARB_map_buffer_range GL_ARB_texture_rg GL_ARB_texture_swizzle GL_ARB_vertex_array_bgra GL_EXT_separate_shader_objects GL_EXT_texture_swizzle GL_EXT_vertex_array_bgra GL_NV_conditional_render GL_AMD_conservative_depth GL_AMD_draw_buffers_blend GL_AMD_seamless_cubemap_per_texture GL_ARB_ES2_compatibility GL_ARB_blend_func_extended GL_ARB_debug_output GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_explicit_attrib_location GL_ARB_fragment_coord_conventions GL_ARB_provoking_vertex GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_shader_texture_lod GL_ARB_texture_cube_map_array GL_ARB_texture_gather GL_ARB_texture_multisample GL_ARB_texture_query_lod GL_ARB_texture_rgb10_a2ui GL_ARB_uniform_buffer_object GL_ARB_vertex_type_2_10_10_10_rev GL_EXT_provoking_vertex GL_EXT_texture_snorm GL_MESA_texture_signed_rgba GL_ARB_get_program_binary GL_ARB_robustness GL_ARB_shader_bit_encoding GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_conservative_depth GL_ARB_internalformat_query GL_ARB_map_buffer_alignment GL_ARB_shader_atomic_counters GL_ARB_shading_language_420pack GL_ARB_shading_language_packing GL_ARB_texture_storage GL_ARB_transform_feedback_instanced GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_transform_feedback GL_AMD_shader_trinary_minmax GL_ARB_ES3_compatibility GL_ARB_clear_buffer_object GL_ARB_invalidate_subdata GL_ARB_texture_query_levels GL_ARB_texture_storage_multisample GL_ARB_vertex_attrib_binding GL_KHR_debug GL_ARB_texture_mirror_clamp_to_edge GL_ARB_vertex_type_10f_11f_11f_rev GL_EXT_shader_integer_mix
+18:22:16 T:139825119610816  NOTICE: No Joystick name specified, loading default map
+18:22:16 T:139825119610816  NOTICE: Previous line repeats 35 times.
+18:22:16 T:139825119610816  NOTICE: Running database version Addons16
+18:22:16 T:139825119610816  NOTICE: Running database version ViewModes6
+18:22:16 T:139825119610816  NOTICE: Running database version Textures13
+18:22:16 T:139825119610816  NOTICE: Running database version MyMusic46
+18:22:16 T:139825119610816  NOTICE: Running database version MyVideos78
+18:22:16 T:139825119610816  NOTICE: Running database version TV22
+18:22:16 T:139825119610816  NOTICE: Running database version Epg7
+18:22:16 T:139825119610816  NOTICE: start dvd mediatype detection
+18:22:16 T:139825119610816  NOTICE: initializing playlistplayer
+18:22:16 T:139825119610816  NOTICE: DONE initializing playlistplayer
+18:22:16 T:139825118693120  NOTICE: Thread DetectDVDMedia start, auto delete: false
+18:22:18 T:139825119610816 WARNING: JSONRPC: Could not parse type "GUI.Property.Value"
+18:22:18 T:139825119610816 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+18:22:18 T:139824294426368  NOTICE: Thread LanguageInvoker start, auto delete: false
+18:22:18 T:139824044427008  NOTICE: Previous line repeats 4 times.
+18:22:18 T:139824044427008  NOTICE: Thread JobWorker start, auto delete: true
+18:22:18 T:139824044427008  NOTICE: PVRManager - starting up
+18:22:18 T:139825119610816  NOTICE: UpdateLibraries - Starting video library startup scan
+18:22:18 T:139824027641600  NOTICE: Thread LanguageInvoker start, auto delete: false
+18:22:18 T:139824019248896  NOTICE: Previous line repeats 1 times.
+18:22:18 T:139824019248896  NOTICE: Thread PVRManager start, auto delete: false
+18:22:18 T:139824036034304  NOTICE: Thread LanguageInvoker start, auto delete: false
+18:22:18 T:139823599843072  NOTICE: Thread VideoInfoScanner start, auto delete: false
+18:22:18 T:139825119610816  NOTICE: initialize done
+18:22:18 T:139825119610816  NOTICE: Running the application...
+18:22:18 T:139823591450368  NOTICE: Thread LanguageInvoker start, auto delete: false
+18:22:18 T:139823583057664  NOTICE: Thread PVRClient start, auto delete: false
+18:22:18 T:139823583057664  NOTICE: AddOnLog: PVR IPTV Simple Client: Loaded 353 channels.
+18:22:18 T:139824069605120  NOTICE: -->Python Interpreter Initialized<--
+18:22:18 T:139824302819072  NOTICE: -->Python Interpreter Initialized<--
+18:22:18 T:139824286033664  NOTICE: -->Python Interpreter Initialized<--
+18:22:18 T:139823591450368  NOTICE: -->Python Interpreter Initialized<--
+18:22:18 T:139824027641600  NOTICE: -->Python Interpreter Initialized<--
+18:22:18 T:139824036034304  NOTICE: -->Python Interpreter Initialized<--
+18:22:18 T:139824052819712  NOTICE: -->Python Interpreter Initialized<--
+18:22:19 T:139823568283392  NOTICE: Thread LanguageInvoker start, auto delete: false
+18:22:19 T:139824061212416  NOTICE: -->Python Interpreter Initialized<--
+18:22:19 T:139825119610816  NOTICE: starting zeroconf publishing
+18:22:19 T:139825119610816  NOTICE: Webserver: Starting...
+18:22:19 T:139825119610816  NOTICE: WebServer: Started the webserver
+18:22:19 T:139825119610816  NOTICE: ES: Starting event server
+18:22:19 T:139823599843072  NOTICE: VideoInfoScanner: Starting scan ..
+18:22:19 T:139823599843072 WARNING: Process directory '/media/eyal/mv6/tv/Boardwalk Empire/' does not exist - skipping scan.
+18:22:19 T:139823599843072 WARNING: Process directory '/media/eyal/mv6/tv/Grey's Anatomy/' does not exist - skipping scan.
+18:22:19 T:139823599843072 WARNING: Process directory '/media/eyal/mv6/tv/Modern Family/' does not exist - skipping scan.
+18:22:19 T:139823599843072 WARNING: Process directory '/media/eyal/mv6/tv/Seinfeld/' does not exist - skipping scan.
+18:22:19 T:139823599843072 WARNING: Process directory '/media/eyal/mv6/tv/The Americans (2013)/' does not exist - skipping scan.
+18:22:19 T:139823599843072  NOTICE: VideoInfoScanner: Finished scan. Scanning for video info took 00:00
+18:22:19 T:139823390123776  NOTICE: Thread TCPServer start, auto delete: false
+18:22:19 T:139823398516480  NOTICE: Thread EventServer start, auto delete: false
+18:22:19 T:139823398516480  NOTICE: ES: Starting UDP Event server on 0.0.0.0:9777
+18:22:19 T:139823398516480  NOTICE: UDP: Listening on port 9777
+18:22:19 T:139823599843072  NOTICE: Thread JobWorker start, auto delete: true
+18:22:19 T:139824061212416  NOTICE: RCB Service: Start
+18:22:19 T:139824061212416  NOTICE: RCB Service: launch RCB on startup =
+18:22:19 T:139824061212416  NOTICE: RCB Service: scrape games on startup = false
+18:22:19 T:139824061212416  NOTICE: RCB Service: Done
+18:22:19 T:139823568283392  NOTICE: -->Python Interpreter Initialized<--
+18:22:19 T:139824061212416  NOTICE: Thread JobWorker start, auto delete: true
+18:22:19 T:139824294426368  NOTICE: -->Python Interpreter Initialized<--
+18:22:20 T:139824069605120  NOTICE: Thread LanguageInvoker start, auto delete: false
+18:22:20 T:139824036034304  NOTICE: RCB started
+18:22:20 T:139824036034304  NOTICE: RCB: sys.argv = ['script.games.rom.collection.browser', 'limit=12']
+18:22:20 T:139824036034304  NOTICE: RCB: param = script.games.rom.collection.browser
+18:22:20 T:139824036034304  NOTICE: RCB: setting launchRCB = True
+18:22:20 T:139824036034304  NOTICE: RCB: param = limit=12
+18:22:20 T:139824036034304  NOTICE: RCB: setting launchRCB = False
+18:22:20 T:139824036034304  NOTICE: start gatherWidgetData
+18:22:20 T:139824036034304  NOTICE: RCB_INFO: Loading sqlite3 as DB engine
+18:22:20 T:139823350478592  NOTICE: Thread AlarmClock start, auto delete: false
+18:22:21 T:139825118693120  NOTICE: Thread RSSReader start, auto delete: false
+18:22:21 T:139824036034304  NOTICE: RCB: init log level
+18:22:21 T:139824036034304  NOTICE: RCB: current log level: 2
+18:22:21 T:139824036034304  NOTICE: RCB_INFO: Loading sqlite3 as DB engine
+18:22:21 T:139824069605120  NOTICE: -->Python Interpreter Initialized<--
+18:22:21 T:139823591450368  NOTICE:  StorageServer Module loaded RUN
+18:22:21 T:139823591450368  NOTICE: StorageClient-2.5.4 Starting server
+18:22:21 T:139823591450368  NOTICE: StorageServer-2.5.4 Storage Server starting /home/xbmc/.xbmc/temp/commoncache.db
+18:22:21 T:139824036034304  NOTICE: /home/xbmc/.xbmc/userdata/addon_data/script.games.rom.collection.browser/MyGames.db
+18:22:21 T:139824036034304  NOTICE: RCB: No database available. Won't gather any data.
+18:22:21 T:139824036034304  NOTICE: close Connection
+18:22:21 T:139824036034304  NOTICE: RCB: launchRCB = False
+18:22:21 T:139824294426368  NOTICE: Thread PVRGUIInfo start, auto delete: false
+18:22:21 T:139823568283392  NOTICE: Thread EPGUpdater start, auto delete: false
+18:22:21 T:139824019248896  NOTICE: Start - EPG thread started
+18:22:21 T:139824027641600  NOTICE: script.tv.show.next.aired: ### TV Show - Next Aired starting background proc (6.0.7)
+18:22:22 T:139824036034304  NOTICE: Thread FileCache start, auto delete: false
+18:22:24 T:139824027641600  NOTICE: script.tv.show.next.aired: ### starting data update
+18:22:31 T:139825118693120  NOTICE: Thread RSSReader start, auto delete: false
+18:22:33 T:139824069605120  NOTICE: Thread BackgroundLoader start, auto delete: false
+18:22:34 T:139825118693120  NOTICE: Thread RSSReader start, auto delete: false
+18:22:36 T:139824069605120  NOTICE: Thread BackgroundLoader start, auto delete: false
+18:22:40 T:139825118693120  NOTICE: Previous line repeats 1 times.
+18:22:40 T:139825118693120  NOTICE: Thread RSSReader start, auto delete: false
+18:22:42 T:139823568283392  NOTICE: Previous line repeats 1 times.
+18:22:42 T:139823568283392  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+18:22:50 T:139824036034304  NOTICE: Thread LanguageInvoker start, auto delete: false
+18:22:50 T:139824036034304  NOTICE: -->Python Interpreter Initialized<--
+18:22:51 T:139824036034304  NOTICE: Thread LanguageInvoker start, auto delete: false
+18:22:51 T:139824036034304  NOTICE: -->Python Interpreter Initialized<--
+18:22:51 T:139824036034304  NOTICE: Mode: 21
+18:22:51 T:139824036034304  NOTICE: URL: .
+18:22:51 T:139824036034304  NOTICE: Name: None
+18:22:51 T:139824036034304  NOTICE: IconImage: None
+18:23:34 T:139824036034304  NOTICE: Thread LanguageInvoker start, auto delete: false
+18:23:34 T:139824036034304  NOTICE: -->Python Interpreter Initialized<--
+18:23:34 T:139824036034304  NOTICE: Mode: 20
+18:23:34 T:139824036034304  NOTICE: URL: .
+18:23:34 T:139824036034304  NOTICE: Name: None
+18:23:34 T:139824036034304  NOTICE: IconImage: None
+18:23:46 T:139824036034304  NOTICE: 1 of 80 [209. CW NY (WPIX 11.1)]... Done. :-)
+18:23:47 T:139824036034304  NOTICE: 2 of 80 [13. Film4]... Done. :-)
+18:23:47 T:139824036034304  NOTICE: 3 of 80 [442. Canale Italia 84]... Done. :-)
+18:23:48 T:139824036034304  NOTICE: 4 of 80 [67. ITV2]... Done. :-)
+18:23:49 T:139824036034304  NOTICE: 5 of 80 [863. Kids THIRTEEN 13.2 NY]... Done. :-)
+18:23:50 T:139824036034304  NOTICE: 6 of 80 [360. ZDFneo]... Done. :-)
+18:23:50 T:139824036034304  NOTICE: 7 of 80 [81. Bloomberg]... Done. :-)
+18:23:52 T:139824036034304  NOTICE: 8 of 80 [103. BBC Four-CBEEBIES]... Done. :-)
+18:23:54 T:139824036034304  NOTICE: 9 of 80 [2460. IONLife New York]... Done. :-)
+18:23:55 T:139824036034304  NOTICE: 10 of 80 [2480. WWOR-SD New York]... Done. :-)
+18:23:56 T:139824036034304  NOTICE: 11 of 80 [370. Dave]... Done. :-)
+18:23:57 T:139824036034304  NOTICE: 12 of 80 [1672. Euronews English]... Done. :-)
+18:23:59 T:139824036034304  NOTICE: 13 of 80 [20. Food Network]... Done. :-)
+18:24:00 T:139824036034304  NOTICE: 14 of 80 [154. NBC 4 NY (WNBC)]... Done. :-)
+18:24:01 T:139824036034304  NOTICE: 15 of 80 [2771. Eurosport Deutschland]... Done. :-)
+18:24:01 T:139824036034304  NOTICE: 16 of 80 [2635. FOX]... Done. :-)
+18:24:02 T:139824036034304  NOTICE: 17 of 80 [371. Pick TV]... Done. :-)
+18:24:03 T:139824036034304  NOTICE: 18 of 80 [1729. ARTE Fran]... Done. :-)
+18:24:04 T:139824036034304  NOTICE: 19 of 80 [2762. ZDF INFOKANAL]... Done. :-)
+18:24:05 T:139824036034304  NOTICE: 20 of 80 [1723. France 3]... Done. :-)
+18:24:06 T:139824036034304  NOTICE: 21 of 80 [196. CBS 2 NY (WCBS)]... Done. :-)
+18:24:07 T:139824036034304  NOTICE: 22 of 80 [1675. CCTV News]... Done. :-)
+18:24:08 T:139824036034304  NOTICE: 23 of 80 [26. ITV3]... Done. :-)
+18:24:09 T:139824036034304  NOTICE: 24 of 80 [691. Clubbing TV]... Done. :-)
+18:24:09 T:139824036034304  NOTICE: 25 of 80 [330. NASA HD]... Done. :-)
+18:24:10 T:139824036034304  NOTICE: 26 of 80 [79. Dubai Sports]... Done. :-)
+18:24:12 T:139824036034304  NOTICE: 27 of 80 [14. BBC One]... Done. :-)
+18:24:12 T:139824036034304  NOTICE: 28 of 80 [364. M6 BOUTIQUE LA CHAINE]... Done. :-)
+18:24:13 T:139824036034304  NOTICE: 29 of 80 [1630. COZI-TV NY (WNBC 4.2)]... Done. :-)
+18:24:14 T:139824036034304  NOTICE: 30 of 80 [445. Canale Italia 83]... Done. :-)
+18:24:15 T:139824036034304  NOTICE: 31 of 80 [272. THECOOLTV]... Done. :-)
+18:24:16 T:139824036034304  NOTICE: 32 of 80 [2. Channel 4]... Done. :-)
+18:24:17 T:139824036034304  NOTICE: 33 of 80 [415. Tagesschau24]... Done. :-)
+18:24:18 T:139824036034304  NOTICE: 34 of 80 [2459. WPXN qubo New York]... Done. :-)
+18:24:19 T:139824036034304  NOTICE: 35 of 80 [1805. CBS Drama]... Done. :-)
+18:24:19 T:139824036034304  NOTICE: 36 of 80 [369. MBC Action]... Done. :-)
+18:24:21 T:139824036034304  NOTICE: 37 of 80 [836. Horror Channel]... Done. :-)
+18:24:22 T:139824036034304  NOTICE: 38 of 80 [845. 5USA]... Done. :-)
+18:24:23 T:139824036034304  NOTICE: 39 of 80 [372. Really]... Done. :-)
+18:24:23 T:139824036034304  NOTICE: 40 of 80 [368. MBC2]... Done. :-)
+18:24:24 T:139824036034304  NOTICE: 41 of 80 [2759. ZDF]... Done. :-)
+18:24:25 T:139824036034304  NOTICE: 42 of 80 [359. zdf.kultur]... Done. :-)
+18:24:26 T:139824036034304  NOTICE: 43 of 80 [424. Phoenix]... Done. :-)
+18:24:27 T:139824036034304  NOTICE: 44 of 80 [2756. KIKA]... Done. :-)
+18:24:28 T:139824036034304  NOTICE: 45 of 80 [2641. DW English]... Done. :-)
+18:24:29 T:139824036034304  NOTICE: 46 of 80 [2786. CCTV9 Documentary]... Done. :-)
+18:24:30 T:139824036034304  NOTICE: 47 of 80 [418. Eins Plus]... Done. :-)
+18:24:31 T:139824036034304  NOTICE: 48 of 80 [932. Arirang TV]... Done. :-)
+18:24:32 T:139824036034304  NOTICE: 49 of 80 [392. THIRTEEN NY (WNET 13.1)]... Done. :-)
+18:24:33 T:139824036034304  NOTICE: 50 of 80 [706. Sonnenklar TV]... Done. :-)
+18:24:34 T:139824036034304  NOTICE: 51 of 80 [1808. CBS Reality]... Done. :-)
+18:24:35 T:139824036034304  NOTICE: 52 of 80 [113. BBC Three-CBBC]... Done. :-)
+18:24:36 T:139824036034304  NOTICE: 53 of 80 [298. France24]... Done. :-)
+18:24:37 T:139824036034304  NOTICE: 54 of 80 [21. Fashion TV]... Done. :-)
+18:24:38 T:139824036034304  NOTICE: 55 of 80 [95. 4 Music]... Done. :-)
+18:24:39 T:139824036034304  NOTICE: 56 of 80 [2479. Movies! New York]... Done. :-)
+18:24:40 T:139824036034304  NOTICE: 57 of 80 [517. TV5MONDE EUROPE]... Done. :-)
+18:24:41 T:139824036034304  NOTICE: 58 of 80 [4. Al Jazeera]... Done. :-)
+18:24:41 T:139824036034304  NOTICE: 59 of 80 [1720. France 5]... Done. :-)
+18:24:42 T:139824036034304  NOTICE: 60 of 80 [115. CNN International]... Done. :-)
+18:24:43 T:139824036034304  NOTICE: 61 of 80 [8. Viva]... Done. :-)
+18:24:44 T:139824036034304  NOTICE: 62 of 80 [421. Eins Festival]... Done. :-)
+18:24:45 T:139824036034304  NOTICE: 63 of 80 [65. E4]... Done. :-)
+18:24:46 T:139824036034304  NOTICE: 64 of 80 [842. Travel Channel+1]... Done. :-)
+18:24:46 T:139824036034304  NOTICE: 65 of 80 [2771. Eurosport Deutschland]... Done. :-)
+18:24:47 T:139824036034304  NOTICE: 66 of 80 [821. Bounce TV NY (WWOR 9.3)]... Done. :-)
+18:24:48 T:139824036034304  NOTICE: 67 of 80 [1726. iTELE]... Done. :-)
+18:24:49 T:139824036034304  NOTICE: 68 of 80 [1717. France 2]... Done. :-)
+18:24:49 T:139824036034304  NOTICE: 69 of 80 [1033. N-TV]... Done. :-)
+18:24:51 T:139824036034304  NOTICE: 70 of 80 [22. Channel 5]... Done. :-)
+18:24:52 T:139824036034304  NOTICE: 71 of 80 [11. ITV1]... Done. :-)
+18:24:53 T:139824036034304  NOTICE: 72 of 80 [97. More4]... Done. :-)
+18:24:54 T:139824036034304  NOTICE: 73 of 80 [2765. BFM TV]... Done. :-)
+18:24:55 T:139824036034304  NOTICE: 74 of 80 [27. BBC News]... Done. :-)
+18:24:56 T:139824036034304  NOTICE: 75 of 80 [101. ITV4]... Done. :-)
+18:24:58 T:139824036034304  NOTICE: 76 of 80 [124. ABC 7 NY (WABC)]... Done. :-)
+18:24:59 T:139824036034304  NOTICE: 77 of 80 [25. BBC Two]... Done. :-)
+18:25:00 T:139824036034304  NOTICE: 78 of 80 [136. FOX 5 NY (WNYW)]... Done. :-)
+18:25:01 T:139824036034304  NOTICE: 79 of 80 [2699. Chillings]... Done. :-)
+18:25:02 T:139824036034304  NOTICE: 80 of 80 [2707. QUEST]... Done. :-)
+18:26:24 T:139824036034304  NOTICE: Thread LanguageInvoker start, auto delete: false
+18:26:24 T:139824036034304  NOTICE: -->Python Interpreter Initialized<--
+18:26:24 T:139824036034304  NOTICE: Mode: 22
+18:26:24 T:139824036034304  NOTICE: URL: .
+18:26:24 T:139824036034304  NOTICE: Name: None
+18:26:24 T:139824036034304  NOTICE: IconImage: None
+18:26:33 T:139824036034304  NOTICE: Thread JobWorker start, auto delete: true
+18:26:37 T:139824061212416  NOTICE: Thread BackgroundLoader start, auto delete: false
+18:26:53 T:139825119610816  NOTICE: Previous line repeats 1 times.
+18:26:53 T:139825119610816  NOTICE: Storing total System Uptime
+18:26:53 T:139825119610816  NOTICE: Saving settings
+18:26:53 T:139825119610816  NOTICE: stop all
+18:26:53 T:139825119610816  NOTICE: stop player
+18:26:53 T:139825119610816  NOTICE: PVRManager - stopping
+18:26:54 T:139825119610816  NOTICE: ES: Stopping event server
+18:26:54 T:139825119610816  NOTICE: stopping zeroconf publishing
+18:26:54 T:139825119610816  NOTICE: Webserver: Stopping...
+18:26:54 T:139825119610816  NOTICE: WebServer: Stopped the webserver
+18:26:54 T:139825119610816  NOTICE: Webserver: Stopped...
+18:26:54 T:139823398516480  NOTICE: ES: UDP Event server stopped
+18:26:54 T:139825119610816  NOTICE: stop dvd detect media
+18:26:54 T:139825119610816  NOTICE: stop sap announcement listener
+18:26:54 T:139825119610816  NOTICE: clean cached files!
+18:26:54 T:139825119610816  NOTICE: unload skin
+18:26:54 T:139824302819072 WARNING: CPythonInvoker(0, /home/xbmc/.xbmc/addons/script.cu.lrclyrics/default.py): the python script "/home/xbmc/.xbmc/addons/script.cu.lrclyrics/default.py" has left several classes in memory that we couldn't clean up. The classes include: N14PythonBindings31XBMCAddon_xbmc_Monitor_DirectorE,N14PythonBindings30XBMCAddon_xbmc_Player_DirectorE
+18:26:55 T:139823591450368  NOTICE: StorageServer-2.5.4 Closed down
+18:26:55 T:139824286033664 WARNING: CPythonInvoker(2, /home/xbmc/.xbmc/addons/service.skin.widgets/default.py): the python script "/home/xbmc/.xbmc/addons/service.skin.widgets/default.py" has left several classes in memory that we couldn't clean up. The classes include: N9XBMCAddon7xbmcgui6WindowE,N14PythonBindings31XBMCAddon_xbmc_Monitor_DirectorE,N14PythonBindings30XBMCAddon_xbmc_Player_DirectorE
+18:26:55 T:139824027641600  NOTICE: script.tv.show.next.aired: ### xbmc is closing -- stopping background processing
+18:26:56 T:139825119610816  NOTICE: stopped
+18:26:56 T:139825119610816  NOTICE: destroy
+18:26:56 T:139825119610816  NOTICE: closing down remote control service
+18:26:56 T:139825119610816  NOTICE: unload sections
+18:26:56 T:139825119610816  NOTICE: special://profile/ is mapped to: special://masterprofile/
+18:26:56 T:139825119610816  NOTICE: destroy
+18:26:56 T:139825119610816 WARNING: Attempted to remove window 10013 from the window manager when it didn't exist
+18:26:56 T:139825119610816 WARNING: Attempted to remove window 10014 from the window manager when it didn't exist
+18:26:56 T:139825119610816 WARNING: Attempted to remove window 10015 from the window manager when it didn't exist
+18:26:56 T:139825119610816 WARNING: Attempted to remove window 10016 from the window manager when it didn't exist
+18:26:56 T:139825119610816 WARNING: Attempted to remove window 10017 from the window manager when it didn't exist
+18:26:56 T:139825119610816 WARNING: Attempted to remove window 10018 from the window manager when it didn't exist
+18:26:56 T:139825119610816 WARNING: Attempted to remove window 10019 from the window manager when it didn't exist
+18:26:56 T:139825119610816 WARNING: Attempted to remove window 10021 from the window manager when it didn't exist
+18:26:56 T:139825119610816 WARNING: Attempted to remove window 10107 from the window manager when it didn't exist
+18:26:56 T:139825119610816 WARNING: Attempted to remove window 10115 from the window manager when it didn't exist
+18:26:56 T:139825119610816 WARNING: Attempted to remove window 10104 from the window manager when it didn't exist
+18:26:56 T:139825119610816  NOTICE: closing down remote control service
+18:26:56 T:139825119610816  NOTICE: unload sections
+18:26:56 T:139825119610816  NOTICE: application stopped...

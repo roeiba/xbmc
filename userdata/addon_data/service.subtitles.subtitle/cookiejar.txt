@@ -1,0 +1,4 @@
+#LWP-Cookies-2.0
+Set-Cookie3: slcoo_user_id=348182; path="/"; domain=".subtitle.co.il"; path_spec; domain_dot; expires="2014-06-14 19:17:26Z"; version=0
+Set-Cookie3: slcoo_user_name=froger; path="/"; domain=".subtitle.co.il"; path_spec; domain_dot; expires="2014-06-14 19:17:26Z"; version=0
+Set-Cookie3: slcoo_user_pass=24DD3Bi10A3DE7yt798519c67C25E9xx506562lm15; path="/"; domain=".subtitle.co.il"; path_spec; domain_dot; expires="2014-06-14 19:17:26Z"; version=0

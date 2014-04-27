@@ -1,0 +1,1084 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="IPTVVersion" tvg-name="IPTVVersion",LiveTV V.26.04.14 - 23:09
+http://udp
+
+#EXTINF:-1 tvg-id="88FM" tvg-name="88FM" group-title="Radio" tvg-logo="88FM.png" radio="true",88FM
+mms://s3gwm.castup.net/990310006-52.wmv
+
+#EXTINF:-1 tvg-id="90FM emtza haderech" tvg-name="90FM_emtza_haderech" group-title="Radio" tvg-logo="90FM emtza haderech.png" radio="true",90FM emtza haderech
+rtmp://fms02.mediacast.co.il/106-live playpath=radio90 swfUrl=http://radio.mediacast.co.il/players/fp325/flowplayer-3.2.7.swf
+
+#EXTINF:-1 tvg-id="90.3FM Reshet D" tvg-name="90.3FM_Reshet_D" group-title="Radio" tvg-logo="90.3FM Reshet D.png" radio="true",90.3FM Reshet D
+mms://s0gwm.castup.net/990310003-52.wmv
+
+#EXTINF:-1 tvg-id="91FM lev hamedina" tvg-name="91FM_lev_hamedina" group-title="Radio" tvg-logo="91FM lev hamedina.png" radio="true",91FM lev hamedina
+http://213.8.143.171/91FM
+
+#EXTINF:-1 tvg-id="91.3FM Kol Ha musica" tvg-name="91.3FM_Kol_Ha_musica" group-title="Radio" tvg-logo="91.3FM Kol Ha musica.png" radio="true",91.3FM Kol Ha musica
+mms://s4awm.castup.net/990310008-52.wmv
+
+#EXTINF:-1 tvg-id="92.1FM Kol-Barama" tvg-name="92.1FM_Kol-Barama" group-title="Radio" tvg-logo="92.1FM Kol-Barama.png" radio="true",92.1FM Kol-Barama
+http://195.225.46.80/kol-b-live
+
+#EXTINF:-1 tvg-id="95FM reshet B" tvg-name="95FM_reshet_B" group-title="Radio" tvg-logo="95FM reshet B.png" radio="true",95FM reshet B
+mms://s0gwm.castup.net/990310001-52.wmv
+
+#EXTINF:-1 tvg-id="96FM Kol Rega" tvg-name="96FM_Kol_Rega" group-title="Radio" tvg-logo="96FM Kol Rega.png" radio="true",96FM Kol Rega
+mms://radio.96fm.co.il/audio
+
+#EXTINF:-1 tvg-id="99FM ECO" tvg-name="99FM_ECO" group-title="Radio" tvg-logo="99FM ECO.png" radio="true",99FM ECO
+http://194.90.203.111:8000/99fm
+
+#EXTINF:-1 tvg-id="99.5FM" tvg-name="99.5FM" group-title="Radio" tvg-logo="99.5FM.png" radio="true",99.5FM
+rtmp://fms3.mediacast.co.il/radio playpath=hamesh swfUrl=http://radio.mediacast.co.il/players/fp325/flowplayer-3.2.7.swf
+
+#EXTINF:-1 tvg-id="100FM radius" tvg-name="100FM_radius" group-title="Radio" tvg-logo="100FM radius.png" radio="true",100FM radius
+http://213.8.143.171/100fm
+
+#EXTINF:-1 tvg-id="100.3FM Reka radio" tvg-name="100.3FM_Reka_radio" group-title="Radio" tvg-logo="100.3FM Reka radio.png" radio="true",100.3FM Reka radio
+mms://s3ewm.castup.net/990310005-52.wmv
+
+#EXTINF:-1 tvg-id="100.7FM Reshet A" tvg-name="100.7FM_Reshet_A" group-title="Radio" tvg-logo="100.7FM Reshet A.png" radio="true",100.7FM Reshet A
+mms://s4awm.castup.net/990310002-52.wmv
+
+#EXTINF:-1 tvg-id="101FM jerusalem Radio" tvg-name="101FM_jerusalem_Radio" group-title="Radio" tvg-logo="101FM jerusalem Radio.png" radio="true",101FM jerusalem Radio
+mms://212.150.243.29/101fm
+
+#EXTINF:-1 tvg-id="102FM Radio Tel Aviv" tvg-name="102FM_Radio_Tel_Aviv" group-title="Radio" tvg-logo="102FM Radio Tel Aviv.png" radio="true",102FM Radio Tel Aviv
+rtmp://fms3.mediacast.co.il:1935/live playpath=102fm.mp4 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf
+
+#EXTINF:-1 tvg-id="102FM Kol ayam aadom eilat" tvg-name="102FM_Kol_ayam_aadom_eilat" group-title="Radio" tvg-logo="102FM Kol ayam aadom eilat.png" radio="true",102FM Kol ayam aadom eilat
+http://46.117.101.64:8000
+
+#EXTINF:-1 tvg-id="102.3FM Galei Zahal" tvg-name="102.3FM_Galei_Zahal" group-title="Radio" tvg-logo="102.3FM Galei Zahal.png" radio="true",102.3FM Galei Zahal
+http://test.live.net.il/glz-a-zixief.m3u8
+
+#EXTINF:-1 tvg-id="102.8FM Radio Moreshet" tvg-name="102.8FM_Radio_Moreshet" group-title="Radio" tvg-logo="102.8FM Radio Moreshet.png" radio="true",102.8FM Radio Moreshet
+mms://s4awm.castup.net/990310002-52.wmv
+
+#EXTINF:-1 tvg-id="103FM radio lelo hafsaka" tvg-name="103FM_radio_lelo_hafsaka" group-title="Radio" tvg-logo="103FM radio lelo hafsaka.png" radio="true",103FM radio lelo hafsaka
+mms://s3gwm.castup.net/995460001-52.wmv
+
+#EXTINF:-1 tvg-id="105.3FM Kol Haglil & H elyon" tvg-name="105.3FM_Kol_Haglil_&_H_elyon" group-title="Radio" tvg-logo="105.3FM Kol Haglil & H elyon.png" radio="true",105.3FM Kol Haglil & H elyon
+http://212.179.6.235:8000/galil
+
+#EXTINF:-1 tvg-id="105.5FM Reshet G" tvg-name="105.5FM_Reshet_G" group-title="Radio" tvg-logo="105.5FM Reshet G.png" radio="true",105.5FM Reshet G
+mms://s3ewm.castup.net/990310004-52.wmv
+
+#EXTINF:-1 tvg-id="106FM KoL Ramat Hasharon" tvg-name="106FM_KoL_Ramat_Hasharon" group-title="Radio" tvg-logo="106FM KoL Ramat Hasharon.png" radio="true",106FM KoL Ramat Hasharon
+http://106fm.livecast.co.il:8123/;stream/1
+
+#EXTINF:-1 tvg-id="106FM Kol Ha kampus" tvg-name="106FM_Kol_Ha_kampus" group-title="Radio" tvg-logo="106FM Kol Ha kampus.png" radio="true",106FM Kol Ha kampus
+http://212.29.254.129:7075
+
+#EXTINF:-1 tvg-id="106FM Radio Kol Izrael" tvg-name="106FM_Radio_Kol_Izrael" group-title="Radio" tvg-logo="106FM Radio Kol Izrael.png" radio="true",106FM Radio Kol Izrael
+mms://IL4.cast-tv.com/106FM
+
+#EXTINF:-1 tvg-id="106FM Radio Kol Kinneret" tvg-name="106FM_Radio_Kol_Kinneret" group-title="Radio" tvg-logo="106FM Radio Kol Kinneret.png" radio="true",106FM Radio Kol Kinneret
+mms://s3gwm.castup.net/996090001-52.wmv
+
+#EXTINF:-1 tvg-id="106FM Radio Kol aher (ariel)" tvg-name="106FM_Radio_Kol_aher_(ariel)" group-title="Radio" tvg-logo="106FM Radio Kol aher (ariel).png" radio="true",106FM Radio Kol aher (ariel)
+rtmp://ariellive.streamtv.co.il/ariellive playpath=ariellivestream?id=0.26431249361485243 swfUrl=http://arieladmin.streamtv.co.il/DesktopModules/UltraVideoGallery/UVGAudio2.swf
+
+#EXTINF:-1 tvg-id="106FM Radio Kol Ramle" tvg-name="106FM_Radio_Kol_Ramle" group-title="Radio" tvg-logo="106FM Radio Kol Ramle.png" radio="true",106FM Radio Kol Ramle
+http://84.94.229.99:5693/
+
+#EXTINF:-1 tvg-id="106FM Radio Kol Natanya" tvg-name="106FM_Radio_Kol_Natanya" group-title="Radio" tvg-logo="106FM Radio Kol Natanya.png" radio="true",106FM Radio Kol Natanya
+mms://vstreaming.netanya.ac.il/106FM
+
+#EXTINF:-1 tvg-id="106.2FM Radio Ben Tchomi" tvg-name="106.2FM_Radio_Ben_Tchomi" group-title="Radio" tvg-logo="106.2FM Radio Ben Tchomi.png" radio="true",106.2FM Radio Ben Tchomi
+mms://s3ewm.castup.net/996220002-52.wmv
+
+#EXTINF:-1 tvg-id="106.2FM Radio Oranim" tvg-name="106.2FM_Radio_Oranim" group-title="Radio" tvg-logo="106.2FM Radio Oranim.png" radio="true",106.2FM Radio Oranim
+http://oranim.ilcast.com:8017/
+
+#EXTINF:-1 tvg-id="106.4FM Radio KoL Hanegev" tvg-name="106.4FM_Radio_KoL_Hanegev" group-title="Radio" tvg-logo="106.4FM Radio KoL Hanegev.png" radio="true",106.4FM Radio KoL Hanegev
+mms://IL29.cast-tv.com/22564_Sapir_Live
+
+#EXTINF:-1 tvg-id="107FM Galgalatz" tvg-name="107FM_Galgalatz" group-title="Radio" tvg-logo="107FM Galgalatz.png" radio="true",107FM Galgalatz
+http://test.live.net.il/glgltz-a-zixief.m3u8
+
+#EXTINF:-1 tvg-id="107.5FM radio haifa" tvg-name="107.5FM_radio_haifa" group-title="Radio" tvg-logo="107.5FM radio haifa.png" radio="true",107.5FM radio haifa
+rtmp://cdn10.mediacast.co.il:1935/liveradio playpath=1075.stream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf
+
+#EXTINF:-1 tvg-id="109FM radio" tvg-name="109FM_radio" group-title="Radio" tvg-logo="109FM radio.png" radio="true",109FM radio
+http://cuead.cdnwiz.com/cuead-109fmmp3-64
+
+#EXTINF:-1 tvg-id="Radio Kol Akko" tvg-name="Radio_Kol_Akko" group-title="Radio" tvg-logo="Radio Kol Akko.png" radio="true",Radio Kol Akko
+http://212.150.101.181:8012/
+
+#EXTINF:-1 tvg-id="radio Ezorit" tvg-name="radio_Ezorit" group-title="Radio" tvg-logo="radio Ezorit.png" radio="true",radio Ezorit
+http://www.radioezorit.co.il/listen/playlist.asx
+
+#EXTINF:-1 tvg-id="KaTze Radio" tvg-name="KaTze_Radio" group-title="Radio" tvg-logo="KaTze Radio.png" radio="true",KaTze Radio
+http://server2.kzradio.net/stream1
+
+#EXTINF:-1 tvg-id="Radio Hof Eilat" tvg-name="Radio_Hof_Eilat" group-title="Radio" tvg-logo="Radio Hof Eilat.png" radio="true",Radio Hof Eilat
+http://46.165.212.162/listen.php?ip=46.165.212.162&port=4858
+
+#EXTINF:-1 tvg-id="Radio Afula" tvg-name="Radio_Afula" group-title="Radio" tvg-logo="Radio Afula.png" radio="true",Radio Afula
+http://cast03.cdnwiz.com:7006/stream
+
+#EXTINF:-1 tvg-id="Kol Ha mizrach" tvg-name="Kol_Ha_mizrach" group-title="Radio" tvg-logo="Kol Ha mizrach.png" radio="true",Kol Ha mizrach
+http://www.menta-fm.co.il:8888/
+
+#EXTINF:-1 tvg-id="Radio 1FM" tvg-name="Radio_1FM" group-title="Radio" tvg-logo="Radio 1FM.png" radio="true",Radio 1FM
+http://listen.clickfm.co.il/1FM
+
+#EXTINF:-1 tvg-id="Click2Dance" tvg-name="Click2Dance" group-title="Radio" tvg-logo="Click2Dance.png" radio="true",Click2Dance
+http://listen.clickfm.co.il/click2dance
+
+#EXTINF:-1 tvg-id="ClickFM" tvg-name="ClickFM" group-title="Radio" tvg-logo="ClickFM.png" radio="true",ClickFM
+http://listen.clickfm.co.il/clickfm
+
+#EXTINF:-1 tvg-id="ClickCafe" tvg-name="ClickCafe" group-title="Radio" tvg-logo="ClickCafe.png" radio="true",ClickCafe
+http://listen.clickfm.co.il/clickcafe
+
+#EXTINF:-1 tvg-id="ClickHipHop" tvg-name="ClickHipHop" group-title="Radio" tvg-logo="ClickHipHop.png" radio="true",ClickHipHop
+http://listen.clickfm.co.il/hip.mp3
+
+#EXTINF:-1 tvg-id="Click2Love" tvg-name="Click2Love" group-title="Radio" tvg-logo="Click2Love.png" radio="true",Click2Love
+http://listen.clickfm.co.il/click2love
+
+#EXTINF:-1 tvg-id="ClickIsrael" tvg-name="ClickIsrael" group-title="Radio" tvg-logo="ClickIsrael.png" radio="true",ClickIsrael
+http://listen.clickfm.co.il/clickil
+
+#EXTINF:-1 tvg-id="Radio Beat" tvg-name="Radio_Beat" group-title="Radio" tvg-logo="Radio Beat.png" radio="true",Radio Beat
+http://beat.livecast.co.il/;
+
+#EXTINF:-1 tvg-id="Noshmim MizRahit" tvg-name="Noshmim_MizRahit" group-title="Radio" tvg-logo="Noshmim MizRahit.png" radio="true",Noshmim MizRahit
+http://www.rs.mizrahit.co.il:7777/
+
+#EXTINF:-1 tvg-id="Kol HasHalom" tvg-name="Kol_HasHalom" group-title="Radio" tvg-logo="Kol HasHalom.png" radio="true",Kol HasHalom
+http://uk2-vn.mixstream.net:8004/
+
+#EXTINF:-1 tvg-id="Radio Yasoo" tvg-name="Radio_Yasoo" group-title="Radio" tvg-logo="Radio Yasoo.png" radio="true",Radio Yasoo
+http://radio-yasoo.ath.cx:7500/
+
+#EXTINF:-1 tvg-id="Radio greece Blue" tvg-name="Radio_greece_Blue" group-title="Radio" tvg-logo="Radio greece Blue.png" radio="true",Radio greece Blue
+http://213.8.152.135:7900/streamer_allforpeace
+
+#EXTINF:-1 tvg-id="Kol Hayeladim" tvg-name="Kol_Hayeladim" group-title="Radio" tvg-logo="Kol Hayeladim.png" radio="true",Kol Hayeladim
+rtmp://cast04.cdnwiz.com:1935/kolhayeladim playpath=kolhayeladim.stream swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.16.swf
+
+#EXTINF:-1 tvg-id="Arutz 1" tvg-name="Arutz_1" group-title="Main" tvg-logo="Arutz 1.png",Arutz 1
+rtmp://s3ufl.castup.net:1935/990310102-123.flv/_definst_/_definst_
+
+#EXTINF:-1 tvg-id="Arutz 2" tvg-name="Arutz_2" group-title="Main" tvg-logo="Arutz 2.png",Arutz 2 (Wed-Sat)
+rtsp://sbcfl.castup.net:1935/993850038-123.flv/_definst_/_definst_
+
+#EXTINF:-1 tvg-id="Arutz 2" tvg-name="Arutz_2" group-title="Main" tvg-logo="Arutz 2.png",Arutz 2 (SD)
+rtmp://sv8fl.castup.net:1935/996180004-123.flv/_definst_
+
+#EXTINF:-1 tvg-id="Arutz 10" tvg-name="Arutz_10" group-title="Main" tvg-logo="Arutz 10.png",Arutz 10
+rtmp://s3yfl.castup.net:1935/993860016-123.flv/_definst_/_definst_
+
+#EXTINF:-1 tvg-id="Arutz 10" tvg-name="Arutz_10" group-title="Main" tvg-logo="Arutz 10.png",Arutz 10 (Backup)
+rtmp://S0hfl.castup.net:1935/993860018-123.flv/_definst_/_definst_
+
+#EXTINF:-1 tvg-id="Arutz 21" tvg-name="Arutz_21" group-title="Main" tvg-logo="Arutz 21.png",Arutz 21
+mms://212.179.13.61/991810001-52.wmv
+
+#EXTINF:-1 tvg-id="Arutz Hamuzikah 24" tvg-name="Arutz_Hamuzikah_24" group-title="Main" tvg-logo="Arutz Hamuzikah 24.png",Arutz Hamuzikah 24
+rtmp://s3ifl.castup.net:1935/993850044-123.flv/_definst_/_definst_
+
+#EXTINF:-1 tvg-id="Arutz 33" tvg-name="Arutz_33" group-title="Main" tvg-logo="Arutz 33.png",Arutz 33
+rtmp://S0hfl.castup.net:1935/990310076-123.flv/_definst_/_definst_
+
+#EXTINF:-1 tvg-id="Arutz Haknesset" tvg-name="Arutz_Haknesset" group-title="Main" tvg-logo="Arutz Haknesset.png",Arutz Haknesset
+mms://212.235.5.241:80/knessetlive
+
+#EXTINF:-1 tvg-id="Arutz Meir" tvg-name="Arutz_Meir" group-title="Main" tvg-logo="Arutz Meir.png",Arutz Meir
+http://82.80.198.100:1935/live/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arutz Hidabroot" tvg-name="Arutz_Hidabroot" group-title="Main" tvg-logo="Arutz Hidabroot.png",Arutz Hidabroot
+http://liveedge.it.best-tv.com:1935/besttv14/stream_hidabroot01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arutz HaKabbalah" tvg-name="Arutz_HaKabbalah" group-title="Main" tvg-logo="Arutz HaKabbalah.png",Arutz HaKabbalah
+mms://vod.kab.tv/heb
+
+#EXTINF:-1 tvg-id="fil-124" tvg-name="ABC_7_NY_(WABC)" group-title="Main" tvg-logo="ABC 7 NY (WABC).png",ABC 7 NY (WABC)
+rtmp://204.107.26.244/live/?id=0ad5aac39bb13fbef56344d35fb50a1384ba96e2b4372b28645d7cd9eb7cf8b78701c47822fd90a7dbdce31903d19402124340692babf80ad58f0bc583236fd7a71389bbc89a56203d2adaa7b23791e2047772b4902e5ee90eeadd1526a9b067dbd2b8124ba30096b78c5b253ddc9cd575d4e0286ac2f84c5d38ae77e4440c5b68d552a127d9796b4ca330f4f17d433386c47f584bb704a8 app=live/?id=0ad5aac39bb13fbef56344d35fb50a1384ba96e2b4372b28645d7cd9eb7cf8b78701c47822fd90a7dbdce31903d19402124340692babf80ad58f0bc583236fd7a71389bbc89a56203d2adaa7b23791e2047772b4902e5ee90eeadd1526a9b067dbd2b8124ba30096b78c5b253ddc9cd575d4e0286ac2f84c5d38ae77e4440c5b68d552a127d9796b4ca330f4f17d433386c47f584bb704a8 playpath=124.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-1630" tvg-name="COZI-TV_NY_(WNBC_4.2)" group-title="Main" tvg-logo="COZI-TV NY (WNBC 4.2).png",COZI-TV NY (WNBC 4.2)
+rtmp://live65.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbefb416ec726ba718dde1fea238005240be88700aaab70ca24213729a9277472cc90c070fa256f466c79f49ca515b5c4df68428afae7379b87bd4805d7273e8f101d23b01065355dee99becd7885bd43d91b876baf5800ee1b9e0dcd2d33c6755f9fcfa583bccfcf8c90710ba041d72a122e094dad345787f054396e052cdbcbc4ef48434f4f0b9d69cf4d7e2f8d62dfbc app=live/?id=0ad5aac39bb13fbefb416ec726ba718dde1fea238005240be88700aaab70ca24213729a9277472cc90c070fa256f466c79f49ca515b5c4df68428afae7379b87bd4805d7273e8f101d23b01065355dee99becd7885bd43d91b876baf5800ee1b9e0dcd2d33c6755f9fcfa583bccfcf8c90710ba041d72a122e094dad345787f054396e052cdbcbc4ef48434f4f0b9d69cf4d7e2f8d62dfbc playpath=1630.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-196" tvg-name="CBS_2_NY_(WCBS)" group-title="Main" tvg-logo="CBS 2 NY (WCBS).png",CBS 2 NY (WCBS)
+rtmp://204.107.26.244/live/?id=0ad5aac39bb13fbe3091c56416d680e7573ee7df99918f5fef43f06eafce3f1de2a3d23524e5820ccb8ff1522c2540de1e34b1ee708a56b58e9b3ab9623af2f142f98374e5d34818e977b3ddd5f14499a2d54f75f409c185e34fe977d8a969e75573e5249f13304358b70f43fa1834816da33ab4ae04d2722166ddbd43140fb6b2c6930583ae9fba243301fb65c753f695c05c467d3ee32c app=live/?id=0ad5aac39bb13fbe3091c56416d680e7573ee7df99918f5fef43f06eafce3f1de2a3d23524e5820ccb8ff1522c2540de1e34b1ee708a56b58e9b3ab9623af2f142f98374e5d34818e977b3ddd5f14499a2d54f75f409c185e34fe977d8a969e75573e5249f13304358b70f43fa1834816da33ab4ae04d2722166ddbd43140fb6b2c6930583ae9fba243301fb65c753f695c05c467d3ee32c playpath=196.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-154" tvg-name="NBC_4_NY_(WNBC)" group-title="Main" tvg-logo="NBC 4 NY (WNBC).png",NBC 4 NY (WNBC)
+rtmp://204.107.26.244/live/?id=0ad5aac39bb13fbe3091c56416d680e763028b8c7c241e8ce4309c304e1c538a49a3ba5a414b09d77b6d036d71fe6a6354dd5cd6e998355c46c9b59be80cec8876f574ff207f76cce080943274efc4c3a65a0507ea4ac29a991258d81da6c0be688068f47212617a94036b374a3cb5bf37312fdc5866607ed5c7545d8fa16b00d79533e57b6b5e7e0aa39d85e1e5cf560ad09109f11adfd6 app=live/?id=0ad5aac39bb13fbe3091c56416d680e763028b8c7c241e8ce4309c304e1c538a49a3ba5a414b09d77b6d036d71fe6a6354dd5cd6e998355c46c9b59be80cec8876f574ff207f76cce080943274efc4c3a65a0507ea4ac29a991258d81da6c0be688068f47212617a94036b374a3cb5bf37312fdc5866607ed5c7545d8fa16b00d79533e57b6b5e7e0aa39d85e1e5cf560ad09109f11adfd6 playpath=154.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-136" tvg-name="FOX_5_NY_(WNYW)" group-title="Main" tvg-logo="FOX 5 NY (WNYW).png",FOX 5 NY (WNYW)
+rtmp://204.107.26.244/live/?id=0ad5aac39bb13fbe914d70b3d26840043f84227867d37adc76c3f718a0370ba08cbdf9d25e04c1457df4c8715ecb11f09f568f0fb0819ce6c9499d0bc926c44dcfee8800e3111810d51028372487136fd3f46fb2047804f36c1d7668c4b4637803826d5727b02f27ebeab991f6d3959bfc813370626fcb94ef67fc69b81ee3462f852a7401a471024ffe110ca78a93b7554b92d10ee1a6a2 app=live/?id=0ad5aac39bb13fbe914d70b3d26840043f84227867d37adc76c3f718a0370ba08cbdf9d25e04c1457df4c8715ecb11f09f568f0fb0819ce6c9499d0bc926c44dcfee8800e3111810d51028372487136fd3f46fb2047804f36c1d7668c4b4637803826d5727b02f27ebeab991f6d3959bfc813370626fcb94ef67fc69b81ee3462f852a7401a471024ffe110ca78a93b7554b92d10ee1a6a2 playpath=136.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-821" tvg-name="Bounce_TV_NY_(WWOR_9.3)" group-title="Main" tvg-logo="Bounce TV NY (WWOR 9.3).png",Bounce TV NY (WWOR 9.3)
+rtmp://live223.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbec6744d581e82362cc6586006fa462976b61bb57bf9fd591f0a57616b20151f31c3d3960bf7190c81105925458289f369797bcaa6294f5450e64d2b7b2e04b509d046e9d5f3165b17d27e4df3b48d1a5513d31a351c9d630af30b9ea023fe967fd9c687912392d8b951a4497d737239852d1d6ed1f3c3de529d25ceabae31230a1a6a0d0942bf1ea202070fdc55a8ef67 app=live/?id=0ad5aac39bb13fbec6744d581e82362cc6586006fa462976b61bb57bf9fd591f0a57616b20151f31c3d3960bf7190c81105925458289f369797bcaa6294f5450e64d2b7b2e04b509d046e9d5f3165b17d27e4df3b48d1a5513d31a351c9d630af30b9ea023fe967fd9c687912392d8b951a4497d737239852d1d6ed1f3c3de529d25ceabae31230a1a6a0d0942bf1ea202070fdc55a8ef67 playpath=821.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-209" tvg-name="CW_NY_(WPIX_11.1)" group-title="Main" tvg-logo="CW NY (WPIX 11.1).png",CW NY (WPIX 11.1)
+rtmp://live223.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbe9a437a9a4c6007008efab001e4187190ed779332851d937447d441cc0b5e09b679007bc3ce591db6da1509f3450fa57aaebab7ef6bab9fe8c6ccadae3fe3475768ebfcd48ef43804ec7276d94e5b1933a96cbeb15a061f775e88a14c5c6ad34381d83ae1744afeef030b675bb2496923047d57412b2317357620a730dab0a78a8734df3f51c63daa8dd36db759e019e7 app=live/?id=0ad5aac39bb13fbe9a437a9a4c6007008efab001e4187190ed779332851d937447d441cc0b5e09b679007bc3ce591db6da1509f3450fa57aaebab7ef6bab9fe8c6ccadae3fe3475768ebfcd48ef43804ec7276d94e5b1933a96cbeb15a061f775e88a14c5c6ad34381d83ae1744afeef030b675bb2496923047d57412b2317357620a730dab0a78a8734df3f51c63daa8dd36db759e019e7 playpath=209.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-2460" tvg-name="IONLife_New_York" group-title="Main" tvg-logo="IONLife New York.png",IONLife New York
+rtmp://38.74.192.122/live/?id=0ad5aac39bb13fbe6ffa27bcd43b4bb6f5b0681d9fcc82bc84f00728a1aa3d9ff250c7771b14a91d1d9d20b9a949d553d5b535e3e62f260181b54996ebc34912e4fc15cbbad15cd3479adab7ec68c975279f1c936a84a833f304a36c40464db65053e3ddd34cb16aa49d4d7cd95173b056b6512ec6f638e9c5e5e3d68ca18a7933c22d4ebcc097beb8749d91267c6d5bcd0630526308cdbe app=live/?id=0ad5aac39bb13fbe6ffa27bcd43b4bb6f5b0681d9fcc82bc84f00728a1aa3d9ff250c7771b14a91d1d9d20b9a949d553d5b535e3e62f260181b54996ebc34912e4fc15cbbad15cd3479adab7ec68c975279f1c936a84a833f304a36c40464db65053e3ddd34cb16aa49d4d7cd95173b056b6512ec6f638e9c5e5e3d68ca18a7933c22d4ebcc097beb8749d91267c6d5bcd0630526308cdbe playpath=2460.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-2480" tvg-name="WWOR-SD_New_York" group-title="Main" tvg-logo="WWOR-SD New York.png",WWOR-SD New York
+rtmp://38.74.192.122/live/?id=0ad5aac39bb13fbe6ffa27bcd43b4bb694081417bb0341a9c4d5861e2b5b6d081a7fa3164dab0ff239c126d5dc023aaf7fe05bf601aac7e02f8667793734d75bb4c7b0419a16fb3ba999de8244536ee4ae7dee7affce1979181afd302f4d85a45501b64aa584b1197fe90be6f9c5a33c3acde86f904bbad7780a278aeb7a1a434bc7278fb33a31518b939afdb7a64a5875432fc2262ffa3e app=live/?id=0ad5aac39bb13fbe6ffa27bcd43b4bb694081417bb0341a9c4d5861e2b5b6d081a7fa3164dab0ff239c126d5dc023aaf7fe05bf601aac7e02f8667793734d75bb4c7b0419a16fb3ba999de8244536ee4ae7dee7affce1979181afd302f4d85a45501b64aa584b1197fe90be6f9c5a33c3acde86f904bbad7780a278aeb7a1a434bc7278fb33a31518b939afdb7a64a5875432fc2262ffa3e playpath=2480.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-2479" tvg-name="Movies!_New_York" group-title="Main" tvg-logo="Movies! New York.png",Movies! New York
+rtmp://38.74.192.122/live/?id=0ad5aac39bb13fbee8c5842dd5918b28e69469effbae12a3e88600ff6a95105d52607512cd500bf29d03dc2cac106de9ac0ab15fcde54b2730ab7c38c312f76e82a538fed7c48e056a3619b2d6947f5bbb8bf81950fb72bb08c0649e6d9c429ab3876ccf778db24b6399a7bab2ed4261ba4038906d6f3be54febf1106b9ba92cd24b658170ed0b312b87e315eaf70e75917c74a4bce6c3b6 app=live/?id=0ad5aac39bb13fbee8c5842dd5918b28e69469effbae12a3e88600ff6a95105d52607512cd500bf29d03dc2cac106de9ac0ab15fcde54b2730ab7c38c312f76e82a538fed7c48e056a3619b2d6947f5bbb8bf81950fb72bb08c0649e6d9c429ab3876ccf778db24b6399a7bab2ed4261ba4038906d6f3be54febf1106b9ba92cd24b658170ed0b312b87e315eaf70e75917c74a4bce6c3b6 playpath=2479.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-392" tvg-name="THIRTEEN_NY_(WNET_13.1)" group-title="Main" tvg-logo="THIRTEEN NY (WNET 13.1).png",THIRTEEN NY (WNET 13.1)
+rtmp://live223.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbee8c5842dd5918b28465f6ff65c0a4197cb66dc6ef95f276a3d72236b9b026b160c025e881ab35b1fdd198ba124d312437e9baefa70363cf3acaa5d84c36a98dc43d06f29838bda558d4e4f362d439c7a05646943ca23ea5cd142cff182da1508b416f991d5980a3e9bef3e9df847af48f1557cd6f1fbc2d28744f5964e581de4e1e9666b3e9672af6e590f5007a4cb1a app=live/?id=0ad5aac39bb13fbee8c5842dd5918b28465f6ff65c0a4197cb66dc6ef95f276a3d72236b9b026b160c025e881ab35b1fdd198ba124d312437e9baefa70363cf3acaa5d84c36a98dc43d06f29838bda558d4e4f362d439c7a05646943ca23ea5cd142cff182da1508b416f991d5980a3e9bef3e9df847af48f1557cd6f1fbc2d28744f5964e581de4e1e9666b3e9672af6e590f5007a4cb1a playpath=392.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-863" tvg-name="Kids_THIRTEEN_13.2_NY" group-title="Main" tvg-logo="Kids THIRTEEN 13.2 NY.png",Kids THIRTEEN 13.2 NY
+rtmp://live223.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbe9a437a9a4c600700a8f66fb7943cd0fc3fdec7d408d7da4726a7436c9af773a24f14a6e0f6fa54630a1fe609391d34f5e5f189414f909b973a0b61941cdcc937680de49ec6d66907b9785e5827b7eec1ad6b11d63f93c217a74d72f0c86a5806374800195d13b8d3390eb0dc5d20a9074651a0cd389ff394ab54a27e06f3877d79d84c2d801e766aa2d166890edd808a app=live/?id=0ad5aac39bb13fbe9a437a9a4c600700a8f66fb7943cd0fc3fdec7d408d7da4726a7436c9af773a24f14a6e0f6fa54630a1fe609391d34f5e5f189414f909b973a0b61941cdcc937680de49ec6d66907b9785e5827b7eec1ad6b11d63f93c217a74d72f0c86a5806374800195d13b8d3390eb0dc5d20a9074651a0cd389ff394ab54a27e06f3877d79d84c2d801e766aa2d166890edd808a playpath=863.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-2459" tvg-name="WPXN_qubo_New_York" group-title="Main" tvg-logo="WPXN qubo New York.png",WPXN qubo New York
+rtmp://38.74.192.122/live/?id=0ad5aac39bb13fbefb416ec726ba718dd8a74a76ca1b5ac8b7d03901ae1ca0934033293f76c62aba4dac504c758f184ba28a4c3d90788a1046872fc7723fd3454d999dffea5e505d004660b65179aa41fb4f08f1fb26bda4287768e9f9e538508264c73f2ed16b20a1a41a49eeb4fb1febe21d18754c27f83439656b32b8a19c3dbd23d5aaad849aa207e8f3c932d884c6ed6b636292a492 app=live/?id=0ad5aac39bb13fbefb416ec726ba718dd8a74a76ca1b5ac8b7d03901ae1ca0934033293f76c62aba4dac504c758f184ba28a4c3d90788a1046872fc7723fd3454d999dffea5e505d004660b65179aa41fb4f08f1fb26bda4287768e9f9e538508264c73f2ed16b20a1a41a49eeb4fb1febe21d18754c27f83439656b32b8a19c3dbd23d5aaad849aa207e8f3c932d884c6ed6b636292a492 playpath=2459.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-368" tvg-name="MBC2" group-title="Main" tvg-logo="MBC2.png",MBC2
+rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbe782659e2f083b7025646afddf15cc180b1137d555a289783a3ce7964f4f8f8935a5cb9c55c27d0077d84084943f2264f213e9879355ff537df02676b444d672f0035c3764a539c574e1349ea763c40b7acaf77a8c5a694439527d2522f4406c33623c7cb86c61970653dc2177b9159c5a7d1e7800e7fb865842eabbb9320ab385398242b3066757ff778b15c6fbdef87 app=live/?id=0ad5aac39bb13fbe782659e2f083b7025646afddf15cc180b1137d555a289783a3ce7964f4f8f8935a5cb9c55c27d0077d84084943f2264f213e9879355ff537df02676b444d672f0035c3764a539c574e1349ea763c40b7acaf77a8c5a694439527d2522f4406c33623c7cb86c61970653dc2177b9159c5a7d1e7800e7fb865842eabbb9320ab385398242b3066757ff778b15c6fbdef87 playpath=368.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-13" tvg-name="Film4" group-title="Main" tvg-logo="Film4.png",Film4
+rtmp://live303.edge.filmon.com/live/?id=0ad5aac39bb13fbe9a437a9a4c60070024a9173cf2326e004c8c86635e1d03341d0d07c1f443dc830b56567d678be8310addf4c0fc9acbf3c79ecd0af31d40dc45a8275201e14fb401a8fb4b4f07c74954e2e3edc10c3410fc148817c736dd5791ae449ecaafab68f77b27edf24fd2c942140a17bb51bfffc5e53ab0dd5327fbf4268a17e83e7a24066f5f6605e75190ca4a398f0235de00 app=live/?id=0ad5aac39bb13fbe9a437a9a4c60070024a9173cf2326e004c8c86635e1d03341d0d07c1f443dc830b56567d678be8310addf4c0fc9acbf3c79ecd0af31d40dc45a8275201e14fb401a8fb4b4f07c74954e2e3edc10c3410fc148817c736dd5791ae449ecaafab68f77b27edf24fd2c942140a17bb51bfffc5e53ab0dd5327fbf4268a17e83e7a24066f5f6605e75190ca4a398f0235de00 playpath=13.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-2699" tvg-name="Chillings" group-title="Main" tvg-logo="Chillings.png",Chillings
+rtmp://live54.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbe914d70b3d268400485172aa92279631b9d0fcaa92c186a1ba703d2be622fa12de0d59a6f4743bf2ade0023c00c5a8465fc284aa94f5fb38fa8066740e61cc858a907a337fcff13233905948acdbf4479a86d3df3c397a3c7c7bbd318d8b58ae8a9609bd64b35724a0330fbe7d60d4b13979c8b2a08979cf08768dfe5629b8b751c0422bf9bbaac9ed659ce589e51f9fe app=live/?id=0ad5aac39bb13fbe914d70b3d268400485172aa92279631b9d0fcaa92c186a1ba703d2be622fa12de0d59a6f4743bf2ade0023c00c5a8465fc284aa94f5fb38fa8066740e61cc858a907a337fcff13233905948acdbf4479a86d3df3c397a3c7c7bbd318d8b58ae8a9609bd64b35724a0330fbe7d60d4b13979c8b2a08979cf08768dfe5629b8b751c0422bf9bbaac9ed659ce589e51f9fe playpath=2699.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="SAB TV" tvg-name="SAB_TV" group-title="Main" tvg-logo="SAB TV.png",SAB TV
+http://46.249.213.93/iPhone/broadcast/sonysabtv-tablet.3gp/sonysabtv-tablet.3gp-mr498k.m3u8
+
+#EXTINF:-1 tvg-id="fil-836" tvg-name="Horror_Channel" group-title="Main" tvg-logo="Horror Channel.png",Horror Channel
+rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbe782659e2f083b702336b131c6d1577d7bbcb0652c4bfd66fcacd6b8e7ba1f5b30b3d416a11181d33b9e828dd79ada94441cbd2a8ae523ec76014670fa47d1a0d292b7f40baf65c7719b82faf5cf5ebd223b5457eaa6453c53ea5265fa10cd5449f30002c256e80c34f561856b55ef9d6014a8694399f3f00b32a86a8cf2b36f1af927c4e946c035ebb43b11437bbf0a1 app=live/?id=0ad5aac39bb13fbe782659e2f083b702336b131c6d1577d7bbcb0652c4bfd66fcacd6b8e7ba1f5b30b3d416a11181d33b9e828dd79ada94441cbd2a8ae523ec76014670fa47d1a0d292b7f40baf65c7719b82faf5cf5ebd223b5457eaa6453c53ea5265fa10cd5449f30002c256e80c34f561856b55ef9d6014a8694399f3f00b32a86a8cf2b36f1af927c4e946c035ebb43b11437bbf0a1 playpath=836.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-2786" tvg-name="CCTV9_Documentary" group-title="Main" tvg-logo="CCTV9 Documentary.png",CCTV9 Documentary
+rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbe782659e2f083b702dd7add09f07a69303397d4d5dd491e55c60d4bc06dae276eb22194f527f707e622273730e0cdc6c2e2d8c5f529eaa5e9f6e4704e33cfc1bd6adc64cdcface43ca20397f9fe0aa3b9d8769e5d6584dcd573c70af28c18b72dc6dd26ac0e825e23d51ba161ba311b0820aa3a80b6f0311b3317726127eeb46526720dadc855166ad5cde6bc683ded7d app=live/?id=0ad5aac39bb13fbe782659e2f083b702dd7add09f07a69303397d4d5dd491e55c60d4bc06dae276eb22194f527f707e622273730e0cdc6c2e2d8c5f529eaa5e9f6e4704e33cfc1bd6adc64cdcface43ca20397f9fe0aa3b9d8769e5d6584dcd573c70af28c18b72dc6dd26ac0e825e23d51ba161ba311b0820aa3a80b6f0311b3317726127eeb46526720dadc855166ad5cde6bc683ded7d playpath=2786.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="DocuBox HD" tvg-name="DocuBox_HD" group-title="Main" tvg-logo="DocuBox HD.png",DocuBox HD
+http://spi-live.ercdn.net/spi/docuboxhd_0_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fil-845" tvg-name="5USA" group-title="Main" tvg-logo="5USA.png",5USA
+rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe782659e2f083b7021ffb13c2d9cccb108cbfbf2be23fdd9537b2d9b6f00399b7e8f21ad4177948a74c7d4f0e2642deab72c8d20edb7cdb5b0f7953d9989f9673f7df9c917d4bea64508519fda9dfdb2f6431b9466b789e2138cb753cdbdb5a51c28f3e300a78b3435e49868c08dd89c9c85b237155f4849685a56c5f32b22c38b2061a95e50cb6bef03f24c1ef32259e app=live/?id=0ad5aac39bb13fbe782659e2f083b7021ffb13c2d9cccb108cbfbf2be23fdd9537b2d9b6f00399b7e8f21ad4177948a74c7d4f0e2642deab72c8d20edb7cdb5b0f7953d9989f9673f7df9c917d4bea64508519fda9dfdb2f6431b9466b789e2138cb753cdbdb5a51c28f3e300a78b3435e49868c08dd89c9c85b237155f4849685a56c5f32b22c38b2061a95e50cb6bef03f24c1ef32259e playpath=845.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-369" tvg-name="MBC_Action" group-title="Main" tvg-logo="MBC Action.png",MBC Action
+rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbefb416ec726ba718d6f40e2c92378c46bcde5cd291287cb95843de24e4ec64c82c36c18909cae265c689d6291b72287cc25e3f2da5020057239b50e9c31a0332085884accb6d1cd42fafe5c06f4220d678dac765abc985fd48a0e7e98cdd3b379dbb14e753e2781686aae6d7e19a0501061350832d33dac0d13087caf73de5812517442b22185b808c28b7c42c7e70cb7 app=live/?id=0ad5aac39bb13fbefb416ec726ba718d6f40e2c92378c46bcde5cd291287cb95843de24e4ec64c82c36c18909cae265c689d6291b72287cc25e3f2da5020057239b50e9c31a0332085884accb6d1cd42fafe5c06f4220d678dac765abc985fd48a0e7e98cdd3b379dbb14e753e2781686aae6d7e19a0501061350832d33dac0d13087caf73de5812517442b22185b808c28b7c42c7e70cb7 playpath=369.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-2635" tvg-name="FOX" group-title="Main" tvg-logo="FOX.png",FOX
+rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe3091c56416d680e71b96199404539e9ce02f57471e757600896c58a3af3038284336a7782ebd37c11110b1cf587dea69773f803fc64a023764210a69c8ddf55113fb8f06435e2addd7918ee1b726d7905659e55a138c9c35e78c25acaa607930537dc0290a6203cc9a2604c62180bc510dfbaa4274bb95eff2cb6c9175fd30df7256045bc14f5c8859c0441e9b33eb67 app=live/?id=0ad5aac39bb13fbe3091c56416d680e71b96199404539e9ce02f57471e757600896c58a3af3038284336a7782ebd37c11110b1cf587dea69773f803fc64a023764210a69c8ddf55113fb8f06435e2addd7918ee1b726d7905659e55a138c9c35e78c25acaa607930537dc0290a6203cc9a2604c62180bc510dfbaa4274bb95eff2cb6c9175fd30df7256045bc14f5c8859c0441e9b33eb67 playpath=2635.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-65" tvg-name="E4" group-title="Main" tvg-logo="E4.png",E4
+rtmp://live304.edge.filmon.com/live/?id=0ad5aac39bb13fbec6744d581e82362c53372d4fda8c9cc5c312de2e67a8d6b2b858e6cfaac5228a75e1870c5c47da3d6da484e160d103637181de0f87e93921675902daa2306b3cbd2f7c3f538d7ef93c6e6ba57587b6773f58cef1e086e173cec920cb94e08225437195322043866a6f462e4fd2ad75fd65ee35a39ddce4bd5de5e7356996cbfcca4468395f022fecafed79241b52e254 app=live/?id=0ad5aac39bb13fbec6744d581e82362c53372d4fda8c9cc5c312de2e67a8d6b2b858e6cfaac5228a75e1870c5c47da3d6da484e160d103637181de0f87e93921675902daa2306b3cbd2f7c3f538d7ef93c6e6ba57587b6773f58cef1e086e173cec920cb94e08225437195322043866a6f462e4fd2ad75fd65ee35a39ddce4bd5de5e7356996cbfcca4468395f022fecafed79241b52e254 playpath=65.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai_One" group-title="Main" tvg-logo="Dubai One.png",Dubai One
+http://cdnedvrdubaione.endavomedia.com/smil:dmilivedubaione.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fil-14" tvg-name="BBC_One" group-title="Main" tvg-logo="BBC One.png",BBC One
+rtmp://live306.edge.filmon.com/live/?id=0ad5aac39bb13fbefb416ec726ba718dd45144d284bfbd5387cb52f9580282c9f3fc8dc25cea3a235ebf1fcfc37f734bf6d32d923cee9e09bb4fc06360a19a522e851819f3e6657911f3518bde00871e432ebeaae8a836609e80bb83a45a3ba230f4fd7d0ab0dba2103eda57d62478b432186a7bdd9fd3ab65ae4e88df3a23970ee207a0843801676a050246b4d631814eff25564f5eea5f app=live/?id=0ad5aac39bb13fbefb416ec726ba718dd45144d284bfbd5387cb52f9580282c9f3fc8dc25cea3a235ebf1fcfc37f734bf6d32d923cee9e09bb4fc06360a19a522e851819f3e6657911f3518bde00871e432ebeaae8a836609e80bb83a45a3ba230f4fd7d0ab0dba2103eda57d62478b432186a7bdd9fd3ab65ae4e88df3a23970ee207a0843801676a050246b4d631814eff25564f5eea5f playpath=14.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-25" tvg-name="BBC_Two" group-title="Main" tvg-logo="BBC Two.png",BBC Two
+rtmp://live306.edge.filmon.com/live/?id=0ad5aac39bb13fbef56344d35fb50a1381dfad2d897860a880f468f40da19436e6ddd2364a6ce7ddc75f431d650f89f74ba58f48502998392ad41a0dc70ebb774ead13c44d8f8369742489683b1155e12d88f28246a96993ac26de56d9852b8974a1df75b381a96a7133501e1783823fd0bb485d2ad5856ca80d5907feff680d6b154b8ba91b1af1ffddd7ecb208c4c55eb4f475687486b9 app=live/?id=0ad5aac39bb13fbef56344d35fb50a1381dfad2d897860a880f468f40da19436e6ddd2364a6ce7ddc75f431d650f89f74ba58f48502998392ad41a0dc70ebb774ead13c44d8f8369742489683b1155e12d88f28246a96993ac26de56d9852b8974a1df75b381a96a7133501e1783823fd0bb485d2ad5856ca80d5907feff680d6b154b8ba91b1af1ffddd7ecb208c4c55eb4f475687486b9 playpath=25.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-113" tvg-name="BBC_Three-CBBC" group-title="Main" tvg-logo="BBC Three-CBBC.png",BBC Three-CBBC
+rtmp://live306.edge.filmon.com/live/?id=0ad5aac39bb13fbee8c5842dd5918b283655ac34697a86e42445a987bd1599bcc0290383cffdf8f7567f193d89e624fd7a311bdd758449122e688bd6e9a81dfc1cf3834d26340837dbdf8e3ca586ee504ba1997ce002afdacf225059d3bf7bfaf1789981f18c91f60764c252fe61c4afc4999423e864a7d002851a54641a30e89214c12030954baa1e6b872ffbbecc52c34d6019f37019dd app=live/?id=0ad5aac39bb13fbee8c5842dd5918b283655ac34697a86e42445a987bd1599bcc0290383cffdf8f7567f193d89e624fd7a311bdd758449122e688bd6e9a81dfc1cf3834d26340837dbdf8e3ca586ee504ba1997ce002afdacf225059d3bf7bfaf1789981f18c91f60764c252fe61c4afc4999423e864a7d002851a54641a30e89214c12030954baa1e6b872ffbbecc52c34d6019f37019dd playpath=113.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-103" tvg-name="BBC_Four-CBEEBIES" group-title="Main" tvg-logo="BBC Four-CBEEBIES.png",BBC Four-CBEEBIES
+rtmp://live306.edge.filmon.com/live/?id=0ad5aac39bb13fbe6ffa27bcd43b4bb67710f1fc4f6182afb29f4d142a62124c1f9a25f7ea057ed0d64261b1ec95c8156c833b1b16d9d16cd6c821d1f2369e43f14d75072aea68bda9ebcf8221e974c2811466e53e900040b3c08553bcb92a7ed8b8e21f32ac28605a79e813abe13c8c3cc28c8d08b34f3435f3230cb8f86287309641fd7a339a21686431f8192319e1b008c3b981468240 app=live/?id=0ad5aac39bb13fbe6ffa27bcd43b4bb67710f1fc4f6182afb29f4d142a62124c1f9a25f7ea057ed0d64261b1ec95c8156c833b1b16d9d16cd6c821d1f2369e43f14d75072aea68bda9ebcf8221e974c2811466e53e900040b3c08553bcb92a7ed8b8e21f32ac28605a79e813abe13c8c3cc28c8d08b34f3435f3230cb8f86287309641fd7a339a21686431f8192319e1b008c3b981468240 playpath=103.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-371" tvg-name="Pick_TV" group-title="Main" tvg-logo="Pick TV.png",Pick TV
+rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbe3091c56416d680e7d4f59c48e7263e61db84c8edc0d9759b018960049bde5a2cfe0b8b63d6d2be3ea7131c7e507ab2ed3e21506adc0c97c639d228a87e56a9e327feaef512e8c39697fa8a9b8186cee4386712e1e504b1f2ac1a0d4628455b33388c8de9c3e352b3934447d5e15ae3e5340bc6ea3e430a8c0293107909460a699780eace4393abe0e937f0e199289a84 app=live/?id=0ad5aac39bb13fbe3091c56416d680e7d4f59c48e7263e61db84c8edc0d9759b018960049bde5a2cfe0b8b63d6d2be3ea7131c7e507ab2ed3e21506adc0c97c639d228a87e56a9e327feaef512e8c39697fa8a9b8186cee4386712e1e504b1f2ac1a0d4628455b33388c8de9c3e352b3934447d5e15ae3e5340bc6ea3e430a8c0293107909460a699780eace4393abe0e937f0e199289a84 playpath=371.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-370" tvg-name="Dave" group-title="Main" tvg-logo="Dave.png",Dave
+rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbe6ffa27bcd43b4bb6148e676a52d8694afff225820d7a3704153c017df4eb3e365f22f9d03dcd1759e644919e1261b1740e9978d69cc2ef6f3fd1cfd6d5d0e1b17c032677fc866ece575607561da6d383556e853b04fe3c474f1215c04fcb2e94011e26c64c9d5ded5bc9788610dbe6dc70f8a5490330340440bc00254645cf48c95f13fa88c4d162f40d06ae35f71904 app=live/?id=0ad5aac39bb13fbe6ffa27bcd43b4bb6148e676a52d8694afff225820d7a3704153c017df4eb3e365f22f9d03dcd1759e644919e1261b1740e9978d69cc2ef6f3fd1cfd6d5d0e1b17c032677fc866ece575607561da6d383556e853b04fe3c474f1215c04fcb2e94011e26c64c9d5ded5bc9788610dbe6dc70f8a5490330340440bc00254645cf48c95f13fa88c4d162f40d06ae35f71904 playpath=370.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-2707" tvg-name="QUEST" group-title="Main" tvg-logo="QUEST.png",QUEST
+rtmp://live307.edge.filmon.com/live/?id=0ad5aac39bb13fbe914d70b3d268400485172aa92279631b501051b8a511c3f11d1a8d35d370914b4edf811781956512d7a5fed117a45a26f3d5e42f41d86ae44298a728729dda2c5e443e651e2be047eb5ede90a6cfb943b29148330af97e04e183ce07023a4c59e22837d7c1638448bac489afcbfaf3cd7512dedc790cace43c2ec005c9c52465458a1b7986a5ae1df5ddd79dc4e8244a app=live/?id=0ad5aac39bb13fbe914d70b3d268400485172aa92279631b501051b8a511c3f11d1a8d35d370914b4edf811781956512d7a5fed117a45a26f3d5e42f41d86ae44298a728729dda2c5e443e651e2be047eb5ede90a6cfb943b29148330af97e04e183ce07023a4c59e22837d7c1638448bac489afcbfaf3cd7512dedc790cace43c2ec005c9c52465458a1b7986a5ae1df5ddd79dc4e8244a playpath=2707.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-842" tvg-name="Travel_Channel+1" group-title="Main" tvg-logo="Travel Channel+1.png",Travel Channel+1
+rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbec6744d581e82362c9424e5f84b5adac48d1e545c2e7977306aa76d0dd94d5f93062d2dd44c293beeb10bfb5cd3e4a0ed147678f4e1939bdecf755c7dd7f12846741225168fb81a920a8da58fd74eeb161de327f41588b36e202b689cead994b16abfa609dcb000aa39113f8fe600be4103fe085e7560d1c53eefac381280d95691831c741f632edd37f2fa294da67856 app=live/?id=0ad5aac39bb13fbec6744d581e82362c9424e5f84b5adac48d1e545c2e7977306aa76d0dd94d5f93062d2dd44c293beeb10bfb5cd3e4a0ed147678f4e1939bdecf755c7dd7f12846741225168fb81a920a8da58fd74eeb161de327f41588b36e202b689cead994b16abfa609dcb000aa39113f8fe600be4103fe085e7560d1c53eefac381280d95691831c741f632edd37f2fa294da67856 playpath=842.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-20" tvg-name="Food_Network" group-title="Main" tvg-logo="Food Network.png",Food Network
+rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe6ffa27bcd43b4bb67605ddfa9605354647b1087308305bb55e756d85fee6bba2469953a1e57192579e851343cbdc08799a4b63c6efc146457eb309109d6231b7086061571f3f738d89fbb82980688f3f54ae436f7f9479ae226f2c57cca7e5ed7f4a0924697ddf9e0a8e49aca0dc25ee117727d5c9b72804e14bf77c0f81b6bd2cdf7b8aef1111cdad996fb9345adee3 app=live/?id=0ad5aac39bb13fbe6ffa27bcd43b4bb67605ddfa9605354647b1087308305bb55e756d85fee6bba2469953a1e57192579e851343cbdc08799a4b63c6efc146457eb309109d6231b7086061571f3f738d89fbb82980688f3f54ae436f7f9479ae226f2c57cca7e5ed7f4a0924697ddf9e0a8e49aca0dc25ee117727d5c9b72804e14bf77c0f81b6bd2cdf7b8aef1111cdad996fb9345adee3 playpath=20.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-372" tvg-name="Really" group-title="Main" tvg-logo="Really.png",Really
+rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbe782659e2f083b7025f95aacc58e8defb1fb883d86023dacb286e736ec21babcd25b4661ea1c4d7d2b7ba8243831b660e2bc726b013e4c021eac2fec15aaf16802bd87c2b6ec313a02460aebe6a87637ef5b22168cd1bf56d4972543d2ea3e21162f0becbb1115a473bebf4fee1f9f3eb757d7e65dc2ea8fe00836eb75a9b227bd04f4434888deb03746413b3386282c7 app=live/?id=0ad5aac39bb13fbe782659e2f083b7025f95aacc58e8defb1fb883d86023dacb286e736ec21babcd25b4661ea1c4d7d2b7ba8243831b660e2bc726b013e4c021eac2fec15aaf16802bd87c2b6ec313a02460aebe6a87637ef5b22168cd1bf56d4972543d2ea3e21162f0becbb1115a473bebf4fee1f9f3eb757d7e65dc2ea8fe00836eb75a9b227bd04f4434888deb03746413b3386282c7 playpath=372.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-2" tvg-name="Channel_4" group-title="Main" tvg-logo="Channel 4.png",Channel 4
+rtmp://live303.edge.filmon.com/live/?id=0ad5aac39bb13fbefb416ec726ba718d70e97405f555453500b07749194a48a7b60d8635ed1769a039e12e28081c9f7dff5c6e870b22a1ac6747ec3264000b988a601f593253ca994d95d53af448602c58c30a9d5ff043a13268038bac0293fabbdc5e3603fe2333c4fc1b41b1c9f2674bf40491140b173585d16c5ac140820b30ed4556ba222b332f835f887f9756d2c2b4dae46f3c1509 app=live/?id=0ad5aac39bb13fbefb416ec726ba718d70e97405f555453500b07749194a48a7b60d8635ed1769a039e12e28081c9f7dff5c6e870b22a1ac6747ec3264000b988a601f593253ca994d95d53af448602c58c30a9d5ff043a13268038bac0293fabbdc5e3603fe2333c4fc1b41b1c9f2674bf40491140b173585d16c5ac140820b30ed4556ba222b332f835f887f9756d2c2b4dae46f3c1509 playpath=2.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-97" tvg-name="More4" group-title="Main" tvg-logo="More4.png",More4
+rtmp://live304.edge.filmon.com/live/?id=0ad5aac39bb13fbef56344d35fb50a134fcb5c9498937c71377ca4a6b88be309b4a5aeddcdcbcd923687838e367d67bc0039f027fbb8ddfb33b39531ff20c1fd8c24e6031b47506d8516f5ab7e0bc223a586e527508d6ece00c7945c92078a9e9d2e6a93c75da5787f8f37b85228b6eb168b7fd4b2f4ebb0cecac6a0c2de2d90813a2fd8b0cfc2edd7d4e531433e20124887a067213b189d app=live/?id=0ad5aac39bb13fbef56344d35fb50a134fcb5c9498937c71377ca4a6b88be309b4a5aeddcdcbcd923687838e367d67bc0039f027fbb8ddfb33b39531ff20c1fd8c24e6031b47506d8516f5ab7e0bc223a586e527508d6ece00c7945c92078a9e9d2e6a93c75da5787f8f37b85228b6eb168b7fd4b2f4ebb0cecac6a0c2de2d90813a2fd8b0cfc2edd7d4e531433e20124887a067213b189d playpath=97.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-22" tvg-name="Channel_5" group-title="Main" tvg-logo="Channel 5.png",Channel 5
+rtmp://live303.edge.filmon.com/live/?id=0ad5aac39bb13fbef56344d35fb50a133844fd57c8b87c7bd5dcfee30c97d35af13e38b92528f9e600dd0d64e55e9cc145f22ec9e4fd2a0bfdc9a3060c85f96ae4662d6c740704022327d2253251e32bd0ba2bb27f860c390d8964ac8727d74d664b985bf29af3deb14385e559862093f8f993cbcdf336d0070323f6a01328f16710c274597b5170a5860bf6c6a091ee567f96496dfc3359 app=live/?id=0ad5aac39bb13fbef56344d35fb50a133844fd57c8b87c7bd5dcfee30c97d35af13e38b92528f9e600dd0d64e55e9cc145f22ec9e4fd2a0bfdc9a3060c85f96ae4662d6c740704022327d2253251e32bd0ba2bb27f860c390d8964ac8727d74d664b985bf29af3deb14385e559862093f8f993cbcdf336d0070323f6a01328f16710c274597b5170a5860bf6c6a091ee567f96496dfc3359 playpath=22.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-8" tvg-name="Viva" group-title="Main" tvg-logo="Viva.png",Viva
+rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbec6744d581e82362cb1962ab9dc924e423efa83ce36fc3e9c741967d0febc45f7660461d315932135408f9d6994213da8d7a1cc0c84a18078b036f71f5cd9b684f65a77d8f1a042f04a0ef5ef28f36203fd3c8e9f6a6c05ffa91f264b92b7d9d1d7064a4912566357cd53ecce5f58bf2b7fa083421260884de1aa1092f69970b6b15844cfb6169c9878483f6e4a25125c app=live/?id=0ad5aac39bb13fbec6744d581e82362cb1962ab9dc924e423efa83ce36fc3e9c741967d0febc45f7660461d315932135408f9d6994213da8d7a1cc0c84a18078b036f71f5cd9b684f65a77d8f1a042f04a0ef5ef28f36203fd3c8e9f6a6c05ffa91f264b92b7d9d1d7064a4912566357cd53ecce5f58bf2b7fa083421260884de1aa1092f69970b6b15844cfb6169c9878483f6e4a25125c playpath=8.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-95" tvg-name="4_Music" group-title="Main" tvg-logo="4 Music.png",4 Music
+rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbee8c5842dd5918b28dc9365b25ae7da1147e62f9c0a3f3e2c17985471bb72964936262f8cbe367826f6658c130d008cf5bcab60da10e9b2a35653d6619127df07e24ee72b7d07f0b49263b4a106852f7dced1c06af5e2f7908184383c79971879803a9eb7fa2fed96475c45bb1513a3d941d61176a7a7e79dc3ca4e82a3a5a7354d2c835f3b2324a516a2660ceb32107f app=live/?id=0ad5aac39bb13fbee8c5842dd5918b28dc9365b25ae7da1147e62f9c0a3f3e2c17985471bb72964936262f8cbe367826f6658c130d008cf5bcab60da10e9b2a35653d6619127df07e24ee72b7d07f0b49263b4a106852f7dced1c06af5e2f7908184383c79971879803a9eb7fa2fed96475c45bb1513a3d941d61176a7a7e79dc3ca4e82a3a5a7354d2c835f3b2324a516a2660ceb32107f playpath=95.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-1805" tvg-name="CBS_Drama" group-title="Main" tvg-logo="CBS Drama.png",CBS Drama
+rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbefb416ec726ba718d827549ee6d59e9c2a1ae0dd982eae98ab0139273a8c1a9e401885936c9093c0c0a9b8a0204eec95040d37f160fe45eb38c468bfd59daafddb1807630c5f74769134bc640e13cf1c372b2ead5c2c12faaf2ebd3b053b40f2920a92f9b7e6361522c364bee3f49e29daa3d4aa0ff661f8f89d60bd42a9d6add8b4da15e991bbd4d4b4990747aa83683 app=live/?id=0ad5aac39bb13fbefb416ec726ba718d827549ee6d59e9c2a1ae0dd982eae98ab0139273a8c1a9e401885936c9093c0c0a9b8a0204eec95040d37f160fe45eb38c468bfd59daafddb1807630c5f74769134bc640e13cf1c372b2ead5c2c12faaf2ebd3b053b40f2920a92f9b7e6361522c364bee3f49e29daa3d4aa0ff661f8f89d60bd42a9d6add8b4da15e991bbd4d4b4990747aa83683 playpath=1805.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-1808" tvg-name="CBS_Reality" group-title="Main" tvg-logo="CBS Reality.png",CBS Reality
+rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbee8c5842dd5918b285656910f4bac61837ec56c133b4cd8f3b12441dc8244b5c9fb5f5f3fc358ba41531543c4f30618f0fce4f504ca3a295fe8d1cacbd3f3dae07bf2b7abc69f8c031a6104e9ffe74deac7fa2423c2f392bf89d890e2b6e6f151b66937c9773fec2389b67fb99219b46d075e8e6f6c9f5a23aace14eaf4225121a398eaed6ea2328030c1efbf9780fa46 app=live/?id=0ad5aac39bb13fbee8c5842dd5918b285656910f4bac61837ec56c133b4cd8f3b12441dc8244b5c9fb5f5f3fc358ba41531543c4f30618f0fce4f504ca3a295fe8d1cacbd3f3dae07bf2b7abc69f8c031a6104e9ffe74deac7fa2423c2f392bf89d890e2b6e6f151b66937c9773fec2389b67fb99219b46d075e8e6f6c9f5a23aace14eaf4225121a398eaed6ea2328030c1efbf9780fa46 playpath=1808.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-11" tvg-name="ITV1" group-title="Main" tvg-logo="ITV1.png",ITV1
+rtmp://live302.edge.filmon.com/live/?id=0ad5aac39bb13fbef56344d35fb50a1393ce95ba2f1c1bd4aea1c61ed61e62e86ebd3faccb390b82fdfa7870771203f532f01bb2935aac2a120fda425ebe20eace1c24ad113e643580b1fa9c82119244f5e7821970331610e316762e5ea64b48fd4d55a583dcb3f0978e0690462dd200a9c2ad7c6bfe8bf39a14587a02d3e7ee6fbec760cc37a3590a78174b96681a903eaaa614966a7285 app=live/?id=0ad5aac39bb13fbef56344d35fb50a1393ce95ba2f1c1bd4aea1c61ed61e62e86ebd3faccb390b82fdfa7870771203f532f01bb2935aac2a120fda425ebe20eace1c24ad113e643580b1fa9c82119244f5e7821970331610e316762e5ea64b48fd4d55a583dcb3f0978e0690462dd200a9c2ad7c6bfe8bf39a14587a02d3e7ee6fbec760cc37a3590a78174b96681a903eaaa614966a7285 playpath=11.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-67" tvg-name="ITV2" group-title="Main" tvg-logo="ITV2.png",ITV2
+rtmp://live302.edge.filmon.com/live/?id=0ad5aac39bb13fbe9a437a9a4c60070062f5bdd599807596f2b795c664608352861a88a555798744c7fdfea57df77ee5116b4efc14fa08553990da8f0f3c806ace4a8eac775b3c82e201a5556a71a988c3b837d3d9ede544d350608fa6c60f9679f81955ce6fcea6e42d72e99954cda4c4fd944e69add493183a8ea88a56e546b4838ff186d3f5551048c5c00422a711cb4245d4ebd57107 app=live/?id=0ad5aac39bb13fbe9a437a9a4c60070062f5bdd599807596f2b795c664608352861a88a555798744c7fdfea57df77ee5116b4efc14fa08553990da8f0f3c806ace4a8eac775b3c82e201a5556a71a988c3b837d3d9ede544d350608fa6c60f9679f81955ce6fcea6e42d72e99954cda4c4fd944e69add493183a8ea88a56e546b4838ff186d3f5551048c5c00422a711cb4245d4ebd57107 playpath=67.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-26" tvg-name="ITV3" group-title="Main" tvg-logo="ITV3.png",ITV3
+rtmp://live302.edge.filmon.com/live/?id=0ad5aac39bb13fbe3091c56416d680e77a7e918e3c879b572051711d0e6c10ee0bd4b62347f40734e126be1a5a986046037594485a4daf63eb97a7e76a42a2ce0dc6edafa062c58d317e6413fd49a296b3224749b3bd055363d5d00f83916756dc9813caaab794a5f352c6e44d1261af163995af92f4c0ae3844f51e06adeb2511d125b12ed7015716dc6e74829d2429dadff4483396d560 app=live/?id=0ad5aac39bb13fbe3091c56416d680e77a7e918e3c879b572051711d0e6c10ee0bd4b62347f40734e126be1a5a986046037594485a4daf63eb97a7e76a42a2ce0dc6edafa062c58d317e6413fd49a296b3224749b3bd055363d5d00f83916756dc9813caaab794a5f352c6e44d1261af163995af92f4c0ae3844f51e06adeb2511d125b12ed7015716dc6e74829d2429dadff4483396d560 playpath=26.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-101" tvg-name="ITV4" group-title="Main" tvg-logo="ITV4.png",ITV4
+rtmp://live302.edge.filmon.com/live/?id=0ad5aac39bb13fbef56344d35fb50a13d11cac653f76c3af4e75df09f9cd5e6669b788dfe231aba8e16401615fbb50cbd0b62b0a0adef31760293d69b98c4f5fb60ea6071173862f1852c80944400b32579da46eeef903657c30186c7e99f7ba4fcbba41e25a7b8e49294d456f8a8aaa31f3a6d572cb81d5441b08f661c6cd60f02b2a697799faa81e3f513e15a03d5ab135cce305357068 app=live/?id=0ad5aac39bb13fbef56344d35fb50a13d11cac653f76c3af4e75df09f9cd5e6669b788dfe231aba8e16401615fbb50cbd0b62b0a0adef31760293d69b98c4f5fb60ea6071173862f1852c80944400b32579da46eeef903657c30186c7e99f7ba4fcbba41e25a7b8e49294d456f8a8aaa31f3a6d572cb81d5441b08f661c6cd60f02b2a697799faa81e3f513e15a03d5ab135cce305357068 playpath=101.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="RTE One" tvg-name="RTE_One" group-title="Main" tvg-logo="RTE One.png",RTE One
+rtmp://fmsod.rte.ie:1935/live playpath=rte1 swfUrl=http://www.rte.ie/static/player/swf/osmf2_541_2012_11_14.swf live=1 pageUrl=http://www.rte.ie/player/nl/live/8/ swfVfy=1
+
+#EXTINF:-1 tvg-id="RTE Two" tvg-name="RTE_Two" group-title="Main" tvg-logo="RTE Two.png",RTE Two
+rtmp://fmsod.rte.ie:1935/live playpath=rte2 swfUrl=http://www.rte.ie/static/player/swf/osmf2_541_2012_11_14.swf live=1 pageUrl=http://www.rte.ie/player/nl/live/8/ swfVfy=1
+
+#EXTINF:-1 tvg-id="Outdoor Channel" tvg-name="Outdoor_Channel" group-title="Main" tvg-logo="Outdoor Channel.png",Outdoor Channel
+rtmp://lm02.everyon.tv:1935/ptv2/pld613
+
+#EXTINF:-1 tvg-id="Animal Planet RU" tvg-name="Animal_Planet_RU" group-title="Main" tvg-logo="Animal Planet RU.png",Animal Planet HD
+rtmp://s01.webport.tv/promo/mtv live=2
+
+#EXTINF:-1 tvg-id="fil-330" tvg-name="NASA_HD" group-title="Main" tvg-logo="NASA HD.png",NASA HD
+rtmp://live301.edge.filmon.com/live/?id=0ad5aac39bb13fbe3091c56416d680e74a8eafe338f830d16fcf21043e5faccdeab8495772e32fd9fec68209c6ac37345eaafcaef2b788126991b3197ffb2fc7170883896a269a8d54eff809d03c3f459e3c5bc8994bfc7382a2fdcb6aa1d27307276fc408dbb4c4e33f3b6eaaa6994bede14b3c7360f7efb792a17259ce9efcf007261dabcff6153fcbf007583222a94e9218f858f10f28 app=live/?id=0ad5aac39bb13fbe3091c56416d680e74a8eafe338f830d16fcf21043e5faccdeab8495772e32fd9fec68209c6ac37345eaafcaef2b788126991b3197ffb2fc7170883896a269a8d54eff809d03c3f459e3c5bc8994bfc7382a2fdcb6aa1d27307276fc408dbb4c4e33f3b6eaaa6994bede14b3c7360f7efb792a17259ce9efcf007261dabcff6153fcbf007583222a94e9218f858f10f28 playpath=330.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="TWiT" tvg-name="TWiT" group-title="Main" tvg-logo="TWiT.png",TWiT
+http://bglive-a.bitgravity.com/twit/live/high
+
+#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE_Sport_Stars" group-title="Main" tvg-logo="TRACE Sport Stars.png",TRACE Sport Stars
+http://46.249.213.87/iPhone/broadcast/tracetvsports-tablet.3gp/tracetvsports-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
+
+#EXTINF:-1 tvg-id="FastnFun Box HD" tvg-name="FastnFun_Box_HD" group-title="Main" tvg-logo="FastnFun Box HD.png",Fast & FunBox HD
+http://spi-live.ercdn.net/spi/fastnfunhd_0_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FightBox HD" tvg-name="FightBox_HD" group-title="Main" tvg-logo="FightBox HD.png",FightBox HD
+http://spi-live.ercdn.net/spi/fightboxhd_0_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="Main" tvg-logo="ESPN.png",ESPN
+rtmp://31.7.58.250:1935/stream/5654ygt.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=1 pageUrl=http://thecdn.04stream.com/live=1
+
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA_TV" group-title="Main" tvg-logo="NBA TV.png",NBA TV
+rtmp://46.246.29.141:1935/stream/K8l9h6j8.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf pageUrl=http://04stream.com/ live=true
+
+#EXTINF:-1 tvg-id="NFL TV" tvg-name="NFL_TV" group-title="Main" tvg-logo="NFL TV.png",NFL TV
+rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com
+
+#EXTINF:-1 tvg-id="fil-79" tvg-name="Dubai_Sports" group-title="Main" tvg-logo="Dubai Sports.png",Dubai Sports
+rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbefb416ec726ba718d8b0d4edfa4a870a8358244de9f0793da23b8d5d66e003915140f970405ae5a062e2b509feef36510262fc14f9ea21c2cb6ce923659c1dc8dfcb9b1b14362b3b763de5369d58e7c62ddaeae7df9760eac34d7368219241865f5b4669c858854405947af0d27649b0dbba3d933406728c794f7a26869e7fe8cd24b91b88737c0e39e06046c82bdaf80 app=live/?id=0ad5aac39bb13fbefb416ec726ba718d8b0d4edfa4a870a8358244de9f0793da23b8d5d66e003915140f970405ae5a062e2b509feef36510262fc14f9ea21c2cb6ce923659c1dc8dfcb9b1b14362b3b763de5369d58e7c62ddaeae7df9760eac34d7368219241865f5b4669c858854405947af0d27649b0dbba3d933406728c794f7a26869e7fe8cd24b91b88737c0e39e06046c82bdaf80 playpath=79.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="Chelsea TV" tvg-name="Chelsea_TV" group-title="Main" tvg-logo="Chelsea TV.png",Chelsea TV
+rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/Chelsea TV on k1m05 Live TV
+
+#EXTINF:-1 tvg-id="fil-2771" tvg-name="Eurosport_Deutschland" group-title="Main" tvg-logo="Eurosport Deutschland.png",Eurosport Deutschland
+rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbe3091c56416d680e71b96199404539e9cac12a2df860049719b60af9fb6d1e3c1a1c808a1a42df94fb6a26f22a0286e2e0b94e1b9095faa7c65c5c0c10883d3d1151c852ecc6d683f85bc51073ad2888e84b7d45ced3a966be79842a628ff67237f403a743336fe6ceef61582d7c4d0752158b3d63cc4f314ce4299f3013209f1787d2369462738cdcb9479f233c5ee21 app=live/?id=0ad5aac39bb13fbe3091c56416d680e71b96199404539e9cac12a2df860049719b60af9fb6d1e3c1a1c808a1a42df94fb6a26f22a0286e2e0b94e1b9095faa7c65c5c0c10883d3d1151c852ecc6d683f85bc51073ad2888e84b7d45ced3a966be79842a628ff67237f403a743336fe6ceef61582d7c4d0752158b3d63cc4f314ce4299f3013209f1787d2369462738cdcb9479f233c5ee21 playpath=2771.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-21" tvg-name="Fashion_TV" group-title="Main" tvg-logo="Fashion TV.png",Fashion TV
+rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbee8c5842dd5918b28c3a1f1786fe8618af94d0f1bbf49fcdf17ca8c5f720294cfadea3eb61fc25ba7a1e2424a46d4f9c6fbec72b061801528c9aadd48636b28ef8a5f471fd3ff19601c8ca4d26bc5db4b43a2688618039becfba4f91f0be26b4e7b6f748a93ba0301df6329f6f8290b15be713c549e287bd9a5c84c60b332dfc13d61430479e8ee41c7ddb5b53e3cb552 app=live/?id=0ad5aac39bb13fbee8c5842dd5918b28c3a1f1786fe8618af94d0f1bbf49fcdf17ca8c5f720294cfadea3eb61fc25ba7a1e2424a46d4f9c6fbec72b061801528c9aadd48636b28ef8a5f471fd3ff19601c8ca4d26bc5db4b43a2688618039becfba4f91f0be26b4e7b6f748a93ba0301df6329f6f8290b15be713c549e287bd9a5c84c60b332dfc13d61430479e8ee41c7ddb5b53e3cb552 playpath=21.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="360 Tune Box" tvg-name="360_Tune_Box" group-title="Main" tvg-logo="360 Tune Box.png",360 Tune Box
+http://spi-live.ercdn.net:80/spi/360tuneboxhd_0_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fil-272" tvg-name="THECOOLTV" group-title="Main" tvg-logo="THECOOLTV.png",THECOOLTV
+rtmp://live75.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbefb416ec726ba718d16cde02abc76083ea3f9d903d13eb19a04c1c24961b57ba66d8bcb4359b6d349f1715cedf4f6126be13c50b64083df46d392db5c57db9b7ddd03d75043d01d7a6f1a93a458b9c315a44a652235f23092a973aa78577f88fbcbe0b50d46d76133b39caa03a1d7dd21149eaecba94680f4819bef2a6c1a527a6502bcd303227b35c9b45be9e585b00b app=live/?id=0ad5aac39bb13fbefb416ec726ba718d16cde02abc76083ea3f9d903d13eb19a04c1c24961b57ba66d8bcb4359b6d349f1715cedf4f6126be13c50b64083df46d392db5c57db9b7ddd03d75043d01d7a6f1a93a458b9c315a44a652235f23092a973aa78577f88fbcbe0b50d46d76133b39caa03a1d7dd21149eaecba94680f4819bef2a6c1a527a6502bcd303227b35c9b45be9e585b00b playpath=272.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="Brit Asia TV" tvg-name="Brit_Asia_TV" group-title="Main" tvg-logo="Brit Asia TV.png",Brit Asia TV
+http://46.249.213.87/iPhone/broadcast/britasia-tablet.3gp/britasia-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
+
+#EXTINF:-1 tvg-id="4 Music TV" tvg-name="4_Music_TV" group-title="Main" tvg-logo="4 Music TV.png",4 Music TV
+http://46.249.213.87/iPhone/broadcast/4-tablet.3gp/4-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
+
+#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE_Urban" group-title="Main" tvg-logo="TRACE Urban.png",TRACE Urban
+http://46.249.213.87/iPhone/broadcast/tracetvurban-tablet.3gp/tracetvurban-tablet.3gp-mr647k.m3u8
+
+#EXTINF:-1 tvg-id="fil-691" tvg-name="Clubbing_TV" group-title="Main" tvg-logo="Clubbing TV.png",Clubbing TV
+rtmp://live53.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbe5c99ec49acb27196f00f0c3df9b0c766ac7aea14fd0bcbd83f018fb287058f6d98157dc20413d5947216cb22a04944903c452522a3af0f689e9b4335bb4c58ead6b9b0ae05e588792c1764c1920a3e8347f79914c4aeb4bf39c09a419a3f145c08e10b0543f23ddc0b63953265b37146bf44d4f30ce442f25350d4d1ed4a97b9aabff4b2e880228bed663113587edbc4 app=live/?id=0ad5aac39bb13fbe5c99ec49acb27196f00f0c3df9b0c766ac7aea14fd0bcbd83f018fb287058f6d98157dc20413d5947216cb22a04944903c452522a3af0f689e9b4335bb4c58ead6b9b0ae05e588792c1764c1920a3e8347f79914c4aeb4bf39c09a419a3f145c08e10b0543f23ddc0b63953265b37146bf44d4f30ce442f25350d4d1ed4a97b9aabff4b2e880228bed663113587edbc4 playpath=691.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="Virgin TV" tvg-name="Virgin_TV" group-title="Main" tvg-logo="Virgin TV.png",Virgin TV
+rtmp://fms.105.net:1935/live/virgin1 playpath=virgin1 swfurl=http://www.highermedia.com/assets/flash/jw_player.swf live=1 pageurl=http://www.google.com/Virgin 1
+
+#EXTINF:-1 tvg-id="Radio 105 TV" tvg-name="Radio_105_TV" group-title="Main" tvg-logo="Radio 105 TV.png",Radio 105 TV
+rtmp://fms.105.net:1935/live/105Test1 swfVfy=http://video.105.net/com/universalmind/swf/videoPlayerAdsWizz01.swf live=1 timeout=10
+
+#EXTINF:-1 tvg-id="Europa Plus TV" tvg-name="Europa_Plus_TV" group-title="Main" tvg-logo="Europa Plus TV.png",Europa Plus TV
+rtmp://europaplus.cdnvideo.ru:1935/europaplus-live playpath=mp4:eptv_main.sdp swfUrl=http://www.europaplustv.com/javascript/videoplayernew.swf pageUrl=http://www.europaplustv.com/online
+
+#EXTINF:-1 tvg-id="Kiss TV" tvg-name="Kiss_TV" group-title="Main" tvg-logo="Kiss TV.png",Kiss TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/ playpath=live swfUrl=http://www.kisstelevision.es/flowplayer-3.2.16.swf pageUrl=http://www.kisstelevision.es/
+
+#EXTINF:-1 tvg-id="4fun.tv" tvg-name="4fun.tv" group-title="Main" tvg-logo="4fun.tv.png",4fun.tv
+rtmp://edge2.popler.tv:1935/publishlive?play=123452 playpath=4funtv swfUrl=http://images.popler.tv/player/flowplayer.commercial.swf pageUrl=http://www.popler.tv/live/4funtv
+
+#EXTINF:-1 tvg-id="Music Box" tvg-name="Music_Box" group-title="Main" tvg-logo="Music Box.png",Music Box
+rtmp://musicbox.cdnvideo.ru/musicbox-live/musicboxtv.sdp
+
+#EXTINF:-1 tvg-id="i24news" tvg-name="i24news" group-title="Main" tvg-logo="i24news.png",i24news
+http://newslux-lh.akamaihd.net/english_1_650@134715?videoId=2552000984001&lineUpId=&pubId=2402232199001&playerId=2551661482001&affiliateId=&v=3.1.0&fp=WIN%2011,9,900,117&r=SCLWO&g=
+
+#EXTINF:-1 tvg-id="FOX News" tvg-name="FOX_News" group-title="Main" tvg-logo="FOX News.png",FOX News
+rtmpe://watch.playfooty.tv/live/foxnews1569 swfurl=http://www.playfooty.tv/play/player/player.swf pageurl=http://www.playfooty.tv/play/embed.php?u=foxnews1569&vw=600&vh=430
+
+#EXTINF:-1 tvg-id="HLN" tvg-name="HLN" group-title="Main" tvg-logo="HLN.png",HLN
+rtmp://c.cdn.livenewschat.eu/edge playpath=hln_live swfUrl=http://msnbclive.eu/player.swf swfVfy=1 live=1 pageUrl=http://weplaylive.tv timeout=15
+
+#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" group-title="Main" tvg-logo="MSNBC.png",MSNBC
+rtmp://c.cdn.livenewschat.eu/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/player.swf swfVfy=1 live=1 pageUrl=http://weplaylive.tv timeout=15
+
+#EXTINF:-1 tvg-id="fil-115" tvg-name="CNN_International" group-title="Main" tvg-logo="CNN International.png",CNN International
+rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbec6744d581e82362c661a18cd104572670008bbdf78343e25d15d8fa6a57cbfee78c85befa8e76c3caca8817662e51ae7ba09a1128000db30cff8dcd35c7bfbfcf56140a891b7de8c04ad0fd6325bf729d23f88e93b393c1d854f19c929e1609cbf63f14f301bb39d110b79ce1a211b57ba749204393b092411d99a400297272efcb72d08a989d7411a1f8ba84e5370e8 app=live/?id=0ad5aac39bb13fbec6744d581e82362c661a18cd104572670008bbdf78343e25d15d8fa6a57cbfee78c85befa8e76c3caca8817662e51ae7ba09a1128000db30cff8dcd35c7bfbfcf56140a891b7de8c04ad0fd6325bf729d23f88e93b393c1d854f19c929e1609cbf63f14f301bb39d110b79ce1a211b57ba749204393b092411d99a400297272efcb72d08a989d7411a1f8ba84e5370e8 playpath=115.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky_News" group-title="Main" tvg-logo="Sky News.png",Sky News
+http://hd2.lsops.net/live/skynewsi_en_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fil-298" tvg-name="France24" group-title="Main" tvg-logo="France24.png",France24
+rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbee8c5842dd5918b28c3a1f1786fe8618a3b5b85a05f3c2d2ebb319588d4990932a04618a76f3b72ac80a5b482578873e3018f759be9aa4ccd01c381887dfe01379a5160be70dd433c7aef34519ddd1e3c0c472945d9d394b52ca858763a89583c3bab49ff6155d8a8ba37b7490e42ed1c2da8058977464fbe8024631f552b011fe86776b9307ab2a929d6d6d84e339570 app=live/?id=0ad5aac39bb13fbee8c5842dd5918b28c3a1f1786fe8618a3b5b85a05f3c2d2ebb319588d4990932a04618a76f3b72ac80a5b482578873e3018f759be9aa4ccd01c381887dfe01379a5160be70dd433c7aef34519ddd1e3c0c472945d9d394b52ca858763a89583c3bab49ff6155d8a8ba37b7490e42ed1c2da8058977464fbe8024631f552b011fe86776b9307ab2a929d6d6d84e339570 playpath=298.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-81" tvg-name="Bloomberg" group-title="Main" tvg-logo="Bloomberg.png",Bloomberg
+rtmp://live304.edge.filmon.com/live/?id=0ad5aac39bb13fbe6ffa27bcd43b4bb6c1fac219e6a175c502ecca19c07df35d96c3cbe71ab16aef500a0892636b3cbb8283fcfcafc12338cdcf0a4593b60dd80c56128106bdd9dc5dcdb010bcf008727fdf65a9d65d2876e81f278666ee58918945f07d400290d1cc1a634163293dcf3975afb7238a77ba999c327eb05440abb0eba58e4ce263c06959168a22d0a88e9f23c322bac2a569 app=live/?id=0ad5aac39bb13fbe6ffa27bcd43b4bb6c1fac219e6a175c502ecca19c07df35d96c3cbe71ab16aef500a0892636b3cbb8283fcfcafc12338cdcf0a4593b60dd80c56128106bdd9dc5dcdb010bcf008727fdf65a9d65d2876e81f278666ee58918945f07d400290d1cc1a634163293dcf3975afb7238a77ba999c327eb05440abb0eba58e4ce263c06959168a22d0a88e9f23c322bac2a569 playpath=81.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-27" tvg-name="BBC_News" group-title="Main" tvg-logo="BBC News.png",BBC News
+rtmp://live304.edge.filmon.com/live/?id=0ad5aac39bb13fbef56344d35fb50a13d4f1ca085c31cc7d3df5b78ba1086c1101e7cbd53692f5c96b4c347b08e3ec9543df692a429e6980c7adac994075e65c2a7a3463677d88b8f3525240fe8cc5775f2ee0028a9368310d52abb294f022c2ddb78a9fa2733a9b8262094daa914cc3668e150eb4a33fb75c53b0fad736dd836a50ad5f63b97c9a4f346fb2a4c51106d12bf7390c39011f app=live/?id=0ad5aac39bb13fbef56344d35fb50a13d4f1ca085c31cc7d3df5b78ba1086c1101e7cbd53692f5c96b4c347b08e3ec9543df692a429e6980c7adac994075e65c2a7a3463677d88b8f3525240fe8cc5775f2ee0028a9368310d52abb294f022c2ddb78a9fa2733a9b8262094daa914cc3668e150eb4a33fb75c53b0fad736dd836a50ad5f63b97c9a4f346fb2a4c51106d12bf7390c39011f playpath=27.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC_World_News" group-title="Main" tvg-logo="BBC World News.png",BBC World News
+http://ca-edge-8.cdn2.streamago.tv:80/streamagoedge/1916/809/anjalo_bbc.m3u8
+
+#EXTINF:-1 tvg-id="fil-4" tvg-name="Al_Jazeera" group-title="Main" tvg-logo="Al Jazeera.png",Al Jazeera
+rtmp://live303.edge.filmon.com/live/?id=0ad5aac39bb13fbec6744d581e82362c77e049218b07f93df645a2e5c1caef52710c5ee6ce5ff72e029e2e62be8513bd8ea4737d61284ea8e6cde949a971d76516ebd969fa375b28fbb30818072ac4c337fa6911494c8aa32e03e8b7b83a142b07eb9a2b09bd9349242fa7b0c10c5b931cb43d6810dc70831f9d3350af5289a0b4b4b3541f5a3b7ef6ed893f45e5e5cf4d0445223a854e30 app=live/?id=0ad5aac39bb13fbec6744d581e82362c77e049218b07f93df645a2e5c1caef52710c5ee6ce5ff72e029e2e62be8513bd8ea4737d61284ea8e6cde949a971d76516ebd969fa375b28fbb30818072ac4c337fa6911494c8aa32e03e8b7b83a142b07eb9a2b09bd9349242fa7b0c10c5b931cb43d6810dc70831f9d3350af5289a0b4b4b3541f5a3b7ef6ed893f45e5e5cf4d0445223a854e30 playpath=4.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" group-title="Main" tvg-logo="CNBC.png",CNBC
+http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/master.m3u8
+
+#EXTINF:-1 tvg-id="fil-1672" tvg-name="Euronews_English" group-title="Main" tvg-logo="Euronews English.png",Euronews English
+rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbe6ffa27bcd43b4bb61739896d326ef01724cbb419af9d026eae31f14f2cc8a17a48f07fdaddfc1890124fb1f390db913798551f08d3dfd4b3d71cd54e5f66b2f8168f2bee0bfd75a348988e365483850559d9cbefca1e5dd2c84317ba6ec249c9d20405149d56d7dc6ab78cbeb12affa13e09b2a8fc4acf681ae8a1000ff37ca48ef642600855f69b2d8e620754799bd3 app=live/?id=0ad5aac39bb13fbe6ffa27bcd43b4bb61739896d326ef01724cbb419af9d026eae31f14f2cc8a17a48f07fdaddfc1890124fb1f390db913798551f08d3dfd4b3d71cd54e5f66b2f8168f2bee0bfd75a348988e365483850559d9cbefca1e5dd2c84317ba6ec249c9d20405149d56d7dc6ab78cbeb12affa13e09b2a8fc4acf681ae8a1000ff37ca48ef642600855f69b2d8e620754799bd3 playpath=1672.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="RT America" tvg-name="RT_America" group-title="Main" tvg-logo="RT America.png",RT America
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="fil-1675" tvg-name="CCTV_News" group-title="Main" tvg-logo="CCTV News.png",CCTV News
+rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbe3091c56416d680e7f202ce3d493876071523bd4f33ca080d72582a5531f97fa26e8c5037cb57999d0e5d9a9344745c0dbe41f307b59da9530c073a7dcee13e734ff71979096bc31aefaf2a97a9a0dd81fdd9d85921c082d7a08f893a4738b0b1c33fdc5eba6c9fd28ffd26aa2baa43bd8f08e49a1b965af580c868b1b872e1bd0d1bc7d3455050a21b76a92ad1ba2574 app=live/?id=0ad5aac39bb13fbe3091c56416d680e7f202ce3d493876071523bd4f33ca080d72582a5531f97fa26e8c5037cb57999d0e5d9a9344745c0dbe41f307b59da9530c073a7dcee13e734ff71979096bc31aefaf2a97a9a0dd81fdd9d85921c082d7a08f893a4738b0b1c33fdc5eba6c9fd28ffd26aa2baa43bd8f08e49a1b965af580c868b1b872e1bd0d1bc7d3455050a21b76a92ad1ba2574 playpath=1675.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-932" tvg-name="Arirang_TV" group-title="Main" tvg-logo="Arirang TV.png",Arirang TV
+rtmp://live307.edge.filmon.com/live/?id=0ad5aac39bb13fbee8c5842dd5918b28127dd2bf9cb000f431cd2a0e99143bc865c98863382921ae5cd664f1c0970b94e054bb293d87f5114e4b047c6a0b5f1380c166fd75c2f512a8a4b0eb181eeea82a9abf6902d768b0e9e8a7feb92adb8a2df8e4e587006d4b72a171174b7fb1a3ae2104f3826c65969f9257b9e30ea6cac20fcc66ce3faae5f693eb1f2fb73a86713ca2c5126bcbaa app=live/?id=0ad5aac39bb13fbee8c5842dd5918b28127dd2bf9cb000f431cd2a0e99143bc865c98863382921ae5cd664f1c0970b94e054bb293d87f5114e4b047c6a0b5f1380c166fd75c2f512a8a4b0eb181eeea82a9abf6902d768b0e9e8a7feb92adb8a2df8e4e587006d4b72a171174b7fb1a3ae2104f3826c65969f9257b9e30ea6cac20fcc66ce3faae5f693eb1f2fb73a86713ca2c5126bcbaa playpath=932.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-2641" tvg-name="DW_English" group-title="Main" tvg-logo="DW English.png",DW English
+rtmp://live60.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbe782659e2f083b70256991edcf55c1b114d3dd5fc5823b9d54120d0ee9dc4e62c5e6f9cc68fc6e5511e5e18004dd90e9043d6fd8345b478717acb012eac9985ce933e6ba1c2a01817d31ec717ad9d669878ebcf36805ac18384cf4c59654000e6ee650191ee0d7d268bf7e6b9bc71f4de91048d20e96e887f17bfd84ea4c649377c543e44da1900431fc32b43ca6951fe app=live/?id=0ad5aac39bb13fbe782659e2f083b70256991edcf55c1b114d3dd5fc5823b9d54120d0ee9dc4e62c5e6f9cc68fc6e5511e5e18004dd90e9043d6fd8345b478717acb012eac9985ce933e6ba1c2a01817d31ec717ad9d669878ebcf36805ac18384cf4c59654000e6ee650191ee0d7d268bf7e6b9bc71f4de91048d20e96e887f17bfd84ea4c649377c543e44da1900431fc32b43ca6951fe playpath=2641.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-364" tvg-name="M6_BOUTIQUE_LA_CHAINE" group-title="France" tvg-logo="M6 BOUTIQUE LA CHAINE.png",M6 BOUTIQUE LA CHAINE
+rtmp://live307.edge.filmon.com/live/?id=0ad5aac39bb13fbefb416ec726ba718ded30118d4e25df428f54dfe15878c97dce5138444b3ceabec2d979e075118570d8d2b8cf60b470e0f2d341acad2bb9aba8af16a1fd3603645a1f9e6af74219c7c9d605bf366c1a3de15fe07d865cd2de3bea8d4c285468bef18c7e097861ad62ce8a93696c602c268f0df18fbe00d0b4852dab18bea52a4ef9efa9645547e94c800bec3d48f7d7b4 app=live/?id=0ad5aac39bb13fbefb416ec726ba718ded30118d4e25df428f54dfe15878c97dce5138444b3ceabec2d979e075118570d8d2b8cf60b470e0f2d341acad2bb9aba8af16a1fd3603645a1f9e6af74219c7c9d605bf366c1a3de15fe07d865cd2de3bea8d4c285468bef18c7e097861ad62ce8a93696c602c268f0df18fbe00d0b4852dab18bea52a4ef9efa9645547e94c800bec3d48f7d7b4 playpath=364.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="i24news France" tvg-name="i24news_France" group-title="France" tvg-logo="i24news France.png",i24news France
+mms://91.197.165.4/bouygues/all/channel12.wmv
+
+#EXTINF:-1 tvg-id="France 24" tvg-name="France_24" group-title="France" tvg-logo="France 24.png",France 24
+http://tv.flux.france24.com/4684/02.m3u8
+
+#EXTINF:-1 tvg-id="France 24" tvg-name="France_24" group-title="France" tvg-logo="France 24.png",France 24
+rtmp://stream2.france24.yacast.net/france24_live/fr/ playpath=f24_livefr swfUrl=http://www.france24.com/fr/sites/all/modules/maison/aef_player/flash/player.swf live=true pageURL=http://www.france24.com/
+
+#EXTINF:-1 tvg-id="Tele bruxel" tvg-name="Tele_bruxel" group-title="France" tvg-logo="Tele bruxel.png",Tele bruxel
+rtmp://46.105.119.61:1935/live/live.sdp
+
+#EXTINF:-1 tvg-id="fil-1726" tvg-name="iTELE" group-title="France" tvg-logo="iTELE.png",iTELE
+rtmp://204.107.27.246/live/?id=0ad5aac39bb13fbec6744d581e82362c30fa8afbf416095237eb7cb6ce7bdcff3c282552840bb093e4bdd80eedea4164e1324f4e15e34b07176c0ed9be71086cdf8610461153c79d670163861ad0c016d105a13b3f5cb3bd974904b64d6b1a74622ba0cedca23dc50e03e707e6934794b190ea8faa1d70a2ae2e703acc89d6c6b39442f2765f9b1c0e0fe64cd49d89a366f2211270ebe491 app=live/?id=0ad5aac39bb13fbec6744d581e82362c30fa8afbf416095237eb7cb6ce7bdcff3c282552840bb093e4bdd80eedea4164e1324f4e15e34b07176c0ed9be71086cdf8610461153c79d670163861ad0c016d105a13b3f5cb3bd974904b64d6b1a74622ba0cedca23dc50e03e707e6934794b190ea8faa1d70a2ae2e703acc89d6c6b39442f2765f9b1c0e0fe64cd49d89a366f2211270ebe491 playpath=1726.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-1729" tvg-name="ARTE_Fran" group-title="France" tvg-logo="ARTE Fran.png",ARTE Fran
+rtmp://204.107.27.246/live/?id=0ad5aac39bb13fbe3091c56416d680e7e103000b88377e43445b51565ae7172e5ab78f8d0f914335f07eacd6dce90e803f682a685f460b51ddbc0c2042cabf9b6c3f411b2069e398e8fd7508aba6af37f76fdcdc94dd0ecd99fbd35421846741b4dc689481f8060a98ed839fe3712ab51fc59e4a7e618afacafdbda15646b2705d2c272950559dfe951621f5a3b7af4983988bc7a59a6fff app=live/?id=0ad5aac39bb13fbe3091c56416d680e7e103000b88377e43445b51565ae7172e5ab78f8d0f914335f07eacd6dce90e803f682a685f460b51ddbc0c2042cabf9b6c3f411b2069e398e8fd7508aba6af37f76fdcdc94dd0ecd99fbd35421846741b4dc689481f8060a98ed839fe3712ab51fc59e4a7e618afacafdbda15646b2705d2c272950559dfe951621f5a3b7af4983988bc7a59a6fff playpath=1729.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="Arte" tvg-name="Arte" group-title="France" tvg-logo="Arte.png",Arte
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
+
+#EXTINF:-1 tvg-id="Canal+ 1" tvg-name="Canal+_1" group-title="France" tvg-logo="Canal+ 1.png",Canal+ 1
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1200/02.m3u8
+
+#EXTINF:-1 tvg-id="Canal+ 17" tvg-name="Canal+_17" group-title="France" tvg-logo="Canal+ 17.png",Canal+ 17
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1710/02.m3u8
+
+#EXTINF:-1 tvg-id="canal+ 8" tvg-name="canal+_8" group-title="France" tvg-logo="canal+ 8.png",canal+ 8
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1650/02.m3u8
+
+#EXTINF:-1 tvg-id="fil-517" tvg-name="TV5MONDE_EUROPE" group-title="France" tvg-logo="TV5MONDE EUROPE.png",TV5MONDE EUROPE
+rtmp://live307.edge.filmon.com/live/?id=0ad5aac39bb13fbe3fa72e68ff485c1c8aff64912fff8bf42dbabafe3a286e09e2b49b7e940e8a11eb4c01c501e9f0110efe90a9eb8811d3b0a00b4fcc9f6c428ae9045b918a528570c0a089a9c246eb6ba024ee39cf9a99c60d8ab50d0c964a783a58485d1e6180e25872555c14d6c9dba14a65b91323607651a8169a5e7f2071be49690178889bb61d8f917ce2075287ae7f5bcde8e876 app=live/?id=0ad5aac39bb13fbe3fa72e68ff485c1c8aff64912fff8bf42dbabafe3a286e09e2b49b7e940e8a11eb4c01c501e9f0110efe90a9eb8811d3b0a00b4fcc9f6c428ae9045b918a528570c0a089a9c246eb6ba024ee39cf9a99c60d8ab50d0c964a783a58485d1e6180e25872555c14d6c9dba14a65b91323607651a8169a5e7f2071be49690178889bb61d8f917ce2075287ae7f5bcde8e876 playpath=517.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="France 0" tvg-name="France_0" group-title="France" tvg-logo="France 0.png",France 0
+mms://91.197.165.4/bouygues/all/channel5.wmv
+
+#EXTINF:-1 tvg-id="France 2" tvg-name="France_2" group-title="France" tvg-logo="France 2.png",France 2
+mms://91.197.165.4/bouygues/all/channel1.wmv
+
+#EXTINF:-1 tvg-id="fil-1717" tvg-name="France_2" group-title="France" tvg-logo="France 2.png",France 2
+rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbec6744d581e82362c30fa8afbf41609522efefc3a0de237c5803bb85e11ceb8fcaef405517ecbdcde8e5a7b3b4210c7fedee7b7e2a6f607a96a07e0184b47aba13183202eaabfc8e291b852cf473dfb75a9b0d5aff51aa1fc295ba9c80a39bd0169281be9733d94736ef7f653a4e85abf86fb1d00d8e573a97b20c82f85bb02f7c380172087af15bd8da46fcd1e703017 app=live/?id=0ad5aac39bb13fbec6744d581e82362c30fa8afbf41609522efefc3a0de237c5803bb85e11ceb8fcaef405517ecbdcde8e5a7b3b4210c7fedee7b7e2a6f607a96a07e0184b47aba13183202eaabfc8e291b852cf473dfb75a9b0d5aff51aa1fc295ba9c80a39bd0169281be9733d94736ef7f653a4e85abf86fb1d00d8e573a97b20c82f85bb02f7c380172087af15bd8da46fcd1e703017 playpath=1717.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="france 3" tvg-name="france_3" group-title="France" tvg-logo="france 3.png",france 3
+mms://91.197.165.4/bouygues/all/channel2.wmv
+
+#EXTINF:-1 tvg-id="fil-1723" tvg-name="France_3" group-title="France" tvg-logo="France 3.png",France 3
+rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbe3091c56416d680e7573ee7df99918f5fb3ba339c677453b0c3297c76c131c380ef11d65f642401bfc8bf36e2561172fb70d45faa9c2b50acec0d32f3e2f66d2151a982241385f7c88ca3e0ece27190d907ebb2a1d386793e9126bdef223609428d196d2975b288669909f2e40c78517d8d140c24cb290ecf19c4f74c38f85979bc6b5dd2c30e7c58df556b2169a58e80 app=live/?id=0ad5aac39bb13fbe3091c56416d680e7573ee7df99918f5fb3ba339c677453b0c3297c76c131c380ef11d65f642401bfc8bf36e2561172fb70d45faa9c2b50acec0d32f3e2f66d2151a982241385f7c88ca3e0ece27190d907ebb2a1d386793e9126bdef223609428d196d2975b288669909f2e40c78517d8d140c24cb290ecf19c4f74c38f85979bc6b5dd2c30e7c58df556b2169a58e80 playpath=1723.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="France 3" tvg-name="France_3" group-title="France" tvg-logo="France 3.png",France 3
+mms://direct.francetv.fr/regions/jts/lca-reims-jts.wsx
+
+#EXTINF:-1 tvg-id="France 4" tvg-name="France_4" group-title="France" tvg-logo="France 4.png",France 4
+mms://91.197.165.4/bouygues/all/channel3.wmv
+
+#EXTINF:-1 tvg-id="fil-1720" tvg-name="France_5" group-title="France" tvg-logo="France 5.png",France 5
+rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbec6744d581e82362c507978b9fe7a24818afb878f9a5a5a6310ad58106ec7d2236f75b1872e15ab473853d25d63e78722d738eff3ac69b52d92ae31bd79883f9c817ae29184ff40d63cdde9c811d8f846cccd985f873210886778cabb5e0e4fe0775ee3bbf8dc8c49896924c2f8ab09afe574f3bbfde5c8247f629a61f6310021d192abbdbe0beb6c0377fc57a7f85899 app=live/?id=0ad5aac39bb13fbec6744d581e82362c507978b9fe7a24818afb878f9a5a5a6310ad58106ec7d2236f75b1872e15ab473853d25d63e78722d738eff3ac69b52d92ae31bd79883f9c817ae29184ff40d63cdde9c811d8f846cccd985f873210886778cabb5e0e4fe0775ee3bbf8dc8c49896924c2f8ab09afe574f3bbfde5c8247f629a61f6310021d192abbdbe0beb6c0377fc57a7f85899 playpath=1720.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="france 5" tvg-name="france_5" group-title="France" tvg-logo="france 5.png",france 5
+mms://91.197.165.4/bouygues/all/channel4.wmv
+
+#EXTINF:-1 tvg-id="LCP" tvg-name="LCP" group-title="France" tvg-logo="LCP.png",LCP
+mms://91.197.165.4/bouygues/all/channel6.wmv
+
+#EXTINF:-1 tvg-id="TV8 Mont-Blanc" tvg-name="TV8_Mont-Blanc" group-title="France" tvg-logo="TV8 Mont-Blanc.png",TV8 Mont-Blanc
+mms://91.197.165.4/bouygues/all/channel7.wmv
+
+#EXTINF:-1 tvg-id="KTO" tvg-name="KTO" group-title="France" tvg-logo="KTO.png",KTO
+mms://91.197.165.4/bouygues/all/channel8.wmv
+
+#EXTINF:-1 tvg-id="D17 DirectStar" tvg-name="D17_DirectStar" group-title="France" tvg-logo="D17 DirectStar.png",D17 DirectStar
+mms://91.197.165.4/bouygues/all/channel9.wmv
+
+#EXTINF:-1 tvg-id="fil-2765" tvg-name="BFM_TV" group-title="France" tvg-logo="BFM TV.png",BFM TV
+rtmp://live307.edge.filmon.com/live/?id=0ad5aac39bb13fbef56344d35fb50a13d2555be4b2171fb20852f0a7b2b4238c02490df2f484e569cc4aa1585721031f1aface8e916729ba5f384003b1660324b45ffdedb1517b74a921c11141d3fae4b9b003380778a32d0e2512e63965effc48b3c8dceb65d1ef49988ffff53b7b255c73c4b2b54c7cbaa9e214e7db8f917dea728eb5124eb96a94ba7d9c16f3036efb258ca286ce6062 app=live/?id=0ad5aac39bb13fbef56344d35fb50a13d2555be4b2171fb20852f0a7b2b4238c02490df2f484e569cc4aa1585721031f1aface8e916729ba5f384003b1660324b45ffdedb1517b74a921c11141d3fae4b9b003380778a32d0e2512e63965effc48b3c8dceb65d1ef49988ffff53b7b255c73c4b2b54c7cbaa9e214e7db8f917dea728eb5124eb96a94ba7d9c16f3036efb258ca286ce6062 playpath=2765.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="BFM TV" tvg-name="BFM_TV" group-title="France" tvg-logo="BFM TV.png",BFM TV
+mms://91.197.165.4/bouygues/all/channel10.wmv
+
+#EXTINF:-1 tvg-id="bbox actu tv" tvg-name="bbox_actu_tv" group-title="France" tvg-logo="bbox actu tv.png",bbox actu tv
+mms://91.197.165.4/bouygues/all/channel11.wmv
+
+#EXTINF:-1 tvg-id="Gulli" tvg-name="Gulli" group-title="France" tvg-logo="Gulli.png",Gulli
+mms://91.197.165.4/bouygues/all/channel14.wmv
+
+#EXTINF:-1 tvg-id="2M TV (Morocco)" tvg-name="2M_TV_(Morocco)" group-title="France" tvg-logo="2M TV (Morocco).png",2M TV (Morocco)
+mms://91.197.165.4/bouygues/all/channel15.wmv
+
+#EXTINF:-1 tvg-id="Direct 8" tvg-name="Direct_8" group-title="France" tvg-logo="Direct 8.png",Direct 8
+mms://91.197.165.4/bouygues/all/channel16.wmv
+
+#EXTINF:-1 tvg-id="Rouge TV French" tvg-name="Rouge_TV_French" group-title="France" tvg-logo="Rouge TV French.png",Rouge TV French
+rtmp://rtmp.infomaniak.ch/livecast playpath=rougetv swfUrl=http://tvplayer.castlemedia.fr/swf/tvplayer.swf?4dadb783f0a81537187120216 pageUrl=http://www.playtv.fr/television/
+
+#EXTINF:-1 tvg-id="Tele Antilles" tvg-name="Tele_Antilles" group-title="France" tvg-logo="Tele Antilles.png",Tele Antilles
+http://live240.impek.com/soleiltv
+
+#EXTINF:-1 tvg-id="TVM Est Parisien" tvg-name="TVM_Est_Parisien" group-title="France" tvg-logo="TVM Est Parisien.png",TVM Est Parisien
+rtmp://rtmp.infomaniak.ch/livecast playpath=cineplume swfUrl=http://static.infomaniak.ch/livetv/player-v3.swf?cfg=http://static.infomaniak.ch/configvideo/cineplume/tvm/359_config.xml pageUrl=http://www.playtv.fr/television/
+
+#EXTINF:-1 tvg-id="Correze TV" tvg-name="Correze_TV" group-title="France" tvg-logo="Correze TV.png",Correze TV
+rtmp://www.correzetelevision.fr/playlist/ pageUrl=http://livetvstreaming.ucoz.com live=1 playpath=webtv
+
+#EXTINF:-1 tvg-id="iTELE" tvg-name="iTELE" group-title="France" tvg-logo="iTELE.png",iTELE
+rtmp://live-fms.canalplus.fr:443/live pageUrl=http://livetvstreaming.ucoz.com live=1 playpath=itele_800@42248
+
+#EXTINF:-1 tvg-id="YVELINES TV" tvg-name="YVELINES_TV" group-title="France" tvg-logo="YVELINES TV.png",YVELINES TV
+rtmp://rtmp.infomaniak.ch/livecast/yveline1
+
+#EXTINF:-1 tvg-id="VITAMINE TV" tvg-name="VITAMINE_TV" group-title="France" tvg-logo="VITAMINE TV.png",VITAMINE TV
+rtmp://rtmp.infomaniak.ch/livecast playpath=vitatv pageUrl=http://webactu.freehostia.com/francelocal/vitamine.html swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.76.swf?sDescription=&sTitle=&sVersion=4%2E1%2E76 live=1
+
+#EXTINF:-1 tvg-id="Canal Alpha (Swiss/HQ)" tvg-name="Canal_Alpha_(Swiss/HQ)" group-title="France" tvg-logo="Canal Alpha (Swiss/HQ).png",Canal Alpha (Swiss/HQ)
+rtmp://rtmp.infomaniak.ch/livecast playpath=canalalpha  swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.76.swf?sDescription=&sVersion=4%2E1%2E76&sTitle=  pageUrl=http://static.infomaniak.ch live=1
+
+#EXTINF:-1 tvg-id="Air TV" tvg-name="Air_TV" group-title="France" tvg-logo="Air TV.png",Air TV
+rtmp://stream.air-tv.tv:1935/live/ playpath=web1.stream pageUrl=http://livetvstreaming.ucoz.com swfUrl=http://player.longtailvideo.com/player.swf live=1
+
+#EXTINF:-1 tvg-id="KTO france" tvg-name="KTO_france" group-title="France" tvg-logo="KTO france.png",KTO france
+rtmp://cp99495.live.edgefcs.net/live playpath=Flash_live_KTO_TV@27823 swfUrl=http://tvplayer.castlemedia.fr/swf/tvplayer.swf?4dadb783f0a81537187120216 pageUrl=http://www.playtv.fr/television/
+
+#EXTINF:-1 tvg-id="vox africa" tvg-name="vox_africa" group-title="France" tvg-logo="vox africa.png",vox africa
+http://193.252.235.87/voxafrica
+
+#EXTINF:-1 tvg-id="NOTELE" tvg-name="NOTELE" group-title="France" tvg-logo="NOTELE.png",NOTELE
+rtsp://streaming06.axeweb.be:1935/live/direct.stream
+
+#EXTINF:-1 tvg-id="LATELE" tvg-name="LATELE" group-title="France" tvg-logo="LATELE.png",LATELE
+rtsp://rtmp.infomaniak.ch:1935/livecast/latele
+
+#EXTINF:-1 tvg-id="MIRABELLE" tvg-name="MIRABELLE" group-title="France" tvg-logo="MIRABELLE.png",MIRABELLE
+rtsp://str81.creacast.com:1935/mirabelletv/medium
+
+#EXTINF:-1 tvg-id="fil-2771" tvg-name="Eurosport_Deutschland" group-title="Germany" tvg-logo="Eurosport Deutschland.png",Eurosport Deutschland
+rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbec6744d581e82362ccc7a44f2a2be180ce6bcc9dd2c01f0dffcd00967a9190e4ccf410be57371e9f1fa769bf20cb8a1c346f30fd58a45e4c6957331fa96843631ba72d0f5aa7a17d45461e15154c9a7bd99cf9799f1fbbced673b332c0c0b561068a05e538ccbb9fb5e9358aa8c6def8ba317ca6db43d81a78882143df399735fcdd93b770d47e7766812c3c6fc948fb8 app=live/?id=0ad5aac39bb13fbec6744d581e82362ccc7a44f2a2be180ce6bcc9dd2c01f0dffcd00967a9190e4ccf410be57371e9f1fa769bf20cb8a1c346f30fd58a45e4c6957331fa96843631ba72d0f5aa7a17d45461e15154c9a7bd99cf9799f1fbbced673b332c0c0b561068a05e538ccbb9fb5e9358aa8c6def8ba317ca6db43d81a78882143df399735fcdd93b770d47e7766812c3c6fc948fb8 playpath=2771.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-2756" tvg-name="KIKA" group-title="Germany" tvg-logo="KIKA.png",KIKA
+rtmp://live307.edge.filmon.com/live/?id=0ad5aac39bb13fbe782659e2f083b702aee9e91d35963bed185dbfa8e5b4c45c6a658168fd0fcee56b75d006352f106dbad776a1aff83edcadcf2b80f25651a9a5dc94fcb863513fa388a264af3a18d69385360aa7eaa6c75e70b770b6dc48f2a382953916987ddf6bb60081178b127a80372d295ded15fcfb2caec7fd7a92239ed138171c075380872b6f806295f9f3d2e136acac0af6a4 app=live/?id=0ad5aac39bb13fbe782659e2f083b702aee9e91d35963bed185dbfa8e5b4c45c6a658168fd0fcee56b75d006352f106dbad776a1aff83edcadcf2b80f25651a9a5dc94fcb863513fa388a264af3a18d69385360aa7eaa6c75e70b770b6dc48f2a382953916987ddf6bb60081178b127a80372d295ded15fcfb2caec7fd7a92239ed138171c075380872b6f806295f9f3d2e136acac0af6a4 playpath=2756.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-1033" tvg-name="N-TV" group-title="Germany" tvg-logo="N-TV.png",N-TV
+rtmp://live307.edge.filmon.com/live/?id=0ad5aac39bb13fbec6744d581e82362c356658accc44417677a29a0f17f516d8562ed75da5f9db33b09a649c2ae8d0da2fc751d3d36b6c588599a723da4df677984ed8097b316208e796e948149086af5e9da508f39b136ba1f52375c90eea2c7770d7cfabc6d881aaed7a8b7929f4e99f36bf6bb76ecbfa3fc0e7cc06de000de4b90c1c89290f8af24127013c1bace13d75b2ca991efed1 app=live/?id=0ad5aac39bb13fbec6744d581e82362c356658accc44417677a29a0f17f516d8562ed75da5f9db33b09a649c2ae8d0da2fc751d3d36b6c588599a723da4df677984ed8097b316208e796e948149086af5e9da508f39b136ba1f52375c90eea2c7770d7cfabc6d881aaed7a8b7929f4e99f36bf6bb76ecbfa3fc0e7cc06de000de4b90c1c89290f8af24127013c1bace13d75b2ca991efed1 playpath=1033.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-2759" tvg-name="ZDF" group-title="Germany" tvg-logo="ZDF.png",ZDF
+rtmp://live307.edge.filmon.com/live/?id=0ad5aac39bb13fbe782659e2f083b7025ff3a853235b9a56ee1b9d327534282ad42c31643aa15a5888dd9e3b4fad775db1e36353b30951a065f25e87abcf4ab59a15baca9ae469eca9b8608ff23bdfbf41372164116c16a0c924743b339b9c140618cf38c97b8cfdefffe9dcd9d96cd3c33365e08f014668013c0b0da5cf450ac217dcad71efc5444ff43aa8a424cd8622ae0c56024657c4 app=live/?id=0ad5aac39bb13fbe782659e2f083b7025ff3a853235b9a56ee1b9d327534282ad42c31643aa15a5888dd9e3b4fad775db1e36353b30951a065f25e87abcf4ab59a15baca9ae469eca9b8608ff23bdfbf41372164116c16a0c924743b339b9c140618cf38c97b8cfdefffe9dcd9d96cd3c33365e08f014668013c0b0da5cf450ac217dcad71efc5444ff43aa8a424cd8622ae0c56024657c4 playpath=2759.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-360" tvg-name="ZDFneo" group-title="Germany" tvg-logo="ZDFneo.png",ZDFneo
+rtmp://live307.edge.filmon.com/live/?id=0ad5aac39bb13fbe9a437a9a4c60070093ee10d765698981c0bbac9ab9acfc88a10f5568b29324db2715f87f20b8ce726cae7288cb259df18318041d53edc9d2e70919367bf98a02a535f6578ac5032df21ddc73f9b504fad5fe6582aa6d686bffbb8dc065477e0e0a272fef305c5a4e355b5ceba08d88dd0fe3c0f1348d87fe2ffb94fa4204b75a5480c83f0b2abe2ac3b5382181d727e9 app=live/?id=0ad5aac39bb13fbe9a437a9a4c60070093ee10d765698981c0bbac9ab9acfc88a10f5568b29324db2715f87f20b8ce726cae7288cb259df18318041d53edc9d2e70919367bf98a02a535f6578ac5032df21ddc73f9b504fad5fe6582aa6d686bffbb8dc065477e0e0a272fef305c5a4e355b5ceba08d88dd0fe3c0f1348d87fe2ffb94fa4204b75a5480c83f0b2abe2ac3b5382181d727e9 playpath=360.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-359" tvg-name="zdf.kultur" group-title="Germany" tvg-logo="zdf.kultur.png",zdf.kultur
+rtmp://live307.edge.filmon.com/live/?id=0ad5aac39bb13fbe782659e2f083b702d9be4b3c7fe543c9d2f9980f0741fa2f1c59c94279100e4b5e4104bd53dc28cf6489b5f2b2d8853a33f8612ed16bee9b2f8397c40eaaa698cca55e2e2046842128e2ad152a5f2e12b4d12310f0c142e8c1348159fc93525d3b9683fab9b55efa772f150ad4749c94221a595eb027ad1b3298d2568630808748bec928aa94a4e7ea2e5013d779d5a1 app=live/?id=0ad5aac39bb13fbe782659e2f083b702d9be4b3c7fe543c9d2f9980f0741fa2f1c59c94279100e4b5e4104bd53dc28cf6489b5f2b2d8853a33f8612ed16bee9b2f8397c40eaaa698cca55e2e2046842128e2ad152a5f2e12b4d12310f0c142e8c1348159fc93525d3b9683fab9b55efa772f150ad4749c94221a595eb027ad1b3298d2568630808748bec928aa94a4e7ea2e5013d779d5a1 playpath=359.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-2762" tvg-name="ZDF_INFOKANAL" group-title="Germany" tvg-logo="ZDF INFOKANAL.png",ZDF INFOKANAL
+rtmp://live307.edge.filmon.com/live/?id=0ad5aac39bb13fbe3091c56416d680e78d5dfca200136007284f50a500fbc5515567fb3ccca117d23dd88442d55dde85895d9fb9d7132489268bb9dc8af003b830c47cfb037f169d4e045e054296ee6d81af87f54b6890cb509805b342e20eef663f7e4b0fc54cffa2256ec5910c994413d7b56a824331c61303b232fe7cf36304676db0cfd91954d722f4641a29a77c553ba95c13d564b3 app=live/?id=0ad5aac39bb13fbe3091c56416d680e78d5dfca200136007284f50a500fbc5515567fb3ccca117d23dd88442d55dde85895d9fb9d7132489268bb9dc8af003b830c47cfb037f169d4e045e054296ee6d81af87f54b6890cb509805b342e20eef663f7e4b0fc54cffa2256ec5910c994413d7b56a824331c61303b232fe7cf36304676db0cfd91954d722f4641a29a77c553ba95c13d564b3 playpath=2762.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-418" tvg-name="Eins_Plus" group-title="Germany" tvg-logo="Eins Plus.png",Eins Plus
+rtmp://live307.edge.filmon.com/live/?id=0ad5aac39bb13fbe782659e2f083b702ddac0b97b312bf9a984c2f0f0e1cd3bff656dccd36a997ee1fae08b3a4b28c4e846b236fed862668226e6181d2a35c0d8f2852c1a0c4844fd0cb550b734580b322af699a4ff46ff13ac9e70da74cd5dd1824243fc0e2cfc5c3b25b1c9f1af0a151d4a9f9a1a3e75c539c5ea72a011dec08176893ce4a318d5e969a5b59c9d3143bf114738ea6c73f app=live/?id=0ad5aac39bb13fbe782659e2f083b702ddac0b97b312bf9a984c2f0f0e1cd3bff656dccd36a997ee1fae08b3a4b28c4e846b236fed862668226e6181d2a35c0d8f2852c1a0c4844fd0cb550b734580b322af699a4ff46ff13ac9e70da74cd5dd1824243fc0e2cfc5c3b25b1c9f1af0a151d4a9f9a1a3e75c539c5ea72a011dec08176893ce4a318d5e969a5b59c9d3143bf114738ea6c73f playpath=418.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-415" tvg-name="Tagesschau24" group-title="Germany" tvg-logo="Tagesschau24.png",Tagesschau24
+rtmp://live307.edge.filmon.com/live/?id=0ad5aac39bb13fbefb416ec726ba718daead03f97ea15d154bea1a717daf553a573ce40e928c2bcb7f89e808f2c02347c997d13d97d8fec62ff98be4f5a90149b7380dd8d97c497fc9d2224cf4ba468d81eb6262c42c2a01c4f1f27badbf581f6f620540470b70baf2218e8789ddefb5d8015ec0880dd827daa7f6dfd6e10867f99e0c63dda1f4ac73627f52be01ea6df8b22b3b4e2cbc00 app=live/?id=0ad5aac39bb13fbefb416ec726ba718daead03f97ea15d154bea1a717daf553a573ce40e928c2bcb7f89e808f2c02347c997d13d97d8fec62ff98be4f5a90149b7380dd8d97c497fc9d2224cf4ba468d81eb6262c42c2a01c4f1f27badbf581f6f620540470b70baf2218e8789ddefb5d8015ec0880dd827daa7f6dfd6e10867f99e0c63dda1f4ac73627f52be01ea6df8b22b3b4e2cbc00 playpath=415.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-421" tvg-name="Eins_Festival" group-title="Germany" tvg-logo="Eins Festival.png",Eins Festival
+rtmp://live307.edge.filmon.com/live/?id=0ad5aac39bb13fbec6744d581e82362cb1da53894365bae8d385a5cc9796981cb630ce596dd9c2af3e186e170d14a827f077ec1fd2b3d03058fd8b524e1fe042915c36abfad9d2fc314b3a1951cf0e2826fc12e490b874a5d5cb5cada00a781b701b79e74e83a54f761950e8d74f7c33146ff85f4c505fbf0352c1d7ad39faf963e0a667b6d1cb9298bb59c8958160439ea572a7a8c8521f app=live/?id=0ad5aac39bb13fbec6744d581e82362cb1da53894365bae8d385a5cc9796981cb630ce596dd9c2af3e186e170d14a827f077ec1fd2b3d03058fd8b524e1fe042915c36abfad9d2fc314b3a1951cf0e2826fc12e490b874a5d5cb5cada00a781b701b79e74e83a54f761950e8d74f7c33146ff85f4c505fbf0352c1d7ad39faf963e0a667b6d1cb9298bb59c8958160439ea572a7a8c8521f playpath=421.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-706" tvg-name="Sonnenklar_TV" group-title="Germany" tvg-logo="Sonnenklar TV.png",Sonnenklar TV
+rtmp://live307.edge.filmon.com/live/?id=0ad5aac39bb13fbee8c5842dd5918b28909b47315608e2835db5c39d44e841350e95f4854d46053d25676444ef83b34ca1e7ef4ad4d502f51d1d806b43a3a1242524e88cc5aa71e209fe60b6efa2b5940b6c5d1a32c21aca99745c91dec16d00d65eb8e85439d7727a1d23318c04f8e21ec4e1af83fdc195bb1819c4b3c4741005be29022a9e3b85b5742086aeb59bd43f637ef5b6d55458 app=live/?id=0ad5aac39bb13fbee8c5842dd5918b28909b47315608e2835db5c39d44e841350e95f4854d46053d25676444ef83b34ca1e7ef4ad4d502f51d1d806b43a3a1242524e88cc5aa71e209fe60b6efa2b5940b6c5d1a32c21aca99745c91dec16d00d65eb8e85439d7727a1d23318c04f8e21ec4e1af83fdc195bb1819c4b3c4741005be29022a9e3b85b5742086aeb59bd43f637ef5b6d55458 playpath=706.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-424" tvg-name="Phoenix" group-title="Germany" tvg-logo="Phoenix.png",Phoenix
+rtmp://live307.edge.filmon.com/live/?id=0ad5aac39bb13fbe782659e2f083b702d53242fcbb21331e2c5e6b10ae5000415dedb94060c65868c23e81af8b3e6fba3321d5af56e112f862a3bc505c864d2d75a5c85987840a3d76d84a89a83ed65b22240cebef62ce60c41a843360e61cfbd608d169f6c095f0f64349bcf7fe2c8dc01b3d9056ce9ce1982fa54c0806005f7bc10c0a46ac9eeea1c7daf5e8af153783a901f51d959e28 app=live/?id=0ad5aac39bb13fbe782659e2f083b702d53242fcbb21331e2c5e6b10ae5000415dedb94060c65868c23e81af8b3e6fba3321d5af56e112f862a3bc505c864d2d75a5c85987840a3d76d84a89a83ed65b22240cebef62ce60c41a843360e61cfbd608d169f6c095f0f64349bcf7fe2c8dc01b3d9056ce9ce1982fa54c0806005f7bc10c0a46ac9eeea1c7daf5e8af153783a901f51d959e28 playpath=424.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="E RF" tvg-name="E_RF" group-title="Germany" tvg-logo="E RF.png",E RF
+rtmp://x2908erfeic14000.f.l.f.lb.core-cdn.net/14000erf pageUrl=http://livetvstreaming.ucoz.com live=1  playpath=live/2908erfeins/live_de_450
+
+#EXTINF:-1 tvg-id="TVA OSTBAYERN" tvg-name="TVA_OSTBAYERN" group-title="Germany" tvg-logo="TVA OSTBAYERN.png",TVA OSTBAYERN
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV AKTUELL" tvg-name="TV_AKTUELL" group-title="Germany" tvg-logo="TV AKTUELL.png",TV AKTUELL
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telezueri CH" tvg-name="Telezueri_CH" group-title="Germany" tvg-logo="Telezueri CH.png",Telezueri CH
+rtmp://rtmp.infomaniak.ch/livecast playpath=telezuri swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.2.25.swf?sDescription=&bLd=0&sTitle=&sVersion=4%2E2%2E25 live=1 pageUrl=http://livevideo.infomaniak.com/iframe.php?stream=telezuri&name=telezueri&player=1388
+
+#EXTINF:-1 tvg-id="TELEBARN" tvg-name="TELEBARN" group-title="Germany" tvg-logo="TELEBARN.png",TELEBARN
+http://rtmp.infomaniak.ch/livecast/barntele/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TELE BASEL" tvg-name="TELE_BASEL" group-title="Germany" tvg-logo="TELE BASEL.png",TELE BASEL
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Swamiji TV AU mms" tvg-name="Swamiji_TV_AU_mms" group-title="Germany" tvg-logo="Swamiji TV AU mms.png",Swamiji TV AU mms
+mms://streaming.swamiji.tv/YogaIP-TV-LQ
+
+#EXTINF:-1 tvg-id="Suedtirol TV" tvg-name="Suedtirol_TV" group-title="Germany" tvg-logo="Suedtirol TV.png",Suedtirol TV
+rtsp://77.72.196.214:8554/live/mp4:SuedtirolTV
+
+#EXTINF:-1 tvg-id="OKTO TV" tvg-name="OKTO_TV" group-title="Germany" tvg-logo="OKTO TV.png",OKTO TV
+http://atwse.lbs.atusmedia.cc:1935/oktolive/okto-low.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NOA4 Norderstedt" tvg-name="NOA4_Norderstedt" group-title="Germany" tvg-logo="NOA4 Norderstedt.png",NOA4 Norderstedt
+http://wt-wm1.wtnet.de/noa4-stream-hi?MSWMExt=.asf
+
+#EXTINF:-1 tvg-id="NOA4 Hamburg" tvg-name="NOA4_Hamburg" group-title="Germany" tvg-logo="NOA4 Hamburg.png",NOA4 Hamburg
+http://wt-wm1.wtnet.de/noa4hh-stream-hi?MSWMExt=.asf
+
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="Das_Erste" group-title="Germany" tvg-logo="Das Erste.png",Das Erste
+rtsp://daserste.edges.wowza.gl-systemhaus.de/live/mp4:daserste_int_1600
+
+#EXTINF:-1 tvg-id="Tv 2000 Italia" tvg-name="Tv_2000_Italia" group-title="Italy" tvg-logo="Tv 2000 Italia.png",Tv 2000 Italia
+mms://62.101.89.122/Sat2000
+
+#EXTINF:-1 tvg-id="fil-442" tvg-name="Canale_Italia_84" group-title="Italy" tvg-logo="Canale Italia 84.png",Canale Italia 84
+rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbe9a437a9a4c60070077381f3dc5fff8a9e2d69e854051c7959cb5b39531e60184b3375cb750f34fd34dfab0e736ebf40c55d559dd8d4f2174976baf08fcae29fdceb23679a9d0f196d4dd08a7faea3cb9392876ae67558e2f9423ec12545d0c3600c8b574e9f3fb6bb9436276aa850c5396aa84112fc1e2622c2bf82e44123bf2c15e6cb72694949b60fb9e334cb691ea app=live/?id=0ad5aac39bb13fbe9a437a9a4c60070077381f3dc5fff8a9e2d69e854051c7959cb5b39531e60184b3375cb750f34fd34dfab0e736ebf40c55d559dd8d4f2174976baf08fcae29fdceb23679a9d0f196d4dd08a7faea3cb9392876ae67558e2f9423ec12545d0c3600c8b574e9f3fb6bb9436276aa850c5396aa84112fc1e2622c2bf82e44123bf2c15e6cb72694949b60fb9e334cb691ea playpath=442.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="fil-445" tvg-name="Canale_Italia_83" group-title="Italy" tvg-logo="Canale Italia 83.png",Canale Italia 83
+rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbefb416ec726ba718d82b208d200c4eeb2495dac0e654181aeb16381138de161127095c8ca1f5b8997c7ff1a005ebf4d7e6acce94718bcc88ae229b8d1d76703fffe05acc328ac8148c725c6a4f5f8fb6534d636c71358b01ded22eee1c9b8b94b46276c6191a799bb57491df3fc1e332cec2762c200b49ca71e3b8ed15de56e2afe0a10b85eb71f82dd3f27c2de136412 app=live/?id=0ad5aac39bb13fbefb416ec726ba718d82b208d200c4eeb2495dac0e654181aeb16381138de161127095c8ca1f5b8997c7ff1a005ebf4d7e6acce94718bcc88ae229b8d1d76703fffe05acc328ac8148c725c6a4f5f8fb6534d636c71358b01ded22eee1c9b8b94b46276c6191a799bb57491df3fc1e332cec2762c200b49ca71e3b8ed15de56e2afe0a10b85eb71f82dd3f27c2de136412 playpath=445.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
+
+#EXTINF:-1 tvg-id="Rai news (Italian)" tvg-name="Rai_news_(Italian)" group-title="Italy" tvg-logo="Rai news (Italian).png",Rai news (Italian)
+http://94.32.97.10:1935/satchannel1/rainews.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RAI 1" tvg-name="RAI_1" group-title="Italy" tvg-logo="RAI 1.png",RAI 1
+mmsh://212.162.68.162/prodtvr1
+
+#EXTINF:-1 tvg-id="RAI 2" tvg-name="RAI_2" group-title="Italy" tvg-logo="RAI 2.png",RAI 2
+mmsh://212.162.68.162/prodtvr2
+
+#EXTINF:-1 tvg-id="RAI  Premium" tvg-name="RAI__Premium" group-title="Italy" tvg-logo="RAI  Premium.png",RAI  Premium
+mmsh://212.162.68.102/Rai_Premium
+
+#EXTINF:-1 tvg-id="Rai Gulp italy" tvg-name="Rai_Gulp_italy" group-title="Italy" tvg-logo="Rai Gulp italy.png",Rai Gulp italy
+mms://212.162.68.163/Rai_gulp
+
+#EXTINF:-1 tvg-id="rai yoyo itali" tvg-name="rai_yoyo_itali" group-title="Italy" tvg-logo="rai yoyo itali.png",rai yoyo itali
+mms://212.162.68.163/Rai_yoyo
+
+#EXTINF:-1 tvg-id="Rai Scuola" tvg-name="Rai_Scuola" group-title="Italy" tvg-logo="Rai Scuola.png",Rai Scuola
+mmsh://212.162.68.163:80/Rai_Scuola?MSWMExt.asf
+
+#EXTINF:-1 tvg-id="Rai Storia" tvg-name="Rai_Storia" group-title="Italy" tvg-logo="Rai Storia.png",Rai Storia
+mmsh://212.162.68.163/rai_storia?MSWMExt.asf
+
+#EXTINF:-1 tvg-id="Rai YoYo" tvg-name="Rai_YoYo" group-title="Italy" tvg-logo="Rai YoYo.png",Rai YoYo
+mmsh://212.162.68.163:80/Rai_yoyo?MSWMExt.asf
+
+#EXTINF:-1 tvg-id="Rai Nettuno Sat Uno" tvg-name="Rai_Nettuno_Sat_Uno" group-title="Italy" tvg-logo="Rai Nettuno Sat Uno.png",Rai Nettuno Sat Uno
+http://212.162.68.163/Rai_Nettuno?auth=daEaadhacdEd0aFb2d8ckaJbJbDd8bmb4bc-bqWzDA-c0-AmyutHn&aifp=V001
+
+#EXTINF:-1 tvg-id="Play me TV (Italy)" tvg-name="Play_me_TV_(Italy)" group-title="Italy" tvg-logo="Play me TV (Italy).png",Play me TV (Italy)
+rtmp://cp107974.live.edgefcs.net/live playpath=beep-flash-live@34654 swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://livetvstreaming.ucoz.com live=1
+
+#EXTINF:-1 tvg-id="IT - Radio 105 TV" tvg-name="IT_-_Radio_105_TV" group-title="Italy" tvg-logo="IT - Radio 105 TV.png",IT - Radio 105 TV
+rtmp://fms.105.net:1935/live/105Test1 swfVfy=http://video.105.net/com/universalmind/swf/videoPlayerAdsWizz01.swf live=1 timeout=10
+
+#EXTINF:-1 tvg-id="IPER TV IT" tvg-name="IPER_TV_IT" group-title="Italy" tvg-logo="IPER TV IT.png",IPER TV IT
+mmsh://mediatv2.topix.it/24Ipertv66
+
+#EXTINF:-1 tvg-id="Virgin 1" tvg-name="Virgin_1" group-title="Italy" tvg-logo="Virgin 1.png",Virgin 1
+rtmp://fms.105.net:1935/live/virgin1 playpath=virgin1 swfurl=http://www.highermedia.com/assets/flash/jw_player.swf live=1 pageurl=http://www.google.com/Virgin 1
+
+#EXTINF:-1 tvg-id="La 6" tvg-name="La_6" group-title="Italy" tvg-logo="La 6.png",La 6
+rtmp://la6.stream.internetone.it/streaming/la6.stream
+
+#EXTINF:-1 tvg-id="For Music" tvg-name="For_Music" group-title="Italy" tvg-logo="For Music.png",For Music
+rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb
+
+#EXTINF:-1 tvg-id="Quartarete TV" tvg-name="Quartarete_TV" group-title="Italy" tvg-logo="Quartarete TV.png",Quartarete TV
+rtmp://194.116.73.146/quartaretetv/quartareteweb
+
+#EXTINF:-1 tvg-id="Roma Uno" tvg-name="Roma_Uno" group-title="Italy" tvg-logo="Roma Uno.png",Roma Uno
+rtmp://188.40.2.148/romauno/live.sdp
+
+#EXTINF:-1 tvg-id="Tele Boario" tvg-name="Tele_Boario" group-title="Italy" tvg-logo="Tele Boario.png",Tele Boario
+rtmp://91.121.222.160/teleboariotb//teleboario.sdp
+
+#EXTINF:-1 tvg-id="Rock 1" tvg-name="Rock_1" group-title="Italy" tvg-logo="Rock 1.png",Rock 1
+mmsh://mediatv2.topix.it/24RockOne66
+
+#EXTINF:-1 tvg-id="Kanal One" tvg-name="Kanal_One" group-title="Russia" tvg-logo="Kanal One.png",Kanal One
+http://hls.novotelecom.ru/streaming/1kanal/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Russia-1" tvg-name="Russia-1" group-title="Russia" tvg-logo="Russia-1.png",Russia-1
+http://hls.novotelecom.ru/streaming/rossija/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Russia-2" tvg-name="Russia-2" group-title="Russia" tvg-logo="Russia-2.png",Russia-2
+http://hls.novotelecom.ru/streaming/sport/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Russia-24" tvg-name="Russia-24" group-title="Russia" tvg-logo="Russia-24.png",Russia-24
+http://hls.novotelecom.ru/streaming/vesti/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" group-title="Russia" tvg-logo="NTV.png",NTV
+http://hls.novotelecom.ru/streaming/ntv/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVC" tvg-name="TVC" group-title="Russia" tvg-logo="TVC.png",TVC
+http://hls.novotelecom.ru/streaming/tvc/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="REN TV" tvg-name="REN_TV" group-title="Russia" tvg-logo="REN TV.png",REN TV
+http://hls.novotelecom.ru/streaming/rentv/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Peretz" tvg-name="Peretz" group-title="Russia" tvg-logo="Peretz.png",Peretz
+http://hls.novotelecom.ru/streaming/perec/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="THT" tvg-name="THT" group-title="Russia" tvg-logo="THT.png",THT
+http://hls.novotelecom.ru/streaming/tnt/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTC" tvg-name="CTC" group-title="Russia" tvg-logo="CTC.png",CTC
+http://hls.novotelecom.ru/streaming/sts/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5 Kanal" tvg-name="5_Kanal" group-title="Russia" tvg-logo="5 Kanal.png",5 Kanal
+http://hls.novotelecom.ru/streaming/5kanal/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TB3" tvg-name="TB3" group-title="Russia" tvg-logo="TB3.png",TB3
+http://hls.novotelecom.ru/streaming/tv3/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pyatnica!" tvg-name="Pyatnica!" group-title="Russia" tvg-logo="Pyatnica!.png",Pyatnica!
+http://hls.novotelecom.ru/streaming/friday/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="jv" tvg-name="jv" group-title="Russia" tvg-logo="jv.png",jv
+http://hls.novotelecom.ru/streaming/jv/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2x2" tvg-name="2x2" group-title="Russia" tvg-logo="2x2.png",2x2
+http://hls.novotelecom.ru/streaming/2x2tv/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="8 Kanal" tvg-name="8_Kanal" group-title="Russia" tvg-logo="8 Kanal.png",8 Kanal
+http://hls.novotelecom.ru/streaming/8_kanal/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Carousel" tvg-name="Carousel" group-title="Russia" tvg-logo="Carousel.png",Carousel
+http://hls.novotelecom.ru/streaming/karusel/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TLC RU" tvg-name="TLC_RU" group-title="Russia" tvg-logo="TLC RU.png",TLC (RUS)
+http://hls.novotelecom.ru/streaming/tlc/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="russian_roman" tvg-name="russian_roman" group-title="Russia" tvg-logo="russian roman.png",russian_roman
+http://hls.novotelecom.ru/streaming/russian_roman/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Russian bestseller" tvg-name="Russian_bestseller" group-title="Russia" tvg-logo="Russian bestseller.png",Russian bestseller
+http://hls.novotelecom.ru/streaming/russia_best/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Russian Illusion" tvg-name="Russian_Illusion" group-title="Russia" tvg-logo="Russian Illusion.png",Russian Illusion
+http://hls.novotelecom.ru/streaming/russian_illusion/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RU.TV" tvg-name="RU.TV" group-title="Russia" tvg-logo="RU.TV.png",RU.TV
+http://hls.novotelecom.ru/streaming/rutv/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RUSSIAN MUSICBOX" tvg-name="RUSSIAN_MUSICBOX" group-title="Russia" tvg-logo="RUSSIAN MUSICBOX.png",RUSSIAN MUSICBOX
+http://hls.novotelecom.ru/streaming/musboxru/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Music Box" tvg-name="Music_Box" group-title="Russia" tvg-logo="Music Box.png",Music Box
+http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VH1 Classic" tvg-name="VH1_Classic" group-title="Russia" tvg-logo="VH1 Classic.png",VH1 Classic
+http://hls.novotelecom.ru/streaming/vh1/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A-One" tvg-name="A-One" group-title="Russia" tvg-logo="A-One.png",A-One
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OTC" tvg-name="OTC" group-title="Russia" tvg-logo="OTC.png",OTC
+http://hls.novotelecom.ru/streaming/ots/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Home" tvg-name="Home" group-title="Russia" tvg-logo="Home.png",Home
+http://hls.novotelecom.ru/streaming/domashny/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="49 Channel (Novosibirsk)" tvg-name="49_Channel_(Novosibirsk)" group-title="Russia" tvg-logo="49 Channel (Novosibirsk).png",49 Channel (Novosibirsk)
+http://hls.novotelecom.ru/streaming/49kanal/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Culture" tvg-name="Culture" group-title="Russia" tvg-logo="Culture.png",Culture
+http://hls.novotelecom.ru/streaming/kultura/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel RU" tvg-name="Disney_Channel_RU" group-title="Russia" tvg-logo="Disney Channel RU.png",Disney Channel (RUS)
+http://hls.novotelecom.ru/streaming/disney/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Union" tvg-name="Union" group-title="Russia" tvg-logo="Union.png",Union
+http://hls.novotelecom.ru/streaming/soyuz/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="World" tvg-name="World" group-title="Russia" tvg-logo="World.png",World
+http://hls.novotelecom.ru/streaming/mir/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OTP" tvg-name="OTP" group-title="Russia" tvg-logo="OTP.png",OTP
+http://hls.novotelecom.ru/streaming/otvrus/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Children" tvg-name="Children" group-title="Russia" tvg-logo="Children.png",Children
+http://hls.novotelecom.ru/streaming/forkids/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Children’s World" tvg-name="Children’s_World" group-title="Russia" tvg-logo="Children’s World.png",Children’s World
+http://hls.novotelecom.ru/streaming/detskij_mir/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" group-title="Russia" tvg-logo="Nickelodeon.png",Nickelodeon
+http://hls.novotelecom.ru/streaming/nickelodeon/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TiJi TV" tvg-name="TiJi_TV" group-title="Russia" tvg-logo="TiJi TV.png",TiJi TV
+http://hls.novotelecom.ru/streaming/tiji/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JimJam" tvg-name="JimJam" group-title="Russia" tvg-logo="JimJam.png",JimJam
+http://hls.novotelecom.ru/streaming/jim_jam/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mother and Child" tvg-name="Mother_and_Child" group-title="Russia" tvg-logo="Mother and Child.png",Mother and Child
+http://hls.novotelecom.ru/streaming/motherchi/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion_TV" group-title="Russia" tvg-logo="Fashion TV.png",Fashion TV
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox_Life" group-title="Russia" tvg-logo="Fox Life.png",Fox Life (RUS)
+http://hls.novotelecom.ru/streaming/foxlife/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Diva Universal" tvg-name="Diva_Universal" group-title="Russia" tvg-logo="Diva Universal.png",Diva Universal
+http://hls.novotelecom.ru/streaming/diva_universal/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="India" tvg-name="India" group-title="Russia" tvg-logo="India.png",India
+http://hls.novotelecom.ru/streaming/indiatv/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Channel RU" tvg-name="Discovery_Channel_RU" group-title="Russia" tvg-logo="Discovery Channel RU.png",Discovery Channel (RUS)
+http://hls.novotelecom.ru/streaming/discovery/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Discovery World RU" tvg-name="Discovery_World_RU" group-title="Russia" tvg-logo="Discovery World RU.png",Discovery World (RUS)
+http://hls.novotelecom.ru/streaming/discoveryworld/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Science Europe" tvg-name="Discovery_Science" group-title="Russia" tvg-logo="Discovery Science.png",Discovery Science (RUS)
+http://hls.novotelecom.ru/streaming/discoveryscience/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Animal Planet RU" tvg-name="Animal_Planet_RU" group-title="Russia" tvg-logo="Animal Planet RU.png",Animal Planet (RUS)
+http://hls.novotelecom.ru/streaming/animalplanet/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="National Geographic RU" tvg-name="National_Geographic_RU" group-title="Russia" tvg-logo="National Geographic RU.png",National Geographic (RUS)
+http://hls.novotelecom.ru/streaming/natgeo/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nat Geo WILD RU" tvg-name="Nat_Geo_WILD_RU" group-title="Russia" tvg-logo="Nat Geo WILD RU.png",Nat Geo WILD (RUS)
+http://hls.novotelecom.ru/streaming/nat_geo_wild/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Viasat Nature" tvg-name="Viasat_Nature" group-title="Russia" tvg-logo="Viasat Nature.png",Viasat Nature (RUS)
+http://hls.novotelecom.ru/streaming/viasat_nature/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Viasat History" tvg-name="Viasat_History" group-title="Russia" tvg-logo="Viasat History.png",Viasat History (RUS)
+http://hls.novotelecom.ru/streaming/viasat_history/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Viasat Explorer" tvg-name="Viasat_Explorer" group-title="Russia" tvg-logo="Viasat Explorer.png",Viasat Explorer (RUS)
+http://hls.novotelecom.ru/streaming/viasat_explorer/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Russian Travel Guide" tvg-name="Russian_Travel_Guide" group-title="Russia" tvg-logo="Russian Travel Guide.png",Russian Travel Guide
+http://hls.novotelecom.ru/streaming/rustravel/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="My Planet" tvg-name="My_Planet" group-title="Russia" tvg-logo="My Planet.png",My Planet
+http://hls.novotelecom.ru/streaming/my_planet/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Travel+Adventure" tvg-name="Travel+Adventure" group-title="Russia" tvg-logo="Travel+Adventure.png",Travel+Adventure
+http://hls.novotelecom.ru/streaming/traveladventure/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="Da_Vinci_Learning" group-title="Russia" tvg-logo="Da Vinci Learning.png",Da Vinci Learning (RUS)
+http://hls.novotelecom.ru/streaming/da_vinci/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Science 2.0" tvg-name="Science_2.0" group-title="Russia" tvg-logo="Science 2.0.png",Science 2.0
+http://hls.novotelecom.ru/streaming/nauka_20/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Time" tvg-name="Time" group-title="Russia" tvg-logo="Time.png",Time
+http://hls.novotelecom.ru/streaming/time/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="First Education" tvg-name="First_Education" group-title="Russia" tvg-logo="First Education.png",First Education
+http://hls.novotelecom.ru/streaming/1_obraz/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Amazing Life" tvg-name="Amazing_Life" group-title="Russia" tvg-logo="Amazing Life.png",Amazing Life
+http://hls.novotelecom.ru/streaming/amazing_life/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="365 Days" tvg-name="365_Days" group-title="Russia" tvg-logo="365 Days.png",365 Days
+http://hls.novotelecom.ru/streaming/365_days/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Browse" tvg-name="TV_Browse" group-title="Russia" tvg-logo="TV Browse.png",TV Browse
+http://hls.novotelecom.ru/streaming/interesnoe_tv/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox RU" tvg-name="Fox_RU" group-title="Russia" tvg-logo="Fox RU.png",FOX (RUS)
+http://hls.novotelecom.ru/streaming/fox/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SONY TB (SET)" tvg-name="SONY_TB_(SET)" group-title="Russia" tvg-logo="SONY TB (SET).png",SONY TB (SET)
+http://hls.novotelecom.ru/streaming/set/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sony Sci-Fi" tvg-name="Sony Sci-Fi" group-title="Russia" tvg-logo="Sony Sci-Fi.png",Sony Sci-Fi
+http://hls.novotelecom.ru/streaming/sonyscifi/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV XXI" tvg-name="TV_XXI" group-title="Russia" tvg-logo="TV XXI.png",TV XXI
+http://hls.novotelecom.ru/streaming/tv21/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Comedy TV" tvg-name="Comedy_TV" group-title="Russia" tvg-logo="Comedy TV.png",Comedy TV
+http://hls.novotelecom.ru/streaming/comedytv/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV 1000" tvg-name="TV_1000" group-title="Russia" tvg-logo="TV 1000.png",TV 1000
+http://hls.novotelecom.ru/streaming/tv1000/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV 1000 Action" tvg-name="TV_1000_Action" group-title="Russia" tvg-logo="TV 1000 Action.png",TV 1000 Action
+http://hls.novotelecom.ru/streaming/tv1000_action/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV 1000 Russkoje Kino" tvg-name="TV_1000_Russkoje_Kino" group-title="Russia" tvg-logo="TV 1000 Russkoje Kino.png",TV 1000 Russkoje Kino
+http://hls.novotelecom.ru/streaming/tv_1000_rus_kino/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dom Kino" tvg-name="Dom_Kino" group-title="Russia" tvg-logo="Dom Kino.png",Dom Kino
+http://hls.novotelecom.ru/streaming/dom_kino/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Universal Channel RU" tvg-name="Universal_Channel_RU" group-title="Russia" tvg-logo="Universal Channel RU.png",Universal Channel (RUS)
+http://hls.novotelecom.ru/streaming/universal_channel/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kinolyuks ( NTV )" tvg-name="Kinolyuks_(_NTV_)" group-title="Russia" tvg-logo="Kinolyuks ( NTV ).png",Kinolyuks ( NTV )
+http://hls.novotelecom.ru/streaming/kinolux/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Real Scary" tvg-name="Real_Scary" group-title="Russia" tvg-logo="Real Scary.png",Real Scary
+http://hls.novotelecom.ru/streaming/nstv/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rain" tvg-name="Rain" group-title="Russia" tvg-logo="Rain.png",Rain
+http://hls.novotelecom.ru/streaming/rain/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RBC" tvg-name="RBC" group-title="Russia" tvg-logo="RBC.png",RBC
+http://hls.novotelecom.ru/streaming/rbk/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="World 24" tvg-name="World_24" group-title="Russia" tvg-logo="World 24.png",World 24
+http://hls.novotelecom.ru/streaming/mir24/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Country" tvg-name="Country" group-title="Russia" tvg-logo="Country.png",Country
+http://hls.novotelecom.ru/streaming/strana/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" group-title="Russia" tvg-logo="CNN.png",CNN
+http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuroNews" tvg-name="EuroNews" group-title="Russia" tvg-logo="EuroNews.png",EuroNews
+http://hls.novotelecom.ru/streaming/euronews/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Russia Today RU" tvg-name="Russia_Today_RU" group-title="Russia" tvg-logo="Russia Today RU.png",Russia Today (RUS)
+http://hls.novotelecom.ru/streaming/russiatoday/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YU" tvg-name="YU" group-title="Russia" tvg-logo="YU.png",YU
+http://hls.novotelecom.ru/streaming/utv/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Investigation Discovery RU" tvg-name="Investigation_Discovery_RU" group-title="Russia" tvg-logo="Investigation Discovery RU.png",Investigation Discovery (RUS)
+http://hls.novotelecom.ru/streaming/investigationdiscovery/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Drive" tvg-name="Drive" group-title="Russia" tvg-logo="Drive.png",Drive
+http://hls.novotelecom.ru/streaming/drive/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fishing and Hunting" tvg-name="Fishing_and_Hunting" group-title="Russia" tvg-logo="Fishing and Hunting.png",Fishing and Hunting
+http://hls.novotelecom.ru/streaming/hafi/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Homesteads" tvg-name="Homesteads" group-title="Russia" tvg-logo="Homesteads.png",Homesteads
+http://hls.novotelecom.ru/streaming/usadba/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nostalgia" tvg-name="Nostalgia" group-title="Russia" tvg-logo="Nostalgia.png",Nostalgia
+http://hls.novotelecom.ru/streaming/nostalgy/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Auto Plus" tvg-name="Auto_Plus" group-title="Russia" tvg-logo="Auto Plus.png",Auto Plus
+http://hls.novotelecom.ru/streaming/auto_plus/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Weapons" tvg-name="Weapons" group-title="Russia" tvg-logo="Weapons.png",Weapons
+http://hls.novotelecom.ru/streaming/oruzhie/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sundress" tvg-name="Sundress" group-title="Russia" tvg-logo="Sundress.png",Sundress
+http://hls.novotelecom.ru/streaming/sarafan/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kitchen TV" tvg-name="Kitchen_TV" group-title="Russia" tvg-logo="Kitchen TV.png",Kitchen TV
+http://hls.novotelecom.ru/streaming/kitchentv/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telecafe" tvg-name="Telecafe" group-title="Russia" tvg-logo="Telecafe.png",Telecafe
+http://hls.novotelecom.ru/streaming/telekafe/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Psychology 21" tvg-name="Psychology_21" group-title="Russia" tvg-logo="Psychology 21.png",Psychology 21
+http://hls.novotelecom.ru/streaming/psych_21/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SUCCESS" tvg-name="SUCCESS" group-title="Russia" tvg-logo="SUCCESS.png",SUCCESS
+http://hls.novotelecom.ru/streaming/uspex/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="O2TV" tvg-name="O2TV" group-title="Russia" tvg-logo="O2TV.png",O2TV
+http://hls.novotelecom.ru/streaming/o2tv/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Europa TV" tvg-name="Europa_TV" group-title="Russia" tvg-logo="Europa TV.png",Europa TV
+http://hls.novotelecom.ru/streaming/europaplustv/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MCM Top" tvg-name="MCM_Top" group-title="Russia" tvg-logo="MCM Top.png",MCM Top
+http://hls.novotelecom.ru/streaming/mcmtop/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bridge TV" tvg-name="Bridge_TV" group-title="Russia" tvg-logo="Bridge TV.png",Bridge TV
+http://hls.novotelecom.ru/streaming/brigge/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Chanson TV" tvg-name="Chanson_TV" group-title="Russia" tvg-logo="Chanson TV.png",Chanson TV
+http://hls.novotelecom.ru/streaming/shanson/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="La-Minor" tvg-name="La-Minor" group-title="Russia" tvg-logo="La-Minor.png",La-Minor
+http://hls.novotelecom.ru/streaming/la_minor/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mezzo" tvg-name="Mezzo" group-title="Russia" tvg-logo="Mezzo.png",Mezzo
+http://hls.novotelecom.ru/streaming/mezzo/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Muz-TV" tvg-name="Muz-TV" group-title="Russia" tvg-logo="Muz-TV.png",Muz-TV
+http://hls.novotelecom.ru/streaming/muz_tvnew/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" group-title="Russia" tvg-logo="Eurosport.png",Eurosport (RUS)
+http://hls.novotelecom.ru/streaming/eurosport/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport_2" group-title="Russia" tvg-logo="Eurosport 2.png",Eurosport 2 (RUS)
+http://hls.novotelecom.ru/streaming/eurosport2/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sport 1 RU" tvg-name="Sport_1_RU" group-title="Russia" tvg-logo="Sport 1 RU.png",Sport 1 (RUS)
+http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sport 2 RU" tvg-name="Sport_2_RU" group-title="Russia" tvg-logo="Sport 2 RU.png",Sport 2 (RUS)
+http://hls.novotelecom.ru/streaming/sport_2/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Football" tvg-name="Football" group-title="Russia" tvg-logo="Football.png",Football
+http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KHL" tvg-name="KHL" group-title="Russia" tvg-logo="KHL.png",KHL
+http://hls.novotelecom.ru/streaming/khl/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Viasat Sport" tvg-name="Viasat_Sport" group-title="Russia" tvg-logo="Viasat Sport.png",Viasat Sport
+http://hls.novotelecom.ru/streaming/viasat_sport/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fight Club" tvg-name="Fight_Club" group-title="Russia" tvg-logo="Fight Club.png",Fight Club
+http://hls.novotelecom.ru/streaming/fight_club/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Extreme Sports" tvg-name="Extreme_Sports" group-title="Russia" tvg-logo="Extreme Sports.png",Extreme Sports
+http://hls.novotelecom.ru/streaming/extreme_sports/tvrec/playlist.m3u8

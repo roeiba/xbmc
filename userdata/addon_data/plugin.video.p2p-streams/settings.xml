@@ -1,0 +1,36 @@
+<settings>
+    <setting id="ace-debug" value="false" />
+    <setting id="aceplay_type" value="0" />
+    <setting id="aceporta" value="62062" />
+    <setting id="active" value="0" />
+    <setting id="android_sopclient" value="" />
+    <setting id="auto_ip" value="true" />
+    <setting id="autobuf" value="true" />
+    <setting id="autoconfig" value="false" />
+    <setting id="buffer_size" value="8192" />
+    <setting id="engine-status" value="true" />
+    <setting id="external-sopcast" value="1" />
+    <setting id="force_android" value="false" />
+    <setting id="hide_porn" value="false" />
+    <setting id="ip_addr" value="127.0.0.1" />
+    <setting id="livestreams-pt-events" value="false" />
+    <setting id="livestreams-pt-sports" value="false" />
+    <setting id="livestreams-spanish" value="false" />
+    <setting id="local_port" value="9000" />
+    <setting id="localhost" value="127.0.0.1" />
+    <setting id="openelecx86_64" value="false" />
+    <setting id="pausable" value="false" />
+    <setting id="playerport" value="6878" />
+    <setting id="prog" value="" />
+    <setting id="russian_translation" value="true" />
+    <setting id="save" value="false" />
+    <setting id="shutdown-engine" value="true" />
+    <setting id="socket_time" value="15" />
+    <setting id="sop_debug_mode" value="false" />
+    <setting id="sopcast-oficial" value="true" />
+    <setting id="sopcast-romanian" value="true" />
+    <setting id="stream_time" value="6" />
+    <setting id="timezone" value="432" />
+    <setting id="video_port" value="9001" />
+    <setting id="wait_time" value="1000" />
+</settings>

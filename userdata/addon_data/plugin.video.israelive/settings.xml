@@ -1,0 +1,5 @@
+<settings>
+    <setting id="ForceFilmonScan" value="false" />
+    <setting id="TV-LightPlaylist" value="false" />
+    <setting id="iptvPackage" value="0" />
+</settings>

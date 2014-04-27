@@ -1,0 +1,1122 @@
+#EXTM3U
+
+#2#
+#EXTINF:-1 tvg-id="88FM" tvg-name="88FM" group-title="Radio" tvg-logo="88FM.png" radio="true",88FM
+mms://s3gwm.castup.net/990310006-52.wmv
+
+#3#
+#EXTINF:-1 tvg-id="90FM emtza haderech" tvg-name="90FM_emtza_haderech" group-title="Radio" tvg-logo="90FM emtza haderech.png" radio="true",90FM emtza haderech
+rtmp://fms02.mediacast.co.il/106-live playpath=radio90 swfUrl=http://radio.mediacast.co.il/players/fp325/flowplayer-3.2.7.swf
+
+#4#
+#EXTINF:-1 tvg-id="90.3FM Reshet D" tvg-name="90.3FM_Reshet_D" group-title="Radio" tvg-logo="90.3FM Reshet D.png" radio="true",90.3FM Reshet D
+mms://s0gwm.castup.net/990310003-52.wmv
+
+#5#
+#EXTINF:-1 tvg-id="91FM lev hamedina" tvg-name="91FM_lev_hamedina" group-title="Radio" tvg-logo="91FM lev hamedina.png" radio="true",91FM lev hamedina
+http://213.8.143.171/91FM
+
+#6#
+#EXTINF:-1 tvg-id="91.3FM Kol Ha musica" tvg-name="91.3FM_Kol_Ha_musica" group-title="Radio" tvg-logo="91.3FM Kol Ha musica.png" radio="true",91.3FM Kol Ha musica
+mms://s4awm.castup.net/990310008-52.wmv
+
+#7#
+#EXTINF:-1 tvg-id="92.1FM Kol-Barama" tvg-name="92.1FM_Kol-Barama" group-title="Radio" tvg-logo="92.1FM Kol-Barama.png" radio="true",92.1FM Kol-Barama
+http://195.225.46.80/kol-b-live
+
+#8#
+#EXTINF:-1 tvg-id="95FM reshet B" tvg-name="95FM_reshet_B" group-title="Radio" tvg-logo="95FM reshet B.png" radio="true",95FM reshet B
+mms://s0gwm.castup.net/990310001-52.wmv
+
+#9#
+#EXTINF:-1 tvg-id="96FM Kol Rega" tvg-name="96FM_Kol_Rega" group-title="Radio" tvg-logo="96FM Kol Rega.png" radio="true",96FM Kol Rega
+mms://radio.96fm.co.il/audio
+
+#10#
+#EXTINF:-1 tvg-id="99FM ECO" tvg-name="99FM_ECO" group-title="Radio" tvg-logo="99FM ECO.png" radio="true",99FM ECO
+http://194.90.203.111:8000/99fm
+
+#11#
+#EXTINF:-1 tvg-id="99.5FM" tvg-name="99.5FM" group-title="Radio" tvg-logo="99.5FM.png" radio="true",99.5FM
+rtmp://fms3.mediacast.co.il/radio playpath=hamesh swfUrl=http://radio.mediacast.co.il/players/fp325/flowplayer-3.2.7.swf
+
+#12#
+#EXTINF:-1 tvg-id="100FM radius" tvg-name="100FM_radius" group-title="Radio" tvg-logo="100FM radius.png" radio="true",100FM radius
+http://213.8.143.171/100fm
+
+#13#
+#EXTINF:-1 tvg-id="100.3FM Reka radio" tvg-name="100.3FM_Reka_radio" group-title="Radio" tvg-logo="100.3FM Reka radio.png" radio="true",100.3FM Reka radio
+mms://s3ewm.castup.net/990310005-52.wmv
+
+#14#
+#EXTINF:-1 tvg-id="100.7FM Reshet A" tvg-name="100.7FM_Reshet_A" group-title="Radio" tvg-logo="100.7FM Reshet A.png" radio="true",100.7FM Reshet A
+mms://s4awm.castup.net/990310002-52.wmv
+
+#15#
+#EXTINF:-1 tvg-id="101FM jerusalem Radio" tvg-name="101FM_jerusalem_Radio" group-title="Radio" tvg-logo="101FM jerusalem Radio.png" radio="true",101FM jerusalem Radio
+mms://212.150.243.29/101fm
+
+#16#
+#EXTINF:-1 tvg-id="102FM Radio Tel Aviv" tvg-name="102FM_Radio_Tel_Aviv" group-title="Radio" tvg-logo="102FM Radio Tel Aviv.png" radio="true",102FM Radio Tel Aviv
+rtmp://fms3.mediacast.co.il:1935/live playpath=102fm.mp4 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf
+
+#17#
+#EXTINF:-1 tvg-id="102FM Kol ayam aadom eilat" tvg-name="102FM_Kol_ayam_aadom_eilat" group-title="Radio" tvg-logo="102FM Kol ayam aadom eilat.png" radio="true",102FM Kol ayam aadom eilat
+http://46.117.101.64:8000
+
+#18#
+#EXTINF:-1 tvg-id="102.3FM Galei Zahal" tvg-name="102.3FM_Galei_Zahal" group-title="Radio" tvg-logo="102.3FM Galei Zahal.png" radio="true",102.3FM Galei Zahal
+http://test.live.net.il/glz-a-zixief.m3u8
+
+#19#
+#EXTINF:-1 tvg-id="102.8FM Radio Moreshet" tvg-name="102.8FM_Radio_Moreshet" group-title="Radio" tvg-logo="102.8FM Radio Moreshet.png" radio="true",102.8FM Radio Moreshet
+mms://s4awm.castup.net/990310002-52.wmv
+
+#20#
+#EXTINF:-1 tvg-id="103FM radio lelo hafsaka" tvg-name="103FM_radio_lelo_hafsaka" group-title="Radio" tvg-logo="103FM radio lelo hafsaka.png" radio="true",103FM radio lelo hafsaka
+mms://s3gwm.castup.net/995460001-52.wmv
+
+#21#
+#EXTINF:-1 tvg-id="105.3FM Kol Haglil & H elyon" tvg-name="105.3FM_Kol_Haglil_&_H_elyon" group-title="Radio" tvg-logo="105.3FM Kol Haglil & H elyon.png" radio="true",105.3FM Kol Haglil & H elyon
+http://212.179.6.235:8000/galil
+
+#22#
+#EXTINF:-1 tvg-id="105.5FM Reshet G" tvg-name="105.5FM_Reshet_G" group-title="Radio" tvg-logo="105.5FM Reshet G.png" radio="true",105.5FM Reshet G
+mms://s3ewm.castup.net/990310004-52.wmv
+
+#23#
+#EXTINF:-1 tvg-id="106FM KoL Ramat Hasharon" tvg-name="106FM_KoL_Ramat_Hasharon" group-title="Radio" tvg-logo="106FM KoL Ramat Hasharon.png" radio="true",106FM KoL Ramat Hasharon
+http://106fm.livecast.co.il:8123/;stream/1
+
+#24#
+#EXTINF:-1 tvg-id="106FM Kol Ha kampus" tvg-name="106FM_Kol_Ha_kampus" group-title="Radio" tvg-logo="106FM Kol Ha kampus.png" radio="true",106FM Kol Ha kampus
+http://212.29.254.129:7075
+
+#25#
+#EXTINF:-1 tvg-id="106FM Radio Kol Izrael" tvg-name="106FM_Radio_Kol_Izrael" group-title="Radio" tvg-logo="106FM Radio Kol Izrael.png" radio="true",106FM Radio Kol Izrael
+mms://IL4.cast-tv.com/106FM
+
+#26#
+#EXTINF:-1 tvg-id="106FM Radio Kol Kinneret" tvg-name="106FM_Radio_Kol_Kinneret" group-title="Radio" tvg-logo="106FM Radio Kol Kinneret.png" radio="true",106FM Radio Kol Kinneret
+mms://s3gwm.castup.net/996090001-52.wmv
+
+#27#
+#EXTINF:-1 tvg-id="106FM Radio Kol aher (ariel)" tvg-name="106FM_Radio_Kol_aher_(ariel)" group-title="Radio" tvg-logo="106FM Radio Kol aher (ariel).png" radio="true",106FM Radio Kol aher (ariel)
+rtmp://ariellive.streamtv.co.il/ariellive playpath=ariellivestream?id=0.26431249361485243 swfUrl=http://arieladmin.streamtv.co.il/DesktopModules/UltraVideoGallery/UVGAudio2.swf
+
+#28#
+#EXTINF:-1 tvg-id="106FM Radio Kol Ramle" tvg-name="106FM_Radio_Kol_Ramle" group-title="Radio" tvg-logo="106FM Radio Kol Ramle.png" radio="true",106FM Radio Kol Ramle
+http://84.94.229.99:5693/
+
+#29#
+#EXTINF:-1 tvg-id="106FM Radio Kol Natanya" tvg-name="106FM_Radio_Kol_Natanya" group-title="Radio" tvg-logo="106FM Radio Kol Natanya.png" radio="true",106FM Radio Kol Natanya
+mms://vstreaming.netanya.ac.il/106FM
+
+#30#
+#EXTINF:-1 tvg-id="106.2FM Radio Ben Tchomi" tvg-name="106.2FM_Radio_Ben_Tchomi" group-title="Radio" tvg-logo="106.2FM Radio Ben Tchomi.png" radio="true",106.2FM Radio Ben Tchomi
+mms://s3ewm.castup.net/996220002-52.wmv
+
+#31#
+#EXTINF:-1 tvg-id="106.2FM Radio Oranim" tvg-name="106.2FM_Radio_Oranim" group-title="Radio" tvg-logo="106.2FM Radio Oranim.png" radio="true",106.2FM Radio Oranim
+http://oranim.ilcast.com:8017/
+
+#32#
+#EXTINF:-1 tvg-id="106.4FM Radio KoL Hanegev" tvg-name="106.4FM_Radio_KoL_Hanegev" group-title="Radio" tvg-logo="106.4FM Radio KoL Hanegev.png" radio="true",106.4FM Radio KoL Hanegev
+mms://IL29.cast-tv.com/22564_Sapir_Live
+
+#33#
+#EXTINF:-1 tvg-id="107FM Galgalatz" tvg-name="107FM_Galgalatz" group-title="Radio" tvg-logo="107FM Galgalatz.png" radio="true",107FM Galgalatz
+http://test.live.net.il/glgltz-a-zixief.m3u8
+
+#34#
+#EXTINF:-1 tvg-id="107.5FM radio haifa" tvg-name="107.5FM_radio_haifa" group-title="Radio" tvg-logo="107.5FM radio haifa.png" radio="true",107.5FM radio haifa
+rtmp://cdn10.mediacast.co.il:1935/liveradio playpath=1075.stream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback_101.swf
+
+#35#
+#EXTINF:-1 tvg-id="109FM radio" tvg-name="109FM_radio" group-title="Radio" tvg-logo="109FM radio.png" radio="true",109FM radio
+http://cuead.cdnwiz.com/cuead-109fmmp3-64
+
+#36#
+#EXTINF:-1 tvg-id="Radio Kol Akko" tvg-name="Radio_Kol_Akko" group-title="Radio" tvg-logo="Radio Kol Akko.png" radio="true",Radio Kol Akko
+http://212.150.101.181:8012/
+
+#37#
+#EXTINF:-1 tvg-id="radio Ezorit" tvg-name="radio_Ezorit" group-title="Radio" tvg-logo="radio Ezorit.png" radio="true",radio Ezorit
+http://www.radioezorit.co.il/listen/playlist.asx
+
+#38#
+#EXTINF:-1 tvg-id="KaTze Radio" tvg-name="KaTze_Radio" group-title="Radio" tvg-logo="KaTze Radio.png" radio="true",KaTze Radio
+http://server2.kzradio.net/stream1
+
+#39#
+#EXTINF:-1 tvg-id="Radio Hof Eilat" tvg-name="Radio_Hof_Eilat" group-title="Radio" tvg-logo="Radio Hof Eilat.png" radio="true",Radio Hof Eilat
+http://46.165.212.162/listen.php?ip=46.165.212.162&port=4858
+
+#40#
+#EXTINF:-1 tvg-id="Radio Afula" tvg-name="Radio_Afula" group-title="Radio" tvg-logo="Radio Afula.png" radio="true",Radio Afula
+http://cast03.cdnwiz.com:7006/stream
+
+#41#
+#EXTINF:-1 tvg-id="Kol Ha mizrach" tvg-name="Kol_Ha_mizrach" group-title="Radio" tvg-logo="Kol Ha mizrach.png" radio="true",Kol Ha mizrach
+http://www.menta-fm.co.il:8888/
+
+#42#
+#EXTINF:-1 tvg-id="Radio 1FM" tvg-name="Radio_1FM" group-title="Radio" tvg-logo="Radio 1FM.png" radio="true",Radio 1FM
+http://listen.clickfm.co.il/1FM
+
+#43#
+#EXTINF:-1 tvg-id="Click2Dance" tvg-name="Click2Dance" group-title="Radio" tvg-logo="Click2Dance.png" radio="true",Click2Dance
+http://listen.clickfm.co.il/click2dance
+
+#44#
+#EXTINF:-1 tvg-id="ClickFM" tvg-name="ClickFM" group-title="Radio" tvg-logo="ClickFM.png" radio="true",ClickFM
+http://listen.clickfm.co.il/clickfm
+
+#45#
+#EXTINF:-1 tvg-id="ClickCafe" tvg-name="ClickCafe" group-title="Radio" tvg-logo="ClickCafe.png" radio="true",ClickCafe
+http://listen.clickfm.co.il/clickcafe
+
+#46#
+#EXTINF:-1 tvg-id="ClickHipHop" tvg-name="ClickHipHop" group-title="Radio" tvg-logo="ClickHipHop.png" radio="true",ClickHipHop
+http://listen.clickfm.co.il/hip.mp3
+
+#47#
+#EXTINF:-1 tvg-id="Click2Love" tvg-name="Click2Love" group-title="Radio" tvg-logo="Click2Love.png" radio="true",Click2Love
+http://listen.clickfm.co.il/click2love
+
+#48#
+#EXTINF:-1 tvg-id="ClickIsrael" tvg-name="ClickIsrael" group-title="Radio" tvg-logo="ClickIsrael.png" radio="true",ClickIsrael
+http://listen.clickfm.co.il/clickil
+
+#49#
+#EXTINF:-1 tvg-id="Radio Beat" tvg-name="Radio_Beat" group-title="Radio" tvg-logo="Radio Beat.png" radio="true",Radio Beat
+http://beat.livecast.co.il/;
+
+#50#
+#EXTINF:-1 tvg-id="Noshmim MizRahit" tvg-name="Noshmim_MizRahit" group-title="Radio" tvg-logo="Noshmim MizRahit.png" radio="true",Noshmim MizRahit
+http://www.rs.mizrahit.co.il:7777/
+
+#51#
+#EXTINF:-1 tvg-id="Kol HasHalom" tvg-name="Kol_HasHalom" group-title="Radio" tvg-logo="Kol HasHalom.png" radio="true",Kol HasHalom
+http://uk2-vn.mixstream.net:8004/
+
+#52#
+#EXTINF:-1 tvg-id="Radio Yasoo" tvg-name="Radio_Yasoo" group-title="Radio" tvg-logo="Radio Yasoo.png" radio="true",Radio Yasoo
+http://radio-yasoo.ath.cx:7500/
+
+#53#
+#EXTINF:-1 tvg-id="Radio greece Blue" tvg-name="Radio_greece_Blue" group-title="Radio" tvg-logo="Radio greece Blue.png" radio="true",Radio greece Blue
+http://213.8.152.135:7900/streamer_allforpeace
+
+#54#
+#EXTINF:-1 tvg-id="Kol Hayeladim" tvg-name="Kol_Hayeladim" group-title="Radio" tvg-logo="Kol Hayeladim.png" radio="true",Kol Hayeladim
+rtmp://cast04.cdnwiz.com:1935/kolhayeladim playpath=kolhayeladim.stream swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.16.swf
+
+#55#
+#EXTINF:-1 tvg-id="Arutz 1" tvg-name="Arutz_1" group-title="Main" tvg-logo="Arutz 1.png",Arutz 1
+rtmp://s3ufl.castup.net:1935/990310102-123.flv/_definst_/_definst_
+
+#56#
+#EXTINF:-1 tvg-id="Arutz 2" tvg-name="Arutz_2" group-title="Main" tvg-logo="Arutz 2.png",Arutz 2 (Wed-Sat)
+rtsp://sbcfl.castup.net:1935/993850038-123.flv/_definst_/_definst_
+
+#57#
+#EXTINF:-1 tvg-id="Arutz 2" tvg-name="Arutz_2" group-title="Main" tvg-logo="Arutz 2.png",Arutz 2 (SD)
+rtmp://sv8fl.castup.net:1935/996180004-123.flv/_definst_
+
+#58#
+#EXTINF:-1 tvg-id="Arutz 10" tvg-name="Arutz_10" group-title="Main" tvg-logo="Arutz 10.png",Arutz 10
+rtmp://s3yfl.castup.net:1935/993860016-123.flv/_definst_/_definst_
+
+#59#
+#EXTINF:-1 tvg-id="Arutz 10" tvg-name="Arutz_10" group-title="Main" tvg-logo="Arutz 10.png",Arutz 10 (Backup)
+rtmp://S0hfl.castup.net:1935/993860018-123.flv/_definst_/_definst_
+
+#60#
+#EXTINF:-1 tvg-id="Arutz 21" tvg-name="Arutz_21" group-title="Main" tvg-logo="Arutz 21.png",Arutz 21
+mms://212.179.13.61/991810001-52.wmv
+
+#61#
+#EXTINF:-1 tvg-id="Arutz Hamuzikah 24" tvg-name="Arutz_Hamuzikah_24" group-title="Main" tvg-logo="Arutz Hamuzikah 24.png",Arutz Hamuzikah 24
+rtmp://s3ifl.castup.net:1935/993850044-123.flv/_definst_/_definst_
+
+#62#
+#EXTINF:-1 tvg-id="Arutz 33" tvg-name="Arutz_33" group-title="Main" tvg-logo="Arutz 33.png",Arutz 33
+rtmp://S0hfl.castup.net:1935/990310076-123.flv/_definst_/_definst_
+
+#63#
+#EXTINF:-1 tvg-id="Arutz Haknesset" tvg-name="Arutz_Haknesset" group-title="Main" tvg-logo="Arutz Haknesset.png",Arutz Haknesset
+mms://212.235.5.241:80/knessetlive
+
+#64#
+#EXTINF:-1 tvg-id="Arutz Meir" tvg-name="Arutz_Meir" group-title="Main" tvg-logo="Arutz Meir.png",Arutz Meir
+http://82.80.198.100:1935/live/live1/playlist.m3u8
+
+#65#
+#EXTINF:-1 tvg-id="Arutz Hidabroot" tvg-name="Arutz_Hidabroot" group-title="Main" tvg-logo="Arutz Hidabroot.png",Arutz Hidabroot
+http://liveedge.it.best-tv.com:1935/besttv14/stream_hidabroot01/playlist.m3u8
+
+#66#
+#EXTINF:-1 tvg-id="Arutz HaKabbalah" tvg-name="Arutz_HaKabbalah" group-title="Main" tvg-logo="Arutz HaKabbalah.png",Arutz HaKabbalah
+mms://vod.kab.tv/heb
+
+#83#
+#EXTINF:-1 tvg-id="SAB TV" tvg-name="SAB_TV" group-title="Main" tvg-logo="SAB TV.png",SAB TV
+http://46.249.213.93/iPhone/broadcast/sonysabtv-tablet.3gp/sonysabtv-tablet.3gp-mr498k.m3u8
+
+#86#
+#EXTINF:-1 tvg-id="DocuBox HD" tvg-name="DocuBox_HD" group-title="Main" tvg-logo="DocuBox HD.png",DocuBox HD
+http://spi-live.ercdn.net/spi/docuboxhd_0_1/playlist.m3u8
+
+#91#
+#EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai_One" group-title="Main" tvg-logo="Dubai One.png",Dubai One
+http://cdnedvrdubaione.endavomedia.com/smil:dmilivedubaione.smil/playlist.m3u8
+
+#113#
+#EXTINF:-1 tvg-id="RTE One" tvg-name="RTE_One" group-title="Main" tvg-logo="RTE One.png",RTE One
+rtmp://fmsod.rte.ie:1935/live playpath=rte1 swfUrl=http://www.rte.ie/static/player/swf/osmf2_541_2012_11_14.swf live=1 pageUrl=http://www.rte.ie/player/nl/live/8/ swfVfy=1
+
+#114#
+#EXTINF:-1 tvg-id="RTE Two" tvg-name="RTE_Two" group-title="Main" tvg-logo="RTE Two.png",RTE Two
+rtmp://fmsod.rte.ie:1935/live playpath=rte2 swfUrl=http://www.rte.ie/static/player/swf/osmf2_541_2012_11_14.swf live=1 pageUrl=http://www.rte.ie/player/nl/live/8/ swfVfy=1
+
+#115#
+#EXTINF:-1 tvg-id="Outdoor Channel" tvg-name="Outdoor_Channel" group-title="Main" tvg-logo="Outdoor Channel.png",Outdoor Channel
+rtmp://lm02.everyon.tv:1935/ptv2/pld613
+
+#116#
+#EXTINF:-1 tvg-id="Animal Planet RU" tvg-name="Animal_Planet_RU" group-title="Main" tvg-logo="Animal Planet RU.png",Animal Planet HD
+rtmp://s01.webport.tv/promo/mtv live=2
+
+#118#
+#EXTINF:-1 tvg-id="TWiT" tvg-name="TWiT" group-title="Main" tvg-logo="TWiT.png",TWiT
+http://bglive-a.bitgravity.com/twit/live/high
+
+#119#
+#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE_Sport_Stars" group-title="Main" tvg-logo="TRACE Sport Stars.png",TRACE Sport Stars
+http://46.249.213.87/iPhone/broadcast/tracetvsports-tablet.3gp/tracetvsports-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
+
+#120#
+#EXTINF:-1 tvg-id="FastnFun Box HD" tvg-name="FastnFun_Box_HD" group-title="Main" tvg-logo="FastnFun Box HD.png",Fast & FunBox HD
+http://spi-live.ercdn.net/spi/fastnfunhd_0_1/playlist.m3u8
+
+#121#
+#EXTINF:-1 tvg-id="FightBox HD" tvg-name="FightBox_HD" group-title="Main" tvg-logo="FightBox HD.png",FightBox HD
+http://spi-live.ercdn.net/spi/fightboxhd_0_1/playlist.m3u8
+
+#122#
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="Main" tvg-logo="ESPN.png",ESPN
+rtmp://31.7.58.250:1935/stream/5654ygt.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=1 pageUrl=http://thecdn.04stream.com/live=1
+
+#123#
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA_TV" group-title="Main" tvg-logo="NBA TV.png",NBA TV
+rtmp://46.246.29.141:1935/stream/K8l9h6j8.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf pageUrl=http://04stream.com/ live=true
+
+#124#
+#EXTINF:-1 tvg-id="NFL TV" tvg-name="NFL_TV" group-title="Main" tvg-logo="NFL TV.png",NFL TV
+rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com
+
+#126#
+#EXTINF:-1 tvg-id="Chelsea TV" tvg-name="Chelsea_TV" group-title="Main" tvg-logo="Chelsea TV.png",Chelsea TV
+rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/Chelsea TV on k1m05 Live TV
+
+#129#
+#EXTINF:-1 tvg-id="360 Tune Box" tvg-name="360_Tune_Box" group-title="Main" tvg-logo="360 Tune Box.png",360 Tune Box
+http://spi-live.ercdn.net:80/spi/360tuneboxhd_0_1/playlist.m3u8
+
+#131#
+#EXTINF:-1 tvg-id="Brit Asia TV" tvg-name="Brit_Asia_TV" group-title="Main" tvg-logo="Brit Asia TV.png",Brit Asia TV
+http://46.249.213.87/iPhone/broadcast/britasia-tablet.3gp/britasia-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
+
+#132#
+#EXTINF:-1 tvg-id="4 Music TV" tvg-name="4_Music_TV" group-title="Main" tvg-logo="4 Music TV.png",4 Music TV
+http://46.249.213.87/iPhone/broadcast/4-tablet.3gp/4-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
+
+#133#
+#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE_Urban" group-title="Main" tvg-logo="TRACE Urban.png",TRACE Urban
+http://46.249.213.87/iPhone/broadcast/tracetvurban-tablet.3gp/tracetvurban-tablet.3gp-mr647k.m3u8
+
+#135#
+#EXTINF:-1 tvg-id="Virgin TV" tvg-name="Virgin_TV" group-title="Main" tvg-logo="Virgin TV.png",Virgin TV
+rtmp://fms.105.net:1935/live/virgin1 playpath=virgin1 swfurl=http://www.highermedia.com/assets/flash/jw_player.swf live=1 pageurl=http://www.google.com/Virgin 1
+
+#136#
+#EXTINF:-1 tvg-id="Radio 105 TV" tvg-name="Radio_105_TV" group-title="Main" tvg-logo="Radio 105 TV.png",Radio 105 TV
+rtmp://fms.105.net:1935/live/105Test1 swfVfy=http://video.105.net/com/universalmind/swf/videoPlayerAdsWizz01.swf live=1 timeout=10
+
+#137#
+#EXTINF:-1 tvg-id="Europa Plus TV" tvg-name="Europa_Plus_TV" group-title="Main" tvg-logo="Europa Plus TV.png",Europa Plus TV
+rtmp://europaplus.cdnvideo.ru:1935/europaplus-live playpath=mp4:eptv_main.sdp swfUrl=http://www.europaplustv.com/javascript/videoplayernew.swf pageUrl=http://www.europaplustv.com/online
+
+#138#
+#EXTINF:-1 tvg-id="Kiss TV" tvg-name="Kiss_TV" group-title="Main" tvg-logo="Kiss TV.png",Kiss TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/ playpath=live swfUrl=http://www.kisstelevision.es/flowplayer-3.2.16.swf pageUrl=http://www.kisstelevision.es/
+
+#139#
+#EXTINF:-1 tvg-id="4fun.tv" tvg-name="4fun.tv" group-title="Main" tvg-logo="4fun.tv.png",4fun.tv
+rtmp://edge2.popler.tv:1935/publishlive?play=123452 playpath=4funtv swfUrl=http://images.popler.tv/player/flowplayer.commercial.swf pageUrl=http://www.popler.tv/live/4funtv
+
+#140#
+#EXTINF:-1 tvg-id="Music Box" tvg-name="Music_Box" group-title="Main" tvg-logo="Music Box.png",Music Box
+rtmp://musicbox.cdnvideo.ru/musicbox-live/musicboxtv.sdp
+
+#141#
+#EXTINF:-1 tvg-id="i24news" tvg-name="i24news" group-title="Main" tvg-logo="i24news.png",i24news
+http://newslux-lh.akamaihd.net/english_1_650@134715?videoId=2552000984001&lineUpId=&pubId=2402232199001&playerId=2551661482001&affiliateId=&v=3.1.0&fp=WIN%2011,9,900,117&r=SCLWO&g=
+
+#142#
+#EXTINF:-1 tvg-id="FOX News" tvg-name="FOX_News" group-title="Main" tvg-logo="FOX News.png",FOX News
+rtmpe://watch.playfooty.tv/live/foxnews1569 swfurl=http://www.playfooty.tv/play/player/player.swf pageurl=http://www.playfooty.tv/play/embed.php?u=foxnews1569&vw=600&vh=430
+
+#143#
+#EXTINF:-1 tvg-id="HLN" tvg-name="HLN" group-title="Main" tvg-logo="HLN.png",HLN
+rtmp://c.cdn.livenewschat.eu/edge playpath=hln_live swfUrl=http://msnbclive.eu/player.swf swfVfy=1 live=1 pageUrl=http://weplaylive.tv timeout=15
+
+#144#
+#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" group-title="Main" tvg-logo="MSNBC.png",MSNBC
+rtmp://c.cdn.livenewschat.eu/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/player.swf swfVfy=1 live=1 pageUrl=http://weplaylive.tv timeout=15
+
+#146#
+#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky_News" group-title="Main" tvg-logo="Sky News.png",Sky News
+http://hd2.lsops.net/live/skynewsi_en_hls.smil/playlist.m3u8
+
+#150#
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC_World_News" group-title="Main" tvg-logo="BBC World News.png",BBC World News
+http://ca-edge-8.cdn2.streamago.tv:80/streamagoedge/1916/809/anjalo_bbc.m3u8
+
+#152#
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" group-title="Main" tvg-logo="CNBC.png",CNBC
+http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/master.m3u8
+
+#154#
+#EXTINF:-1 tvg-id="RT America" tvg-name="RT_America" group-title="Main" tvg-logo="RT America.png",RT America
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_720p/chunklist.m3u8
+
+#159#
+#EXTINF:-1 tvg-id="i24news France" tvg-name="i24news_France" group-title="France" tvg-logo="i24news France.png",i24news France
+mms://91.197.165.4/bouygues/all/channel12.wmv
+
+#160#
+#EXTINF:-1 tvg-id="France 24" tvg-name="France_24" group-title="France" tvg-logo="France 24.png",France 24
+http://tv.flux.france24.com/4684/02.m3u8
+
+#161#
+#EXTINF:-1 tvg-id="France 24" tvg-name="France_24" group-title="France" tvg-logo="France 24.png",France 24
+rtmp://stream2.france24.yacast.net/france24_live/fr/ playpath=f24_livefr swfUrl=http://www.france24.com/fr/sites/all/modules/maison/aef_player/flash/player.swf live=true pageURL=http://www.france24.com/
+
+#162#
+#EXTINF:-1 tvg-id="Tele bruxel" tvg-name="Tele_bruxel" group-title="France" tvg-logo="Tele bruxel.png",Tele bruxel
+rtmp://46.105.119.61:1935/live/live.sdp
+
+#165#
+#EXTINF:-1 tvg-id="Arte" tvg-name="Arte" group-title="France" tvg-logo="Arte.png",Arte
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
+
+#166#
+#EXTINF:-1 tvg-id="Canal+ 1" tvg-name="Canal+_1" group-title="France" tvg-logo="Canal+ 1.png",Canal+ 1
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1200/02.m3u8
+
+#167#
+#EXTINF:-1 tvg-id="Canal+ 17" tvg-name="Canal+_17" group-title="France" tvg-logo="Canal+ 17.png",Canal+ 17
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1710/02.m3u8
+
+#168#
+#EXTINF:-1 tvg-id="canal+ 8" tvg-name="canal+_8" group-title="France" tvg-logo="canal+ 8.png",canal+ 8
+http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1650/02.m3u8
+
+#170#
+#EXTINF:-1 tvg-id="France 0" tvg-name="France_0" group-title="France" tvg-logo="France 0.png",France 0
+mms://91.197.165.4/bouygues/all/channel5.wmv
+
+#171#
+#EXTINF:-1 tvg-id="France 2" tvg-name="France_2" group-title="France" tvg-logo="France 2.png",France 2
+mms://91.197.165.4/bouygues/all/channel1.wmv
+
+#173#
+#EXTINF:-1 tvg-id="france 3" tvg-name="france_3" group-title="France" tvg-logo="france 3.png",france 3
+mms://91.197.165.4/bouygues/all/channel2.wmv
+
+#175#
+#EXTINF:-1 tvg-id="France 3" tvg-name="France_3" group-title="France" tvg-logo="France 3.png",France 3
+mms://direct.francetv.fr/regions/jts/lca-reims-jts.wsx
+
+#176#
+#EXTINF:-1 tvg-id="France 4" tvg-name="France_4" group-title="France" tvg-logo="France 4.png",France 4
+mms://91.197.165.4/bouygues/all/channel3.wmv
+
+#178#
+#EXTINF:-1 tvg-id="france 5" tvg-name="france_5" group-title="France" tvg-logo="france 5.png",france 5
+mms://91.197.165.4/bouygues/all/channel4.wmv
+
+#179#
+#EXTINF:-1 tvg-id="LCP" tvg-name="LCP" group-title="France" tvg-logo="LCP.png",LCP
+mms://91.197.165.4/bouygues/all/channel6.wmv
+
+#180#
+#EXTINF:-1 tvg-id="TV8 Mont-Blanc" tvg-name="TV8_Mont-Blanc" group-title="France" tvg-logo="TV8 Mont-Blanc.png",TV8 Mont-Blanc
+mms://91.197.165.4/bouygues/all/channel7.wmv
+
+#181#
+#EXTINF:-1 tvg-id="KTO" tvg-name="KTO" group-title="France" tvg-logo="KTO.png",KTO
+mms://91.197.165.4/bouygues/all/channel8.wmv
+
+#182#
+#EXTINF:-1 tvg-id="D17 DirectStar" tvg-name="D17_DirectStar" group-title="France" tvg-logo="D17 DirectStar.png",D17 DirectStar
+mms://91.197.165.4/bouygues/all/channel9.wmv
+
+#184#
+#EXTINF:-1 tvg-id="BFM TV" tvg-name="BFM_TV" group-title="France" tvg-logo="BFM TV.png",BFM TV
+mms://91.197.165.4/bouygues/all/channel10.wmv
+
+#185#
+#EXTINF:-1 tvg-id="bbox actu tv" tvg-name="bbox_actu_tv" group-title="France" tvg-logo="bbox actu tv.png",bbox actu tv
+mms://91.197.165.4/bouygues/all/channel11.wmv
+
+#186#
+#EXTINF:-1 tvg-id="Gulli" tvg-name="Gulli" group-title="France" tvg-logo="Gulli.png",Gulli
+mms://91.197.165.4/bouygues/all/channel14.wmv
+
+#187#
+#EXTINF:-1 tvg-id="2M TV (Morocco)" tvg-name="2M_TV_(Morocco)" group-title="France" tvg-logo="2M TV (Morocco).png",2M TV (Morocco)
+mms://91.197.165.4/bouygues/all/channel15.wmv
+
+#188#
+#EXTINF:-1 tvg-id="Direct 8" tvg-name="Direct_8" group-title="France" tvg-logo="Direct 8.png",Direct 8
+mms://91.197.165.4/bouygues/all/channel16.wmv
+
+#189#
+#EXTINF:-1 tvg-id="Rouge TV French" tvg-name="Rouge_TV_French" group-title="France" tvg-logo="Rouge TV French.png",Rouge TV French
+rtmp://rtmp.infomaniak.ch/livecast playpath=rougetv swfUrl=http://tvplayer.castlemedia.fr/swf/tvplayer.swf?4dadb783f0a81537187120216 pageUrl=http://www.playtv.fr/television/
+
+#190#
+#EXTINF:-1 tvg-id="Tele Antilles" tvg-name="Tele_Antilles" group-title="France" tvg-logo="Tele Antilles.png",Tele Antilles
+http://live240.impek.com/soleiltv
+
+#191#
+#EXTINF:-1 tvg-id="TVM Est Parisien" tvg-name="TVM_Est_Parisien" group-title="France" tvg-logo="TVM Est Parisien.png",TVM Est Parisien
+rtmp://rtmp.infomaniak.ch/livecast playpath=cineplume swfUrl=http://static.infomaniak.ch/livetv/player-v3.swf?cfg=http://static.infomaniak.ch/configvideo/cineplume/tvm/359_config.xml pageUrl=http://www.playtv.fr/television/
+
+#192#
+#EXTINF:-1 tvg-id="Correze TV" tvg-name="Correze_TV" group-title="France" tvg-logo="Correze TV.png",Correze TV
+rtmp://www.correzetelevision.fr/playlist/ pageUrl=http://livetvstreaming.ucoz.com live=1 playpath=webtv
+
+#193#
+#EXTINF:-1 tvg-id="iTELE" tvg-name="iTELE" group-title="France" tvg-logo="iTELE.png",iTELE
+rtmp://live-fms.canalplus.fr:443/live pageUrl=http://livetvstreaming.ucoz.com live=1 playpath=itele_800@42248
+
+#194#
+#EXTINF:-1 tvg-id="YVELINES TV" tvg-name="YVELINES_TV" group-title="France" tvg-logo="YVELINES TV.png",YVELINES TV
+rtmp://rtmp.infomaniak.ch/livecast/yveline1
+
+#195#
+#EXTINF:-1 tvg-id="VITAMINE TV" tvg-name="VITAMINE_TV" group-title="France" tvg-logo="VITAMINE TV.png",VITAMINE TV
+rtmp://rtmp.infomaniak.ch/livecast playpath=vitatv pageUrl=http://webactu.freehostia.com/francelocal/vitamine.html swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.76.swf?sDescription=&sTitle=&sVersion=4%2E1%2E76 live=1
+
+#196#
+#EXTINF:-1 tvg-id="Canal Alpha (Swiss/HQ)" tvg-name="Canal_Alpha_(Swiss/HQ)" group-title="France" tvg-logo="Canal Alpha (Swiss/HQ).png",Canal Alpha (Swiss/HQ)
+rtmp://rtmp.infomaniak.ch/livecast playpath=canalalpha  swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.1.76.swf?sDescription=&sVersion=4%2E1%2E76&sTitle=  pageUrl=http://static.infomaniak.ch live=1
+
+#197#
+#EXTINF:-1 tvg-id="Air TV" tvg-name="Air_TV" group-title="France" tvg-logo="Air TV.png",Air TV
+rtmp://stream.air-tv.tv:1935/live/ playpath=web1.stream pageUrl=http://livetvstreaming.ucoz.com swfUrl=http://player.longtailvideo.com/player.swf live=1
+
+#198#
+#EXTINF:-1 tvg-id="KTO france" tvg-name="KTO_france" group-title="France" tvg-logo="KTO france.png",KTO france
+rtmp://cp99495.live.edgefcs.net/live playpath=Flash_live_KTO_TV@27823 swfUrl=http://tvplayer.castlemedia.fr/swf/tvplayer.swf?4dadb783f0a81537187120216 pageUrl=http://www.playtv.fr/television/
+
+#199#
+#EXTINF:-1 tvg-id="vox africa" tvg-name="vox_africa" group-title="France" tvg-logo="vox africa.png",vox africa
+http://193.252.235.87/voxafrica
+
+#200#
+#EXTINF:-1 tvg-id="NOTELE" tvg-name="NOTELE" group-title="France" tvg-logo="NOTELE.png",NOTELE
+rtsp://streaming06.axeweb.be:1935/live/direct.stream
+
+#201#
+#EXTINF:-1 tvg-id="LATELE" tvg-name="LATELE" group-title="France" tvg-logo="LATELE.png",LATELE
+rtsp://rtmp.infomaniak.ch:1935/livecast/latele
+
+#202#
+#EXTINF:-1 tvg-id="MIRABELLE" tvg-name="MIRABELLE" group-title="France" tvg-logo="MIRABELLE.png",MIRABELLE
+rtsp://str81.creacast.com:1935/mirabelletv/medium
+
+#215#
+#EXTINF:-1 tvg-id="E RF" tvg-name="E_RF" group-title="Germany" tvg-logo="E RF.png",E RF
+rtmp://x2908erfeic14000.f.l.f.lb.core-cdn.net/14000erf pageUrl=http://livetvstreaming.ucoz.com live=1  playpath=live/2908erfeins/live_de_450
+
+#216#
+#EXTINF:-1 tvg-id="TVA OSTBAYERN" tvg-name="TVA_OSTBAYERN" group-title="Germany" tvg-logo="TVA OSTBAYERN.png",TVA OSTBAYERN
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+
+#217#
+#EXTINF:-1 tvg-id="TV AKTUELL" tvg-name="TV_AKTUELL" group-title="Germany" tvg-logo="TV AKTUELL.png",TV AKTUELL
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_3/playlist.m3u8
+
+#218#
+#EXTINF:-1 tvg-id="Telezueri CH" tvg-name="Telezueri_CH" group-title="Germany" tvg-logo="Telezueri CH.png",Telezueri CH
+rtmp://rtmp.infomaniak.ch/livecast playpath=telezuri swfUrl=http://static.infomaniak.ch/livetv/playerMain-v4.2.25.swf?sDescription=&bLd=0&sTitle=&sVersion=4%2E2%2E25 live=1 pageUrl=http://livevideo.infomaniak.com/iframe.php?stream=telezuri&name=telezueri&player=1388
+
+#219#
+#EXTINF:-1 tvg-id="TELEBARN" tvg-name="TELEBARN" group-title="Germany" tvg-logo="TELEBARN.png",TELEBARN
+http://rtmp.infomaniak.ch/livecast/barntele/playlist.m3u8
+
+#220#
+#EXTINF:-1 tvg-id="TELE BASEL" tvg-name="TELE_BASEL" group-title="Germany" tvg-logo="TELE BASEL.png",TELE BASEL
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/playlist.m3u8
+
+#221#
+#EXTINF:-1 tvg-id="Swamiji TV AU mms" tvg-name="Swamiji_TV_AU_mms" group-title="Germany" tvg-logo="Swamiji TV AU mms.png",Swamiji TV AU mms
+mms://streaming.swamiji.tv/YogaIP-TV-LQ
+
+#222#
+#EXTINF:-1 tvg-id="Suedtirol TV" tvg-name="Suedtirol_TV" group-title="Germany" tvg-logo="Suedtirol TV.png",Suedtirol TV
+rtsp://77.72.196.214:8554/live/mp4:SuedtirolTV
+
+#223#
+#EXTINF:-1 tvg-id="OKTO TV" tvg-name="OKTO_TV" group-title="Germany" tvg-logo="OKTO TV.png",OKTO TV
+http://atwse.lbs.atusmedia.cc:1935/oktolive/okto-low.stream/playlist.m3u8
+
+#224#
+#EXTINF:-1 tvg-id="NOA4 Norderstedt" tvg-name="NOA4_Norderstedt" group-title="Germany" tvg-logo="NOA4 Norderstedt.png",NOA4 Norderstedt
+http://wt-wm1.wtnet.de/noa4-stream-hi?MSWMExt=.asf
+
+#225#
+#EXTINF:-1 tvg-id="NOA4 Hamburg" tvg-name="NOA4_Hamburg" group-title="Germany" tvg-logo="NOA4 Hamburg.png",NOA4 Hamburg
+http://wt-wm1.wtnet.de/noa4hh-stream-hi?MSWMExt=.asf
+
+#226#
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="Das_Erste" group-title="Germany" tvg-logo="Das Erste.png",Das Erste
+rtsp://daserste.edges.wowza.gl-systemhaus.de/live/mp4:daserste_int_1600
+
+#227#
+#EXTINF:-1 tvg-id="Tv 2000 Italia" tvg-name="Tv_2000_Italia" group-title="Italy" tvg-logo="Tv 2000 Italia.png",Tv 2000 Italia
+mms://62.101.89.122/Sat2000
+
+#230#
+#EXTINF:-1 tvg-id="Rai news (Italian)" tvg-name="Rai_news_(Italian)" group-title="Italy" tvg-logo="Rai news (Italian).png",Rai news (Italian)
+http://94.32.97.10:1935/satchannel1/rainews.stream/playlist.m3u8
+
+#231#
+#EXTINF:-1 tvg-id="RAI 1" tvg-name="RAI_1" group-title="Italy" tvg-logo="RAI 1.png",RAI 1
+mmsh://212.162.68.162/prodtvr1
+
+#232#
+#EXTINF:-1 tvg-id="RAI 2" tvg-name="RAI_2" group-title="Italy" tvg-logo="RAI 2.png",RAI 2
+mmsh://212.162.68.162/prodtvr2
+
+#233#
+#EXTINF:-1 tvg-id="RAI  Premium" tvg-name="RAI__Premium" group-title="Italy" tvg-logo="RAI  Premium.png",RAI  Premium
+mmsh://212.162.68.102/Rai_Premium
+
+#234#
+#EXTINF:-1 tvg-id="Rai Gulp italy" tvg-name="Rai_Gulp_italy" group-title="Italy" tvg-logo="Rai Gulp italy.png",Rai Gulp italy
+mms://212.162.68.163/Rai_gulp
+
+#235#
+#EXTINF:-1 tvg-id="rai yoyo itali" tvg-name="rai_yoyo_itali" group-title="Italy" tvg-logo="rai yoyo itali.png",rai yoyo itali
+mms://212.162.68.163/Rai_yoyo
+
+#236#
+#EXTINF:-1 tvg-id="Rai Scuola" tvg-name="Rai_Scuola" group-title="Italy" tvg-logo="Rai Scuola.png",Rai Scuola
+mmsh://212.162.68.163:80/Rai_Scuola?MSWMExt.asf
+
+#237#
+#EXTINF:-1 tvg-id="Rai Storia" tvg-name="Rai_Storia" group-title="Italy" tvg-logo="Rai Storia.png",Rai Storia
+mmsh://212.162.68.163/rai_storia?MSWMExt.asf
+
+#238#
+#EXTINF:-1 tvg-id="Rai YoYo" tvg-name="Rai_YoYo" group-title="Italy" tvg-logo="Rai YoYo.png",Rai YoYo
+mmsh://212.162.68.163:80/Rai_yoyo?MSWMExt.asf
+
+#239#
+#EXTINF:-1 tvg-id="Rai Nettuno Sat Uno" tvg-name="Rai_Nettuno_Sat_Uno" group-title="Italy" tvg-logo="Rai Nettuno Sat Uno.png",Rai Nettuno Sat Uno
+http://212.162.68.163/Rai_Nettuno?auth=daEaadhacdEd0aFb2d8ckaJbJbDd8bmb4bc-bqWzDA-c0-AmyutHn&aifp=V001
+
+#240#
+#EXTINF:-1 tvg-id="Play me TV (Italy)" tvg-name="Play_me_TV_(Italy)" group-title="Italy" tvg-logo="Play me TV (Italy).png",Play me TV (Italy)
+rtmp://cp107974.live.edgefcs.net/live playpath=beep-flash-live@34654 swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://livetvstreaming.ucoz.com live=1
+
+#241#
+#EXTINF:-1 tvg-id="IT - Radio 105 TV" tvg-name="IT_-_Radio_105_TV" group-title="Italy" tvg-logo="IT - Radio 105 TV.png",IT - Radio 105 TV
+rtmp://fms.105.net:1935/live/105Test1 swfVfy=http://video.105.net/com/universalmind/swf/videoPlayerAdsWizz01.swf live=1 timeout=10
+
+#242#
+#EXTINF:-1 tvg-id="IPER TV IT" tvg-name="IPER_TV_IT" group-title="Italy" tvg-logo="IPER TV IT.png",IPER TV IT
+mmsh://mediatv2.topix.it/24Ipertv66
+
+#243#
+#EXTINF:-1 tvg-id="Virgin 1" tvg-name="Virgin_1" group-title="Italy" tvg-logo="Virgin 1.png",Virgin 1
+rtmp://fms.105.net:1935/live/virgin1 playpath=virgin1 swfurl=http://www.highermedia.com/assets/flash/jw_player.swf live=1 pageurl=http://www.google.com/Virgin 1
+
+#244#
+#EXTINF:-1 tvg-id="La 6" tvg-name="La_6" group-title="Italy" tvg-logo="La 6.png",La 6
+rtmp://la6.stream.internetone.it/streaming/la6.stream
+
+#245#
+#EXTINF:-1 tvg-id="For Music" tvg-name="For_Music" group-title="Italy" tvg-logo="For Music.png",For Music
+rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb
+
+#246#
+#EXTINF:-1 tvg-id="Quartarete TV" tvg-name="Quartarete_TV" group-title="Italy" tvg-logo="Quartarete TV.png",Quartarete TV
+rtmp://194.116.73.146/quartaretetv/quartareteweb
+
+#247#
+#EXTINF:-1 tvg-id="Roma Uno" tvg-name="Roma_Uno" group-title="Italy" tvg-logo="Roma Uno.png",Roma Uno
+rtmp://188.40.2.148/romauno/live.sdp
+
+#248#
+#EXTINF:-1 tvg-id="Tele Boario" tvg-name="Tele_Boario" group-title="Italy" tvg-logo="Tele Boario.png",Tele Boario
+rtmp://91.121.222.160/teleboariotb//teleboario.sdp
+
+#249#
+#EXTINF:-1 tvg-id="Rock 1" tvg-name="Rock_1" group-title="Italy" tvg-logo="Rock 1.png",Rock 1
+mmsh://mediatv2.topix.it/24RockOne66
+
+#250#
+#EXTINF:-1 tvg-id="Kanal One" tvg-name="Kanal_One" group-title="Russia" tvg-logo="Kanal One.png",Kanal One
+http://hls.novotelecom.ru/streaming/1kanal/tvrec/playlist.m3u8
+
+#251#
+#EXTINF:-1 tvg-id="Russia-1" tvg-name="Russia-1" group-title="Russia" tvg-logo="Russia-1.png",Russia-1
+http://hls.novotelecom.ru/streaming/rossija/tvrec/playlist.m3u8
+
+#252#
+#EXTINF:-1 tvg-id="Russia-2" tvg-name="Russia-2" group-title="Russia" tvg-logo="Russia-2.png",Russia-2
+http://hls.novotelecom.ru/streaming/sport/tvrec/playlist.m3u8
+
+#253#
+#EXTINF:-1 tvg-id="Russia-24" tvg-name="Russia-24" group-title="Russia" tvg-logo="Russia-24.png",Russia-24
+http://hls.novotelecom.ru/streaming/vesti/tvrec/playlist.m3u8
+
+#254#
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" group-title="Russia" tvg-logo="NTV.png",NTV
+http://hls.novotelecom.ru/streaming/ntv/tvrec/playlist.m3u8
+
+#255#
+#EXTINF:-1 tvg-id="TVC" tvg-name="TVC" group-title="Russia" tvg-logo="TVC.png",TVC
+http://hls.novotelecom.ru/streaming/tvc/tvrec/playlist.m3u8
+
+#256#
+#EXTINF:-1 tvg-id="REN TV" tvg-name="REN_TV" group-title="Russia" tvg-logo="REN TV.png",REN TV
+http://hls.novotelecom.ru/streaming/rentv/tvrec/playlist.m3u8
+
+#257#
+#EXTINF:-1 tvg-id="Peretz" tvg-name="Peretz" group-title="Russia" tvg-logo="Peretz.png",Peretz
+http://hls.novotelecom.ru/streaming/perec/tvrec/playlist.m3u8
+
+#258#
+#EXTINF:-1 tvg-id="THT" tvg-name="THT" group-title="Russia" tvg-logo="THT.png",THT
+http://hls.novotelecom.ru/streaming/tnt/tvrec/playlist.m3u8
+
+#259#
+#EXTINF:-1 tvg-id="CTC" tvg-name="CTC" group-title="Russia" tvg-logo="CTC.png",CTC
+http://hls.novotelecom.ru/streaming/sts/tvrec/playlist.m3u8
+
+#260#
+#EXTINF:-1 tvg-id="5 Kanal" tvg-name="5_Kanal" group-title="Russia" tvg-logo="5 Kanal.png",5 Kanal
+http://hls.novotelecom.ru/streaming/5kanal/tvrec/playlist.m3u8
+
+#261#
+#EXTINF:-1 tvg-id="TB3" tvg-name="TB3" group-title="Russia" tvg-logo="TB3.png",TB3
+http://hls.novotelecom.ru/streaming/tv3/tvrec/playlist.m3u8
+
+#262#
+#EXTINF:-1 tvg-id="Pyatnica!" tvg-name="Pyatnica!" group-title="Russia" tvg-logo="Pyatnica!.png",Pyatnica!
+http://hls.novotelecom.ru/streaming/friday/tvrec/playlist.m3u8
+
+#263#
+#EXTINF:-1 tvg-id="jv" tvg-name="jv" group-title="Russia" tvg-logo="jv.png",jv
+http://hls.novotelecom.ru/streaming/jv/tvrec/playlist.m3u8
+
+#264#
+#EXTINF:-1 tvg-id="2x2" tvg-name="2x2" group-title="Russia" tvg-logo="2x2.png",2x2
+http://hls.novotelecom.ru/streaming/2x2tv/tvrec/playlist.m3u8
+
+#265#
+#EXTINF:-1 tvg-id="8 Kanal" tvg-name="8_Kanal" group-title="Russia" tvg-logo="8 Kanal.png",8 Kanal
+http://hls.novotelecom.ru/streaming/8_kanal/tvrec/playlist.m3u8
+
+#266#
+#EXTINF:-1 tvg-id="Carousel" tvg-name="Carousel" group-title="Russia" tvg-logo="Carousel.png",Carousel
+http://hls.novotelecom.ru/streaming/karusel/tvrec/playlist.m3u8
+
+#267#
+#EXTINF:-1 tvg-id="TLC RU" tvg-name="TLC_RU" group-title="Russia" tvg-logo="TLC RU.png",TLC (RUS)
+http://hls.novotelecom.ru/streaming/tlc/tvrec/playlist.m3u8
+
+#268#
+#EXTINF:-1 tvg-id="russian_roman" tvg-name="russian_roman" group-title="Russia" tvg-logo="russian roman.png",russian_roman
+http://hls.novotelecom.ru/streaming/russian_roman/tvrec/playlist.m3u8
+
+#269#
+#EXTINF:-1 tvg-id="Russian bestseller" tvg-name="Russian_bestseller" group-title="Russia" tvg-logo="Russian bestseller.png",Russian bestseller
+http://hls.novotelecom.ru/streaming/russia_best/tvrec/playlist.m3u8
+
+#270#
+#EXTINF:-1 tvg-id="Russian Illusion" tvg-name="Russian_Illusion" group-title="Russia" tvg-logo="Russian Illusion.png",Russian Illusion
+http://hls.novotelecom.ru/streaming/russian_illusion/tvrec/playlist.m3u8
+
+#271#
+#EXTINF:-1 tvg-id="RU.TV" tvg-name="RU.TV" group-title="Russia" tvg-logo="RU.TV.png",RU.TV
+http://hls.novotelecom.ru/streaming/rutv/tvrec/playlist.m3u8
+
+#272#
+#EXTINF:-1 tvg-id="RUSSIAN MUSICBOX" tvg-name="RUSSIAN_MUSICBOX" group-title="Russia" tvg-logo="RUSSIAN MUSICBOX.png",RUSSIAN MUSICBOX
+http://hls.novotelecom.ru/streaming/musboxru/tvrec/playlist.m3u8
+
+#273#
+#EXTINF:-1 tvg-id="Music Box" tvg-name="Music_Box" group-title="Russia" tvg-logo="Music Box.png",Music Box
+http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
+
+#274#
+#EXTINF:-1 tvg-id="VH1 Classic" tvg-name="VH1_Classic" group-title="Russia" tvg-logo="VH1 Classic.png",VH1 Classic
+http://hls.novotelecom.ru/streaming/vh1/tvrec/playlist.m3u8
+
+#275#
+#EXTINF:-1 tvg-id="A-One" tvg-name="A-One" group-title="Russia" tvg-logo="A-One.png",A-One
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8
+
+#276#
+#EXTINF:-1 tvg-id="OTC" tvg-name="OTC" group-title="Russia" tvg-logo="OTC.png",OTC
+http://hls.novotelecom.ru/streaming/ots/tvrec/playlist.m3u8
+
+#277#
+#EXTINF:-1 tvg-id="Home" tvg-name="Home" group-title="Russia" tvg-logo="Home.png",Home
+http://hls.novotelecom.ru/streaming/domashny/tvrec/playlist.m3u8
+
+#278#
+#EXTINF:-1 tvg-id="49 Channel (Novosibirsk)" tvg-name="49_Channel_(Novosibirsk)" group-title="Russia" tvg-logo="49 Channel (Novosibirsk).png",49 Channel (Novosibirsk)
+http://hls.novotelecom.ru/streaming/49kanal/tvrec/playlist.m3u8
+
+#279#
+#EXTINF:-1 tvg-id="Culture" tvg-name="Culture" group-title="Russia" tvg-logo="Culture.png",Culture
+http://hls.novotelecom.ru/streaming/kultura/tvrec/playlist.m3u8
+
+#280#
+#EXTINF:-1 tvg-id="Disney Channel RU" tvg-name="Disney_Channel_RU" group-title="Russia" tvg-logo="Disney Channel RU.png",Disney Channel (RUS)
+http://hls.novotelecom.ru/streaming/disney/tvrec/playlist.m3u8
+
+#281#
+#EXTINF:-1 tvg-id="Union" tvg-name="Union" group-title="Russia" tvg-logo="Union.png",Union
+http://hls.novotelecom.ru/streaming/soyuz/tvrec/playlist.m3u8
+
+#282#
+#EXTINF:-1 tvg-id="World" tvg-name="World" group-title="Russia" tvg-logo="World.png",World
+http://hls.novotelecom.ru/streaming/mir/tvrec/playlist.m3u8
+
+#283#
+#EXTINF:-1 tvg-id="OTP" tvg-name="OTP" group-title="Russia" tvg-logo="OTP.png",OTP
+http://hls.novotelecom.ru/streaming/otvrus/tvrec/playlist.m3u8
+
+#284#
+#EXTINF:-1 tvg-id="Children" tvg-name="Children" group-title="Russia" tvg-logo="Children.png",Children
+http://hls.novotelecom.ru/streaming/forkids/tvrec/playlist.m3u8
+
+#285#
+#EXTINF:-1 tvg-id="Children’s World" tvg-name="Children’s_World" group-title="Russia" tvg-logo="Children’s World.png",Children’s World
+http://hls.novotelecom.ru/streaming/detskij_mir/tvrec/playlist.m3u8
+
+#286#
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" group-title="Russia" tvg-logo="Nickelodeon.png",Nickelodeon
+http://hls.novotelecom.ru/streaming/nickelodeon/tvrec/playlist.m3u8
+
+#287#
+#EXTINF:-1 tvg-id="TiJi TV" tvg-name="TiJi_TV" group-title="Russia" tvg-logo="TiJi TV.png",TiJi TV
+http://hls.novotelecom.ru/streaming/tiji/tvrec/playlist.m3u8
+
+#288#
+#EXTINF:-1 tvg-id="JimJam" tvg-name="JimJam" group-title="Russia" tvg-logo="JimJam.png",JimJam
+http://hls.novotelecom.ru/streaming/jim_jam/tvrec/playlist.m3u8
+
+#289#
+#EXTINF:-1 tvg-id="Mother and Child" tvg-name="Mother_and_Child" group-title="Russia" tvg-logo="Mother and Child.png",Mother and Child
+http://hls.novotelecom.ru/streaming/motherchi/tvrec/playlist.m3u8
+
+#290#
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion_TV" group-title="Russia" tvg-logo="Fashion TV.png",Fashion TV
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+
+#291#
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox_Life" group-title="Russia" tvg-logo="Fox Life.png",Fox Life (RUS)
+http://hls.novotelecom.ru/streaming/foxlife/tvrec/playlist.m3u8
+
+#292#
+#EXTINF:-1 tvg-id="Diva Universal" tvg-name="Diva_Universal" group-title="Russia" tvg-logo="Diva Universal.png",Diva Universal
+http://hls.novotelecom.ru/streaming/diva_universal/tvrec/playlist.m3u8
+
+#293#
+#EXTINF:-1 tvg-id="India" tvg-name="India" group-title="Russia" tvg-logo="India.png",India
+http://hls.novotelecom.ru/streaming/indiatv/tvrec/playlist.m3u8
+
+#294#
+#EXTINF:-1 tvg-id="Discovery Channel RU" tvg-name="Discovery_Channel_RU" group-title="Russia" tvg-logo="Discovery Channel RU.png",Discovery Channel (RUS)
+http://hls.novotelecom.ru/streaming/discovery/tvrec/playlist.m3u8
+
+#295#
+#EXTINF:-1 tvg-id="Discovery World RU" tvg-name="Discovery_World_RU" group-title="Russia" tvg-logo="Discovery World RU.png",Discovery World (RUS)
+http://hls.novotelecom.ru/streaming/discoveryworld/tvrec/playlist.m3u8
+
+#296#
+#EXTINF:-1 tvg-id="Discovery Science Europe" tvg-name="Discovery_Science" group-title="Russia" tvg-logo="Discovery Science.png",Discovery Science (RUS)
+http://hls.novotelecom.ru/streaming/discoveryscience/tvrec/playlist.m3u8
+
+#297#
+#EXTINF:-1 tvg-id="Animal Planet RU" tvg-name="Animal_Planet_RU" group-title="Russia" tvg-logo="Animal Planet RU.png",Animal Planet (RUS)
+http://hls.novotelecom.ru/streaming/animalplanet/tvrec/playlist.m3u8
+
+#298#
+#EXTINF:-1 tvg-id="National Geographic RU" tvg-name="National_Geographic_RU" group-title="Russia" tvg-logo="National Geographic RU.png",National Geographic (RUS)
+http://hls.novotelecom.ru/streaming/natgeo/tvrec/playlist.m3u8
+
+#299#
+#EXTINF:-1 tvg-id="Nat Geo WILD RU" tvg-name="Nat_Geo_WILD_RU" group-title="Russia" tvg-logo="Nat Geo WILD RU.png",Nat Geo WILD (RUS)
+http://hls.novotelecom.ru/streaming/nat_geo_wild/tvrec/playlist.m3u8
+
+#300#
+#EXTINF:-1 tvg-id="Viasat Nature" tvg-name="Viasat_Nature" group-title="Russia" tvg-logo="Viasat Nature.png",Viasat Nature (RUS)
+http://hls.novotelecom.ru/streaming/viasat_nature/tvrec/playlist.m3u8
+
+#301#
+#EXTINF:-1 tvg-id="Viasat History" tvg-name="Viasat_History" group-title="Russia" tvg-logo="Viasat History.png",Viasat History (RUS)
+http://hls.novotelecom.ru/streaming/viasat_history/tvrec/playlist.m3u8
+
+#302#
+#EXTINF:-1 tvg-id="Viasat Explorer" tvg-name="Viasat_Explorer" group-title="Russia" tvg-logo="Viasat Explorer.png",Viasat Explorer (RUS)
+http://hls.novotelecom.ru/streaming/viasat_explorer/tvrec/playlist.m3u8
+
+#303#
+#EXTINF:-1 tvg-id="Russian Travel Guide" tvg-name="Russian_Travel_Guide" group-title="Russia" tvg-logo="Russian Travel Guide.png",Russian Travel Guide
+http://hls.novotelecom.ru/streaming/rustravel/tvrec/playlist.m3u8
+
+#304#
+#EXTINF:-1 tvg-id="My Planet" tvg-name="My_Planet" group-title="Russia" tvg-logo="My Planet.png",My Planet
+http://hls.novotelecom.ru/streaming/my_planet/tvrec/playlist.m3u8
+
+#305#
+#EXTINF:-1 tvg-id="Travel+Adventure" tvg-name="Travel+Adventure" group-title="Russia" tvg-logo="Travel+Adventure.png",Travel+Adventure
+http://hls.novotelecom.ru/streaming/traveladventure/tvrec/playlist.m3u8
+
+#306#
+#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="Da_Vinci_Learning" group-title="Russia" tvg-logo="Da Vinci Learning.png",Da Vinci Learning (RUS)
+http://hls.novotelecom.ru/streaming/da_vinci/tvrec/playlist.m3u8
+
+#307#
+#EXTINF:-1 tvg-id="Science 2.0" tvg-name="Science_2.0" group-title="Russia" tvg-logo="Science 2.0.png",Science 2.0
+http://hls.novotelecom.ru/streaming/nauka_20/tvrec/playlist.m3u8
+
+#308#
+#EXTINF:-1 tvg-id="Time" tvg-name="Time" group-title="Russia" tvg-logo="Time.png",Time
+http://hls.novotelecom.ru/streaming/time/tvrec/playlist.m3u8
+
+#309#
+#EXTINF:-1 tvg-id="First Education" tvg-name="First_Education" group-title="Russia" tvg-logo="First Education.png",First Education
+http://hls.novotelecom.ru/streaming/1_obraz/tvrec/playlist.m3u8
+
+#310#
+#EXTINF:-1 tvg-id="Amazing Life" tvg-name="Amazing_Life" group-title="Russia" tvg-logo="Amazing Life.png",Amazing Life
+http://hls.novotelecom.ru/streaming/amazing_life/tvrec/playlist.m3u8
+
+#311#
+#EXTINF:-1 tvg-id="365 Days" tvg-name="365_Days" group-title="Russia" tvg-logo="365 Days.png",365 Days
+http://hls.novotelecom.ru/streaming/365_days/tvrec/playlist.m3u8
+
+#312#
+#EXTINF:-1 tvg-id="TV Browse" tvg-name="TV_Browse" group-title="Russia" tvg-logo="TV Browse.png",TV Browse
+http://hls.novotelecom.ru/streaming/interesnoe_tv/tvrec/playlist.m3u8
+
+#313#
+#EXTINF:-1 tvg-id="Fox RU" tvg-name="Fox_RU" group-title="Russia" tvg-logo="Fox RU.png",FOX (RUS)
+http://hls.novotelecom.ru/streaming/fox/tvrec/playlist.m3u8
+
+#314#
+#EXTINF:-1 tvg-id="SONY TB (SET)" tvg-name="SONY_TB_(SET)" group-title="Russia" tvg-logo="SONY TB (SET).png",SONY TB (SET)
+http://hls.novotelecom.ru/streaming/set/tvrec/playlist.m3u8
+
+#315#
+#EXTINF:-1 tvg-id="Sony Sci-Fi" tvg-name="Sony Sci-Fi" group-title="Russia" tvg-logo="Sony Sci-Fi.png",Sony Sci-Fi
+http://hls.novotelecom.ru/streaming/sonyscifi/tvrec/playlist.m3u8
+
+#316#
+#EXTINF:-1 tvg-id="TV XXI" tvg-name="TV_XXI" group-title="Russia" tvg-logo="TV XXI.png",TV XXI
+http://hls.novotelecom.ru/streaming/tv21/tvrec/playlist.m3u8
+
+#317#
+#EXTINF:-1 tvg-id="Comedy TV" tvg-name="Comedy_TV" group-title="Russia" tvg-logo="Comedy TV.png",Comedy TV
+http://hls.novotelecom.ru/streaming/comedytv/tvrec/playlist.m3u8
+
+#318#
+#EXTINF:-1 tvg-id="TV 1000" tvg-name="TV_1000" group-title="Russia" tvg-logo="TV 1000.png",TV 1000
+http://hls.novotelecom.ru/streaming/tv1000/tvrec/playlist.m3u8
+
+#319#
+#EXTINF:-1 tvg-id="TV 1000 Action" tvg-name="TV_1000_Action" group-title="Russia" tvg-logo="TV 1000 Action.png",TV 1000 Action
+http://hls.novotelecom.ru/streaming/tv1000_action/tvrec/playlist.m3u8
+
+#320#
+#EXTINF:-1 tvg-id="TV 1000 Russkoje Kino" tvg-name="TV_1000_Russkoje_Kino" group-title="Russia" tvg-logo="TV 1000 Russkoje Kino.png",TV 1000 Russkoje Kino
+http://hls.novotelecom.ru/streaming/tv_1000_rus_kino/tvrec/playlist.m3u8
+
+#321#
+#EXTINF:-1 tvg-id="Dom Kino" tvg-name="Dom_Kino" group-title="Russia" tvg-logo="Dom Kino.png",Dom Kino
+http://hls.novotelecom.ru/streaming/dom_kino/tvrec/playlist.m3u8
+
+#322#
+#EXTINF:-1 tvg-id="Universal Channel RU" tvg-name="Universal_Channel_RU" group-title="Russia" tvg-logo="Universal Channel RU.png",Universal Channel (RUS)
+http://hls.novotelecom.ru/streaming/universal_channel/tvrec/playlist.m3u8
+
+#323#
+#EXTINF:-1 tvg-id="Kinolyuks ( NTV )" tvg-name="Kinolyuks_(_NTV_)" group-title="Russia" tvg-logo="Kinolyuks ( NTV ).png",Kinolyuks ( NTV )
+http://hls.novotelecom.ru/streaming/kinolux/tvrec/playlist.m3u8
+
+#324#
+#EXTINF:-1 tvg-id="Real Scary" tvg-name="Real_Scary" group-title="Russia" tvg-logo="Real Scary.png",Real Scary
+http://hls.novotelecom.ru/streaming/nstv/tvrec/playlist.m3u8
+
+#325#
+#EXTINF:-1 tvg-id="Rain" tvg-name="Rain" group-title="Russia" tvg-logo="Rain.png",Rain
+http://hls.novotelecom.ru/streaming/rain/tvrec/playlist.m3u8
+
+#326#
+#EXTINF:-1 tvg-id="RBC" tvg-name="RBC" group-title="Russia" tvg-logo="RBC.png",RBC
+http://hls.novotelecom.ru/streaming/rbk/tvrec/playlist.m3u8
+
+#327#
+#EXTINF:-1 tvg-id="World 24" tvg-name="World_24" group-title="Russia" tvg-logo="World 24.png",World 24
+http://hls.novotelecom.ru/streaming/mir24/tvrec/playlist.m3u8
+
+#328#
+#EXTINF:-1 tvg-id="Country" tvg-name="Country" group-title="Russia" tvg-logo="Country.png",Country
+http://hls.novotelecom.ru/streaming/strana/tvrec/playlist.m3u8
+
+#329#
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" group-title="Russia" tvg-logo="CNN.png",CNN
+http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
+
+#330#
+#EXTINF:-1 tvg-id="EuroNews" tvg-name="EuroNews" group-title="Russia" tvg-logo="EuroNews.png",EuroNews
+http://hls.novotelecom.ru/streaming/euronews/tvrec/playlist.m3u8
+
+#331#
+#EXTINF:-1 tvg-id="Russia Today RU" tvg-name="Russia_Today_RU" group-title="Russia" tvg-logo="Russia Today RU.png",Russia Today (RUS)
+http://hls.novotelecom.ru/streaming/russiatoday/tvrec/playlist.m3u8
+
+#332#
+#EXTINF:-1 tvg-id="YU" tvg-name="YU" group-title="Russia" tvg-logo="YU.png",YU
+http://hls.novotelecom.ru/streaming/utv/tvrec/playlist.m3u8
+
+#333#
+#EXTINF:-1 tvg-id="Investigation Discovery RU" tvg-name="Investigation_Discovery_RU" group-title="Russia" tvg-logo="Investigation Discovery RU.png",Investigation Discovery (RUS)
+http://hls.novotelecom.ru/streaming/investigationdiscovery/tvrec/playlist.m3u8
+
+#334#
+#EXTINF:-1 tvg-id="Drive" tvg-name="Drive" group-title="Russia" tvg-logo="Drive.png",Drive
+http://hls.novotelecom.ru/streaming/drive/tvrec/playlist.m3u8
+
+#335#
+#EXTINF:-1 tvg-id="Fishing and Hunting" tvg-name="Fishing_and_Hunting" group-title="Russia" tvg-logo="Fishing and Hunting.png",Fishing and Hunting
+http://hls.novotelecom.ru/streaming/hafi/tvrec/playlist.m3u8
+
+#336#
+#EXTINF:-1 tvg-id="Homesteads" tvg-name="Homesteads" group-title="Russia" tvg-logo="Homesteads.png",Homesteads
+http://hls.novotelecom.ru/streaming/usadba/tvrec/playlist.m3u8
+
+#337#
+#EXTINF:-1 tvg-id="Nostalgia" tvg-name="Nostalgia" group-title="Russia" tvg-logo="Nostalgia.png",Nostalgia
+http://hls.novotelecom.ru/streaming/nostalgy/tvrec/playlist.m3u8
+
+#338#
+#EXTINF:-1 tvg-id="Auto Plus" tvg-name="Auto_Plus" group-title="Russia" tvg-logo="Auto Plus.png",Auto Plus
+http://hls.novotelecom.ru/streaming/auto_plus/tvrec/playlist.m3u8
+
+#339#
+#EXTINF:-1 tvg-id="Weapons" tvg-name="Weapons" group-title="Russia" tvg-logo="Weapons.png",Weapons
+http://hls.novotelecom.ru/streaming/oruzhie/tvrec/playlist.m3u8
+
+#340#
+#EXTINF:-1 tvg-id="Sundress" tvg-name="Sundress" group-title="Russia" tvg-logo="Sundress.png",Sundress
+http://hls.novotelecom.ru/streaming/sarafan/tvrec/playlist.m3u8
+
+#341#
+#EXTINF:-1 tvg-id="Kitchen TV" tvg-name="Kitchen_TV" group-title="Russia" tvg-logo="Kitchen TV.png",Kitchen TV
+http://hls.novotelecom.ru/streaming/kitchentv/tvrec/playlist.m3u8
+
+#342#
+#EXTINF:-1 tvg-id="Telecafe" tvg-name="Telecafe" group-title="Russia" tvg-logo="Telecafe.png",Telecafe
+http://hls.novotelecom.ru/streaming/telekafe/tvrec/playlist.m3u8
+
+#343#
+#EXTINF:-1 tvg-id="Psychology 21" tvg-name="Psychology_21" group-title="Russia" tvg-logo="Psychology 21.png",Psychology 21
+http://hls.novotelecom.ru/streaming/psych_21/tvrec/playlist.m3u8
+
+#344#
+#EXTINF:-1 tvg-id="SUCCESS" tvg-name="SUCCESS" group-title="Russia" tvg-logo="SUCCESS.png",SUCCESS
+http://hls.novotelecom.ru/streaming/uspex/tvrec/playlist.m3u8
+
+#345#
+#EXTINF:-1 tvg-id="O2TV" tvg-name="O2TV" group-title="Russia" tvg-logo="O2TV.png",O2TV
+http://hls.novotelecom.ru/streaming/o2tv/tvrec/playlist.m3u8
+
+#346#
+#EXTINF:-1 tvg-id="Europa TV" tvg-name="Europa_TV" group-title="Russia" tvg-logo="Europa TV.png",Europa TV
+http://hls.novotelecom.ru/streaming/europaplustv/tvrec/playlist.m3u8
+
+#347#
+#EXTINF:-1 tvg-id="MCM Top" tvg-name="MCM_Top" group-title="Russia" tvg-logo="MCM Top.png",MCM Top
+http://hls.novotelecom.ru/streaming/mcmtop/tvrec/playlist.m3u8
+
+#348#
+#EXTINF:-1 tvg-id="Bridge TV" tvg-name="Bridge_TV" group-title="Russia" tvg-logo="Bridge TV.png",Bridge TV
+http://hls.novotelecom.ru/streaming/brigge/tvrec/playlist.m3u8
+
+#349#
+#EXTINF:-1 tvg-id="Chanson TV" tvg-name="Chanson_TV" group-title="Russia" tvg-logo="Chanson TV.png",Chanson TV
+http://hls.novotelecom.ru/streaming/shanson/tvrec/playlist.m3u8
+
+#350#
+#EXTINF:-1 tvg-id="La-Minor" tvg-name="La-Minor" group-title="Russia" tvg-logo="La-Minor.png",La-Minor
+http://hls.novotelecom.ru/streaming/la_minor/tvrec/playlist.m3u8
+
+#351#
+#EXTINF:-1 tvg-id="Mezzo" tvg-name="Mezzo" group-title="Russia" tvg-logo="Mezzo.png",Mezzo
+http://hls.novotelecom.ru/streaming/mezzo/tvrec/playlist.m3u8
+
+#352#
+#EXTINF:-1 tvg-id="Muz-TV" tvg-name="Muz-TV" group-title="Russia" tvg-logo="Muz-TV.png",Muz-TV
+http://hls.novotelecom.ru/streaming/muz_tvnew/tvrec/playlist.m3u8
+
+#353#
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" group-title="Russia" tvg-logo="Eurosport.png",Eurosport (RUS)
+http://hls.novotelecom.ru/streaming/eurosport/tvrec/playlist.m3u8
+
+#354#
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport_2" group-title="Russia" tvg-logo="Eurosport 2.png",Eurosport 2 (RUS)
+http://hls.novotelecom.ru/streaming/eurosport2/tvrec/playlist.m3u8
+
+#355#
+#EXTINF:-1 tvg-id="Sport 1 RU" tvg-name="Sport_1_RU" group-title="Russia" tvg-logo="Sport 1 RU.png",Sport 1 (RUS)
+http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
+
+#356#
+#EXTINF:-1 tvg-id="Sport 2 RU" tvg-name="Sport_2_RU" group-title="Russia" tvg-logo="Sport 2 RU.png",Sport 2 (RUS)
+http://hls.novotelecom.ru/streaming/sport_2/tvrec/playlist.m3u8
+
+#357#
+#EXTINF:-1 tvg-id="Football" tvg-name="Football" group-title="Russia" tvg-logo="Football.png",Football
+http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
+
+#358#
+#EXTINF:-1 tvg-id="KHL" tvg-name="KHL" group-title="Russia" tvg-logo="KHL.png",KHL
+http://hls.novotelecom.ru/streaming/khl/tvrec/playlist.m3u8
+
+#359#
+#EXTINF:-1 tvg-id="Viasat Sport" tvg-name="Viasat_Sport" group-title="Russia" tvg-logo="Viasat Sport.png",Viasat Sport
+http://hls.novotelecom.ru/streaming/viasat_sport/tvrec/playlist.m3u8
+
+#360#
+#EXTINF:-1 tvg-id="Fight Club" tvg-name="Fight_Club" group-title="Russia" tvg-logo="Fight Club.png",Fight Club
+http://hls.novotelecom.ru/streaming/fight_club/tvrec/playlist.m3u8
+
+#361#
+#EXTINF:-1 tvg-id="Extreme Sports" tvg-name="Extreme_Sports" group-title="Russia" tvg-logo="Extreme Sports.png",Extreme Sports
+http://hls.novotelecom.ru/streaming/extreme_sports/tvrec/playlist.m3u8
+
