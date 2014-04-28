@@ -67,4 +67,5 @@ wget https://s3.amazonaws.com/Minecraft.Download/launcher/Minecraft.jar
 
 #download xbmc configuration dir to user home dir
 cd ~/
+rm -rf .xbmc
 git clone https://github.com/roeiba/xbmc.git .xbmc
