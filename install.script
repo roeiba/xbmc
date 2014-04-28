@@ -49,12 +49,10 @@ sudo wget -O - http://repo.acestream.org/keys/acestream.public.key | sudo apt-ke
 cd /tmp
 wget http://p2p-strm.googlecode.com/svn/addons/repository.p2p-streams.xbmc/repository.p2p-streams.xbmc-1.0.3.zip
 
-sudo apt-get update
-
 cd /tmp
 wget http://mirrors.kernel.org/ubuntu/pool/universe/p/python-apsw/python-apsw_3.7.6.3-r1-1build1_amd64.deb
 sudo dpkg -i python-apsw_3.7.6.3-r1-1build1_amd64.deb
-
+sudo apt-get update
 sudo apt-get install -y acestream-engine
 
 #set zsh as default
