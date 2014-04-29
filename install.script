@@ -69,3 +69,7 @@ wget https://s3.amazonaws.com/Minecraft.Download/launcher/Minecraft.jar
 cd ~/
 rm -rf .xbmc
 git clone https://github.com/roeiba/xbmc.git .xbmc
+
+echo -----------------------------------------------------------------------------------\n\n
+echo Installation completed ! !\n\n
+echo -----------------------------------------------------------------------------------
